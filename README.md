@@ -1,3 +1,4 @@
+# 영어 단어장
 # 설명
 (명) 명사 noun   
 (형) 형용사 adjective   
@@ -79,3 +80,27 @@ affect
 specification
 > (명) 명세서
 
+infrared
+> (명) 적외선, 스펙트럼의 적외선 영역
+> (형) 적외선의
+
+harmless
+> (형) 해가 없는, 해를 끼치지 않는
+
+reliable
+> (형) 신뢰할 수 있는
+
+detection
+> (명) 발각, 간파, 감지
+
+emit
+> (동) 방사하다, 방출하다
+
+ceiling
+> (명) 천장, 상승 한계, 최고 한도
+
+pedestal
+> (명) 받침대, 기초
+
+crucial
+> (형) 결정적인, 중대한

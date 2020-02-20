@@ -15,15 +15,7 @@ adv. 부사 adverb
 
 prep. 전치사 preposition   
 
-# 1
-capitalize
-> v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
-
-phrase
-> n. 구, 몆 개의 단어로 이루어진 숙어, 둘 이상의 단어가 모여 절이나 문장의 일부분을 이루는 토막
-
-who
-> pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
+g. 문법 grammar   
 
 # 2
 line breaking
@@ -85,6 +77,15 @@ inconvenience
 requirement
 > n. 요구사항
 
+known
+> adj. 알려진, 모두 다 아는
+
+intuitive
+> adj. 직관적인
+
+accessivle
+> adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
+
 # 4
 variable 
 > adj. 변하기 쉬운   
@@ -112,6 +113,28 @@ manually
 > adv. 수동으로
 
 # 5
+familiar
+> adj. 익숙한, 친한
+
+except
+> prep. ~외에
+> v. 제외하다
+
+modify
+> v. 수정하다
+
+adjust
+> v. 맞추다, 조정하다, 조절하다
+
+make sure
+> pv. 확인하다
+
+find out
+> pv. 찾아내다, 발견하다
+
+malformed
+> adj. 흉하게 생긴, 잘못된
+
 # 6
 # 7
 # 8
@@ -228,3 +251,24 @@ accumulate
 
 determine
 > v. 결정하다, 정하다, 끝내다, 결심하다
+
+invoke
+> v. 부르다
+
+such as
+> g. ~과 같은, 언급한 것의 예시를 소개하기 위해 사용
+
+compromise
+> v. 손상되다, 더럽히다
+
+capitalize
+> v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
+
+phrase
+> n. 구, 몆 개의 단어로 이루어진 숙어, 둘 이상의 단어가 모여 절이나 문장의 일부분을 이루는 토막
+
+who
+> pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
+
+put - on
+> pv. 입다, 붙이다, 신다, 놓다

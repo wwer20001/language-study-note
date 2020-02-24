@@ -75,7 +75,7 @@ accquire
 > v. 얻다
 
 via
-> v. 통하다
+> v. 통하다   
 > prep. ~에 의하여, ~을 경유하여
 
 democratize
@@ -149,7 +149,7 @@ unstable
 > adj. 불안정한
 
 anywhere
-> pron. 어딘가
+> pron. 어딘가   
 > adv. 어딘가에, 어디든지
 
 even if
@@ -162,7 +162,7 @@ subtitle
 > n. 자막
 
 reach
-> n. 범위
+> n. 범위   
 > v. 뻗다, 내밀다, 닿다
 
 probably
@@ -198,7 +198,7 @@ familiar
 > adj. 익숙한, 친한
 
 except
-> prep. ~외에
+> prep. ~외에   
 > v. 제외하다
 
 modify
@@ -238,8 +238,8 @@ institutional
 > adj. 제도적인
 
 might
-> n. (강력한)힘 또는 권력
-> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다
+> n. (강력한)힘 또는 권력   
+> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
 > v. (현재 또는 과거의 가능성으로)~할 수 있다
 
 extra
@@ -307,7 +307,7 @@ accuracy
 > n. 정확성, 정확
 
 ideal
-> n. 이상
+> n. 이상   
 > adj. 이상의, 관념적인
 
 calibration
@@ -340,7 +340,7 @@ specification
 > n. 명세서
 
 infrared
-> n. 적외선, 스펙트럼의 적외선 영역
+> n. 적외선, 스펙트럼의 적외선 영역   
 > adj. 적외선의
 
 harmless
@@ -374,7 +374,7 @@ production
 > n. 생산, 제품, 연출
 
 blend
-> n. 조화, 혼합
+> n. 조화, 혼합   
 > v. 섞다, 섞이다, 잘되다, 조제하다
 
 simplicity
@@ -486,7 +486,7 @@ eliminate
 > v. 죽이다, 제거하다
 
 opaque
-> n. 불투명체
+> n. 불투명체   
 > adj. 불투명한, 광택이 없는, 부전도성의
 
 appropriate
@@ -502,7 +502,7 @@ distortion
 > n. 왜곡
 
 experiment
-> n. 실험
+> n. 실험   
 > v. 실험하다
 
 permanently
@@ -518,7 +518,7 @@ registry
 > n. 기재, 등록
 
 central
-> n. 본부
+> n. 본부   
 > adj. 중심의, 중심적인
 
 wear
@@ -528,7 +528,7 @@ worn
 > v. wear의 과거형. 입었다, 착용했다.
 
 manufacture
-> n. 제작, 제조
+> n. 제작, 제조   
 > v. 제작하다, 제조하다
 
 mess up

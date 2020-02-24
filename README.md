@@ -11,6 +11,8 @@ v. 동사 verb
 pv. 동사구 phrasal verb : 동사의 구실을 하는 구
 > 구 Phrase : 둘 이상의 단어가 모여 절이나 문장의 일부분을 이루는 토막
 
+av. 조동사 auxiliary verb
+
 adv. 부사 adverb   
 
 prep. 전치사 preposition   
@@ -18,6 +20,8 @@ prep. 전치사 preposition
 g. 문법 grammar   
 
 conj. 접속사 conjunction
+
+abb. 약어 abbreviation
 
 # 3
 
@@ -299,7 +303,121 @@ as - as ~
 violate
 > v. 위반하다, 방해하다
 
+indicator
+> n. 지시자
+
+explicitly
+> adv. 명시적으로
+
+validate
+> v. 검증하다, 유효하게 하다
+
+hold
+> v. 잡다, 보유하다
+
+evaluation
+> n. 평가
+
+roughly
+> adv. 대충, 대강
+
+luggage
+> n. 짐
+
+assessument
+> n. 평가
+
+take place
+> pv. 일어나다, ~하고있다 (happen, occur)
+
+be able to
+> g. 가능하다.
+
+most
+> adv. 대부분의
+
+to do this
+> g. 이것을 하기 위해
+
+having a trouble
+> g. 문제가 있다.
+
+worse
+> adj. 보다 나쁜, 악화되는
+
+precedence over
+> n. 우선권
+
+strategy
+> n. 전략
+
+neither
+> adv. A도 아니고 B도 아닌
+
+prefer
+> v. 취하다, ~에게 우선권을 주다
+
+serve
+> v. 섬기다, 보조하다
+
+serve as
+> pv. ~의 역할을 하다, ~으로 사용하다
+
+guarantee
+> n. 보증
+
+exactly
+> adv. 정확하게
+
+aware
+> v. 인식하다
+
+inspect
+> v. 점검하다
+
+mutable
+> adj. 변하기 쉬운
+
+immutable
+> adj. 불변의, 변하지 않는
+
+dedicated
+> adj. 전용의, 전담
+
+programmatically
+> adv. 프로그래밍 방식으로
+
+obtain
+> v. 얻다, 획득하다
+
 # 6
+ensure
+> v. 보장하다, 안전하게 하다
+
+get ~ done
+> pv. 끝내다, ~을 끝내다
+
+finish
+> v. 끝내다
+
+grab a seat
+> pv. 자리를 잡다
+
+typically
+> adv. 일반적으로
+
+while
+> adv. ~하는 동안
+
+demonstrate
+> v. 증명하다, 시연하다
+
+iterate
+> v. 반복하다
+
+increment
+> n. 증가
+
 # 7
 # 8
 # 9
@@ -389,9 +507,6 @@ realization
 unobtrusively
 > adv. 눈에 띄지 않게
 
-reflective
-> adj. 반사적인, 반사하는
-
 resolution
 > n. 해결, 과학적(특히 광학) 기기로 측정할 수 있는 가장 작은 간격
 
@@ -476,9 +591,6 @@ augumented reality
 capacity
 > n. 수용력, 생산 능력, 볼륨
 
-prompt
-> n. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
-
 hence
 > adv. 이러한 이유로, ~이므로
 
@@ -533,3 +645,39 @@ manufacture
 
 mess up
 > pv. 망치다
+
+upon
+> prep. ~에, ~에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
+
+whatever
+> pron. 어떠한 일이나 양을 언급할 때 제한이 없다는 것을 강조하는데 사용
+
+prompt
+> v. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
+
+reflective
+> adj. 반사적인, 반사하는
+
+invert
+> v. 반대로 하다, 거꾸로 하다
+
+above
+> prep. ~보다 위에
+
+instruction
+> n. 명령, 훈령, 교수
+
+i.e.
+> abb. 즉
+
+vice versa
+> adv. 반대로 하다, 그 반대의 경우도 마찬가지로
+
+have to
+> av. 해야한다(must)
+
+especially
+> adv. 특히
+
+exploit
+> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다

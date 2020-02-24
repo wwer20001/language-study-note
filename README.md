@@ -17,25 +17,9 @@ prep. 전치사 preposition
 
 g. 문법 grammar   
 
+conj. 접속사 conjunction
+
 # 2
-line breaking
-> n. 줄바꿈
-
-depend on
-> pv. ~에 의지하다, 의존하다
-
-express
-> v. 표현하다
-
-lively
-> adj. 활기찬, 기운찬
-
-conversation
-> n. 대화
-
-point A to B
-> pv. A에게 B를 가리켜주다. A에게 B를 알려주다.
-
 point
 > v. 가리키다, 향하다
 
@@ -86,7 +70,131 @@ intuitive
 accessivle
 > adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
 
+regular
+> adj. 정규의
+
+anyone
+> pron. 누군가, 누구든지
+
+inertial
+> n. 관성
+
 # 4
+limitation
+> n. 제한사항, 한계
+
+measurement
+> n. 측정
+
+adjustable
+> adj. 조절할 수 있는
+
+comfortable
+> adj. 편안한
+
+diagnostic tool
+> n. 진단 도구
+
+diagnosis
+> n. 진단
+
+accquire
+> v. 얻다
+
+via
+> v. 통하다
+> prep. ~에 의하여, ~을 경유하여
+
+democratize
+> v. 민주화하다
+
+extensive
+> adj. 광범위한
+
+expertise
+> n. 전문적 지식, 전문적 기술
+
+previsualize
+> n. 사전시각화
+
+rapidly
+> adv. 빠르게
+
+along
+> prep. ~을 따라서, 함께
+
+subscription
+> n. 신청, 구독
+
+behind
+> adv. ~뒤에
+
+provide
+> v. 마련하다, 제공하다
+
+various
+> adj. 여러, 다방면의, 가지각색의
+
+explain
+> v. 설명하다
+
+describe
+> v. 묘사하다, 설명하다, 평하다
+
+those
+> pron. 그들, 그것들
+
+each
+> adj. ~마다, 각자
+
+expand
+> v. 넓히다, 확장하다
+
+notice
+> n. 주의, 통지, 고지
+
+expose
+> v. 노출하다, 드러내다
+
+troubleshoot
+> n. 문제 해결
+
+which
+> pron. 어느
+> pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
+
+accomplishment
+> n. 성취
+
+brief
+> adj. 간결한
+
+convey
+> v. 나르다, 전달하다
+
+unstable
+> adj. 불안정한
+
+anywhere
+> pron. 어딘가
+> adv. 어딘가에, 어디든지
+
+even if
+> conj. 설사, 비록 ~일지라도
+
+also
+> adv. 또한
+
+subtitle
+> n. 자막
+
+reach
+> n. 범위
+> v. 뻗다, 내밀다, 닿다
+
+probably
+> adv. 아마
+
 variable 
 > adj. 변하기 쉬운   
 > n. 변수   
@@ -134,6 +242,80 @@ find out
 
 malformed
 > adj. 흉하게 생긴, 잘못된
+
+procedure
+> n. 순서, 절차
+
+however
+> adv. 그러나
+
+interpret
+> v. 이해해다, 해석하다
+
+attribute
+> n. 특성, 속성
+
+indicate
+> v. 가리키다
+
+due to
+> prep. ~때문에, ~로 인해
+
+institutional
+> adj. 제도적인
+
+might
+> n. (강력한)힘 또는 권력
+> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다
+> v. (현재 또는 과거의 가능성으로)~할 수 있다
+
+extra
+> adj. 추가적인, 특별한, 여분의
+
+precaution
+> n. 예방 조치, 예방법
+
+proceeding
+> n. 진행
+
+perform
+> v. 행하다, 공연하다, 작동하다, 임무를 이행하다
+
+excute
+> v. 실행하다, 처형하다
+
+permanently
+> adv. 영구적으로
+
+unpublished
+> adj. 널리 알려지지 않은
+
+contribute
+> v. 기여하다
+
+unfurl
+> v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
+
+become
+> v. ~이 되다
+
+no matter how
+> adv. (=however)아무리 ~하더라도
+
+therefore
+> adv. 따라서
+
+overhauled
+> n. 정밀 검사
+
+teleoperation
+> n. 원격 조작
+
+prioritize
+> v. 우선시하다, 우선순위를 정하다
+
+as - as ~
+> g. ~만큼 -하다
 
 # 6
 # 7
@@ -270,5 +452,73 @@ phrase
 who
 > pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
 
+due
+> adj. 정당한, 도착 예정인
+
+line breaking
+> n. 줄바꿈
+
+depend on
+> pv. ~에 의지하다, 의존하다
+
+express
+> v. 표현하다
+
 put - on
 > pv. 입다, 붙이다, 신다, 놓다
+
+lively
+> adj. 활기찬, 기운찬
+
+conversation
+> n. 대화
+
+point A to B
+> pv. A에게 B를 가리켜주다. A에게 B를 알려주다.
+
+otherwise
+> adj. 그렇지 않으면
+
+sometimes
+> adv. 때때로, 경우에 따라
+
+decimal sign
+> n. 소수점
+
+incorrect
+> adj. 부정확한, 잘못된
+
+augumented reality
+> n. 증강 현실
+
+capacity
+> n. 수용력, 생산 능력, 볼륨
+
+prompt
+> n. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
+
+hence
+> adv. 이러한 이유로, ~이므로
+
+eliminate
+> v. 죽이다, 제거하다
+
+opaque
+> n. 불투명체
+> adj. 불투명한, 광택이 없는, 부전도성의
+
+appropriate
+> adj. 적당한, 특유한, 적절한
+
+should
+> v. ~해야한다
+
+jitter
+> n. 전기 신호 또는 전자 장치에서 약간의 불규칙한 움직임, 변형 또는 불안정
+
+distortion
+> n. 왜곡
+
+experiment
+> n. 실험
+> v. 실험하다

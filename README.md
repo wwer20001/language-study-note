@@ -19,33 +19,6 @@ g. 문법 grammar
 
 conj. 접속사 conjunction
 
-# 2
-point
-> v. 가리키다, 향하다
-
-alongside
-> prep. 나란히, 측면에 가깝게, 옆에
-
-registry
-> n. 기재, 등록
-
-central
-> n. 본부
-> adj. 중심의, 중심적인
-
-wear
-> v. 입다, 착용하다
-
-worn
-> v. wear의 과거형. 입었다, 착용했다.
-
-manufacture
-> n. 제작, 제조
-> v. 제작하다, 제조하다
-
-mess up
-> pv. 망치다
-
 # 3
 
 then
@@ -160,7 +133,7 @@ troubleshoot
 > n. 문제 해결
 
 which
-> pron. 어느
+> pron. 어느   
 > pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
 
 accomplishment
@@ -284,9 +257,6 @@ perform
 excute
 > v. 실행하다, 처형하다
 
-permanently
-> adv. 영구적으로
-
 unpublished
 > adj. 널리 알려지지 않은
 
@@ -305,6 +275,15 @@ no matter how
 therefore
 > adv. 따라서
 
+simpleness
+> n. 단순성
+
+robustness
+> n. 견고성
+
+hence
+> adv. 이러한 이유로
+
 overhauled
 > n. 정밀 검사
 
@@ -316,6 +295,9 @@ prioritize
 
 as - as ~
 > g. ~만큼 -하다
+
+violate
+> v. 위반하다, 방해하다
 
 # 6
 # 7
@@ -522,3 +504,32 @@ distortion
 experiment
 > n. 실험
 > v. 실험하다
+
+permanently
+> adv. 영구적으로
+
+point
+> v. 가리키다, 향하다
+
+alongside
+> prep. 나란히, 측면에 가깝게, 옆에
+
+registry
+> n. 기재, 등록
+
+central
+> n. 본부
+> adj. 중심의, 중심적인
+
+wear
+> v. 입다, 착용하다
+
+worn
+> v. wear의 과거형. 입었다, 착용했다.
+
+manufacture
+> n. 제작, 제조
+> v. 제작하다, 제조하다
+
+mess up
+> pv. 망치다

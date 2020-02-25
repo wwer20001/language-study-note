@@ -1,5 +1,5 @@
 # 영어 단어장
-# 설명
+## 단어 분류
 n. 명사 noun   
 
 pron. 대명사 pronoun
@@ -24,23 +24,6 @@ conj. 접속사 conjunction
 abb. 약어 abbreviation
 
 # 3
-
-then
-> adv. 그 때, 문제의 시간에, 그 후, 이 경우에, 따라서
-
-utilize
-> v. 활용하다, 이용하다
-
-inconvenience
-> n. 불편
-> v. ~에게 불편을 느끼게 하다
-
-requirement
-> n. 요구사항
-
-known
-> adj. 알려진, 모두 다 아는
-
 intuitive
 > adj. 직관적인
 
@@ -276,9 +259,6 @@ become
 no matter how
 > adv. (=however)아무리 ~하더라도
 
-therefore
-> adv. 따라서
-
 simpleness
 > n. 단순성
 
@@ -418,7 +398,142 @@ iterate
 increment
 > n. 증가
 
+embed
+> v. 끼워넣다
+
+existing
+> adj. 기존, 기존의
+
+instead of
+> prep. ~대신에
+
+pick out
+> pv. 골라내다
+
+temporarily
+> adv. 일시적으로
+
+choose
+> v. 선택하다
+
+succeed
+> v. 성공하다
+
+get off
+> pv. 내리다
+
+specified
+> adj. 지정된
+
+inability
+> n. 능력의 부족으로 어떠한 일을 할 수 없음
+
+inevitably
+> adv. 필연적으로
+
+repository
+> n. 저장소
+
 # 7
+pricise
+> adj. 정확한
+
+deliver
+> v. 가하다, 배달하다, 넘겨주다
+
+avail
+> v. 유용하다, 도움이 되다
+
+awful
+> adj. 무서운, 끔찍한
+
+hoist
+> v. 감아올리다, (깃발 따위를)계양하다
+
+assuming
+> n. 가정
+
+dictate
+> n. 명령
+
+assurance
+> n. 보증
+
+lack
+> v. 부족하다
+
+periodically
+> adv. 주기적으로
+
+forecast
+> n. 예보, 예상, 예측
+
+suggest
+> v. 제안하다
+
+infrastructure
+> n. 하부구조
+
+segment
+> n. 분절   
+> v. 분할하다
+
+compound
+> n. 화합물, 복합
+
+enforce
+> v. 억지로 시키다, 시행하다
+
+fix
+> v. 고치다, 수리하다, 고정하다
+
+subset
+> n. 큰 그룹에 연관된 부분
+
+rigged
+> adj. 조작된
+
+put up with
+> pv. ~을 참다
+
+annual
+> n. 연간, 일년의
+
+distribution
+> n. 분포, 분배
+
+substantiate
+> v. 실증하다, 실체화하다
+
+accelerometer
+> n. 가속도계
+
+distribute
+> v. 분배하다, 배포하다
+
+reuse
+> n. 재사용   
+> v. 재사용하다
+
+promote
+> v. 홍보하다
+
+implement
+> n. 도구   
+> v. 구현하다
+
+magnetometer
+> n. 자력계
+
+migrate
+> v. 이주하다, 옮기다, 변경하다
+
+consider
+> v. 고려하다
+
+signify
+> v. 의미하다
+
 # 8
 # 9
 accuracy 
@@ -430,7 +545,9 @@ ideal
 
 calibration
 > n. 기기 또는 실험 판독 값을 교정하는 동작 또는 프로세스
-> > recalibration : 재교정, 재측정
+
+recalibration 
+> n. 재교정, 재측정
 
 advenced
 > adj. 개발 또는 진행에 있어 훨씬 앞서 있는, 진보된, 향상된, 상급의
@@ -573,9 +690,6 @@ conversation
 point A to B
 > pv. A에게 B를 가리켜주다. A에게 B를 알려주다.
 
-otherwise
-> adj. 그렇지 않으면
-
 sometimes
 > adv. 때때로, 경우에 따라
 
@@ -605,7 +719,7 @@ appropriate
 > adj. 적당한, 특유한, 적절한
 
 should
-> v. ~해야한다
+> av. ~해야한다, ~할 것이다, ~하지 않으면 안된다
 
 jitter
 > n. 전기 신호 또는 전자 장치에서 약간의 불규칙한 움직임, 변형 또는 불안정
@@ -676,8 +790,73 @@ vice versa
 have to
 > av. 해야한다(must)
 
+exploit
+> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
+
+then
+> adv. 그 때, 문제의 시간에, 그 후, 이 경우에, 따라서
+
+utilize
+> v. 활용하다, 이용하다
+
+inconvenience
+> n. 불편   
+> v. ~에게 불편을 느끼게 하다
+
+# 11
+available
+> adj. 유효한, 가능한, 사용가능한
+
+requirement
+> n. 요구사항
+
+known
+> adj. 알려진, 모두 다 아는
+
+therefore
+> adv. 따라서
+
+translucent
+> adj. 투명한
+
+otherwise
+> adj. 그렇지 않으면
+
+fine tune
+> pv. 미세조정하다, 최상의 또는 원하는 성능을 달성하기 위해 (무언가를) 미세하게 조정하다
+
+matte
+> n. 매트
+
+softness
+> n. 유연성, 부드러움
+
+edge
+> n. 가장자리, 끝, 경계
+
+advise
+> v. 권하다, 조언하다, 충고하다, 권고하다
+
+to V that N
+> g. N을 V하려면, N을 V하기 위해
+
+decide
+> v. 결정하다, 결심하다
+
+unlike
+> prep. ~과 달리
+
+achieve
+> v. 이루다, 세우다, 일정한 표준에 도달하다
+
 especially
 > adv. 특히
 
-exploit
-> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
+imitate
+> v. 모방하다, 모사하다
+
+translate
+> v. 옮기다, 이동하다
+
+appropriately
+> adv. 적절하게, 적당하게

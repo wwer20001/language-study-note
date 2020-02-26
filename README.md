@@ -23,22 +23,6 @@ conj. 접속사 conjunction
 
 abb. 약어 abbreviation
 
-# 3
-intuitive
-> adj. 직관적인
-
-accessivle
-> adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
-
-regular
-> adj. 정규의
-
-anyone
-> pron. 누군가, 누구든지
-
-inertial
-> n. 관성
-
 # 4
 limitation
 > n. 제한사항, 한계
@@ -304,11 +288,8 @@ roughly
 luggage
 > n. 짐
 
-assessument
-> n. 평가
-
 take place
-> pv. 일어나다, ~하고있다 (happen, occur)
+> pv. 일어나다, ~하고 있다 (happen, occur)
 
 be able to
 > g. 가능하다.
@@ -533,6 +514,16 @@ consider
 
 signify
 > v. 의미하다
+
+incorporate
+> n. 통합
+
+intensive
+> adj. 강한
+
+influence
+> n. 영향   
+> v. ~에 영향을 미치다
 
 # 8
 # 9
@@ -860,3 +851,21 @@ translate
 
 appropriately
 > adv. 적절하게, 적당하게
+
+assessument
+> n. 평가
+
+intuitive
+> adj. 직관적인
+
+accessivle
+> adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
+
+regular
+> adj. 정규의
+
+anyone
+> pron. 누군가, 누구든지
+
+inertial
+> n. 관성

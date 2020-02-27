@@ -24,15 +24,6 @@ conj. 접속사 conjunction
 abb. 약어 abbreviation
 
 # 4
-limitation
-> n. 제한사항, 한계
-
-measurement
-> n. 측정
-
-adjustable
-> adj. 조절할 수 있는
-
 comfortable
 > adj. 편안한
 
@@ -525,6 +516,15 @@ influence
 > n. 영향   
 > v. ~에 영향을 미치다
 
+encounter
+> v. 만나다, 부닥치다, 당하다, 교전하다
+
+further
+> adv. 게다가, 더욱이
+
+mention
+> v. 언급하다
+
 # 8
 # 9
 accuracy 
@@ -869,3 +869,17 @@ anyone
 
 inertial
 > n. 관성
+
+until
+> prep. ~까지   
+> conj. ~할 때까지, ~하기까지
+
+limitation
+> n. 제한사항, 한계
+
+measurement
+> n. 측정
+
+adjustable
+> adj. 조절할 수 있는
+

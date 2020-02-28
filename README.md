@@ -24,12 +24,6 @@ conj. 접속사 conjunction
 abb. 약어 abbreviation
 
 # 4
-comfortable
-> adj. 편안한
-
-diagnostic tool
-> n. 진단 도구
-
 diagnosis
 > n. 진단
 
@@ -324,9 +318,6 @@ exactly
 aware
 > v. 인식하다
 
-inspect
-> v. 점검하다
-
 mutable
 > adj. 변하기 쉬운
 
@@ -524,6 +515,17 @@ further
 
 mention
 > v. 언급하다
+
+revenue
+> n. 수익
+
+casualties
+> n. 사상자
+
+unresolved
+> adj. 해결되지 않은
+
+thought
 
 # 8
 # 9
@@ -883,3 +885,14 @@ measurement
 adjustable
 > adj. 조절할 수 있는
 
+inspect
+> v. 점검하다
+
+tighten
+> v. 조이다
+
+comfortable
+> adj. 편안한
+
+diagnostic tool
+> n. 진단 도구

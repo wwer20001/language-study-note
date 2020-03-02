@@ -24,16 +24,6 @@ conj. 접속사 conjunction
 abb. 약어 abbreviation
 
 # 4
-diagnosis
-> n. 진단
-
-accquire
-> v. 얻다
-
-via
-> v. 통하다   
-> prep. ~에 의하여, ~을 경유하여
-
 democratize
 > v. 민주화하다
 
@@ -526,8 +516,18 @@ unresolved
 > adj. 해결되지 않은
 
 thought
+> v. think의 과거형, 생각했다.
 
 # 8
+actually
+adv. 사실은
+
+whenever
+conj. ~할 때는 언제나
+
+could
+v. can의 과거형, ~할 수 있었다.
+
 # 9
 accuracy 
 > n. 정확성, 정확
@@ -772,7 +772,7 @@ above
 > prep. ~보다 위에
 
 instruction
-> n. 명령, 훈령, 교수
+> n. 방향 또는 명령, 가르침, 교육
 
 i.e.
 > abb. 즉
@@ -896,3 +896,13 @@ comfortable
 
 diagnostic tool
 > n. 진단 도구
+
+diagnosis
+> n. 진단
+
+accquire
+> v. 얻다
+
+via
+> v. 통하다   
+> prep. ~에 의하여, ~을 경유하여

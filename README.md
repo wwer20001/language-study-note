@@ -520,13 +520,34 @@ thought
 
 # 8
 actually
-adv. 사실은
+> adv. 사실은
 
 whenever
-conj. ~할 때는 언제나
+> conj. ~할 때는 언제나
 
 could
-v. can의 과거형, ~할 수 있었다.
+> v. can의 과거형, ~할 수 있었다.
+
+cause
+> n. 원인
+
+durable
+> adj. 튼튼한, 영속성이 있는
+
+exclude
+> v. 들어오지 못하게 하다, 배척하다
+
+furthermore
+> adv. 더욱이
+
+squirm
+> v. 몸부림치다. 꿈틀거리다
+
+will
+> v. ~할 것이다.
+
+mandatory
+> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
 
 # 9
 accuracy 

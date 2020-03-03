@@ -24,15 +24,6 @@ conj. 접속사 conjunction
 abb. 약어 abbreviation
 
 # 4
-democratize
-> v. 민주화하다
-
-extensive
-> adj. 광범위한
-
-expertise
-> n. 전문적 지식, 전문적 기술
-
 previsualize
 > n. 사전시각화
 
@@ -546,8 +537,35 @@ squirm
 will
 > v. ~할 것이다.
 
-mandatory
-> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
+either
+> pron. 어느 한 쪽, 어느 쪽인가
+
+refuse
+> v. 거부하다, 거절하다
+
+fetch
+> v. 가져오다
+
+conform
+> v. 순응하다, 따르다
+
+nested
+> adj. 중첩된
+
+omit
+> v. 생략하다
+
+specify
+> v. 지정하다
+
+helpful
+> adj. 도움이 되는
+
+empower
+> v. ~에게 권한을 부여하다, ~할 수 있게 하다
+
+affordable
+> adj. 저렴한
 
 # 9
 accuracy 
@@ -927,3 +945,16 @@ accquire
 via
 > v. 통하다   
 > prep. ~에 의하여, ~을 경유하여
+
+mandatory
+> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
+
+democratize
+> v. 민주화하다
+
+extensive
+> adj. 광범위한
+
+expertise
+> n. 전문적 지식, 전문적 기술
+

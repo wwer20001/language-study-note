@@ -24,15 +24,6 @@ conj. 접속사 conjunction
 abb. 약어 abbreviation
 
 # 4
-previsualize
-> n. 사전시각화
-
-rapidly
-> adv. 빠르게
-
-along
-> prep. ~을 따라서, 함께
-
 subscription
 > n. 신청, 구독
 
@@ -546,12 +537,6 @@ refuse
 fetch
 > v. 가져오다
 
-conform
-> v. 순응하다, 따르다
-
-nested
-> adj. 중첩된
-
 omit
 > v. 생략하다
 
@@ -564,8 +549,39 @@ helpful
 empower
 > v. ~에게 권한을 부여하다, ~할 수 있게 하다
 
-affordable
-> adj. 저렴한
+verify
+> v. 검증하다, 확인하다
+
+capability
+> n. 능력, 가능성
+
+reiterate
+> v. 반복하다
+
+constraint
+> n. 강제, 제약
+
+remain
+> v. 남아있다.
+
+govern
+> v. 지배하다
+
+below
+> prep. 이하  
+> adv. ~의 아래의
+
+chronological
+> adj. 연대순의
+
+properly
+> adv. 정확히
+
+associate
+> v. 결합시키다, 관련시키다
+
+ecosystem
+> n. 생태계
 
 # 9
 accuracy 
@@ -876,7 +892,8 @@ decide
 > v. 결정하다, 결심하다
 
 unlike
-> prep. ~과 달리
+> prep. ~과 달리  
+> adj. 같지 않은, 닮지 않은
 
 achieve
 > v. 이루다, 세우다, 일정한 표준에 도달하다
@@ -957,4 +974,22 @@ extensive
 
 expertise
 > n. 전문적 지식, 전문적 기술
+
+conform
+> v. 순응하다, 따르다
+
+nested
+> adj. 중첩된
+
+previsualize
+> n. 사전시각화
+
+rapidly
+> adv. 빠르게
+
+along
+> prep. ~을 따라서, 함께
+
+affordable
+> adj. 저렴한
 

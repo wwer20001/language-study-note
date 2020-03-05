@@ -1019,3 +1019,34 @@ along
 affordable
 > adj. 저렴한
 
+below
+> prep. 이하  
+> adv. ~의 아래의
+
+subscription
+> n. 신청, 구독
+
+behind
+> adv. ~뒤에
+
+provide
+> v. 마련하다, 제공하다
+
+capability
+> n. 능력, 가능성
+
+various
+> adj. 여러, 다방면의, 가지각색의
+
+explain
+> v. 설명하다
+
+describe
+> v. 묘사하다, 설명하다, 평하다
+
+statement
+> n. 성명, 진술, 서술, 성명서, 진술서
+
+messenger
+> n. 전달자, 전령, 배달부, 메시지 전송 프로그램
+

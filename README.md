@@ -606,6 +606,16 @@ instead
 enhance
 > v. (지위, 수준, 가치 등을) 높이다
 
+more tightly
+> adv. 더 단단히
+
+dread
+> n. 공포, 무서운 것 또는 사람   
+> adj. 무서운, 끔찍한
+
+unprecedented
+> adj. 새로운, 전례가 없는
+
 # 9
 accuracy 
 > n. 정확성, 정확
@@ -1050,3 +1060,5 @@ statement
 messenger
 > n. 전달자, 전령, 배달부, 메시지 전송 프로그램
 
+obvious
+> adj. 분명한, 노골적인

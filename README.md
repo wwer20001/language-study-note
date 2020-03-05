@@ -23,25 +23,9 @@ conj. 접속사 conjunction
 
 abb. 약어 abbreviation
 
+st. 문장 sentence
+
 # 4
-subscription
-> n. 신청, 구독
-
-behind
-> adv. ~뒤에
-
-provide
-> v. 마련하다, 제공하다
-
-various
-> adj. 여러, 다방면의, 가지각색의
-
-explain
-> v. 설명하다
-
-describe
-> v. 묘사하다, 설명하다, 평하다
-
 those
 > pron. 그들, 그것들
 
@@ -271,9 +255,6 @@ strategy
 
 neither
 > adv. A도 아니고 B도 아닌
-
-prefer
-> v. 취하다, ~에게 우선권을 주다
 
 serve
 > v. 섬기다, 보조하다
@@ -552,9 +533,6 @@ empower
 verify
 > v. 검증하다, 확인하다
 
-capability
-> n. 능력, 가능성
-
 reiterate
 > v. 반복하다
 
@@ -567,10 +545,6 @@ remain
 govern
 > v. 지배하다
 
-below
-> prep. 이하  
-> adv. ~의 아래의
-
 chronological
 > adj. 연대순의
 
@@ -582,6 +556,55 @@ associate
 
 ecosystem
 > n. 생태계
+
+wheather
+> conj. ~인지 어떤지, ~이든지 아니든지   
+> pron. 둘 중 어느 하나
+
+organize
+> v. 편성하다
+
+separate
+> v. 가르다, 떼어놓다, 분류하다
+
+manner
+> n. 방법, 종류
+
+where were we?
+> st. 어디까지 말했죠?
+
+act as ~
+> pv. ~처럼 행동하다
+
+reduce
+> v. 줄이다
+
+compilation
+> n. 편집
+
+predefine
+> n. 사전 정의
+
+although
+> conj. 비록 ~일지라도, ~이기는 하지만
+
+so far
+> adv. 지금까지
+
+split
+> v. 쪼개다, 나누다, 찢다
+
+versus
+> prep. ~과 비교하여
+
+have been +pp
+> g. ~되어 있다
+
+instead
+> adv. 대신에
+
+enhance
+> v. (지위, 수준, 가치 등을) 높이다
 
 # 9
 accuracy 
@@ -931,6 +954,9 @@ inertial
 until
 > prep. ~까지   
 > conj. ~할 때까지, ~하기까지
+
+prefer
+> v. 취하다, ~에게 우선권을 주다, ~쪽을 좋아하다
 
 limitation
 > n. 제한사항, 한계

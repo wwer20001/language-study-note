@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-those
-> pron. 그들, 그것들
-
-each
-> adj. ~마다, 각자
-
-expand
-> v. 넓히다, 확장하다
-
 notice
 > n. 주의, 통지, 고지
 
@@ -557,16 +548,6 @@ associate
 ecosystem
 > n. 생태계
 
-wheather
-> conj. ~인지 어떤지, ~이든지 아니든지   
-> pron. 둘 중 어느 하나
-
-organize
-> v. 편성하다
-
-separate
-> v. 가르다, 떼어놓다, 분류하다
-
 manner
 > n. 방법, 종류
 
@@ -575,9 +556,6 @@ where were we?
 
 act as ~
 > pv. ~처럼 행동하다
-
-reduce
-> v. 줄이다
 
 compilation
 > n. 편집
@@ -615,6 +593,9 @@ dread
 
 unprecedented
 > adj. 새로운, 전례가 없는
+
+concerned with ~
+> pv. ~에 관심을 가지다
 
 # 9
 accuracy 
@@ -1062,3 +1043,26 @@ messenger
 
 obvious
 > adj. 분명한, 노골적인
+
+wheather
+> conj. ~인지 어떤지, ~이든지 아니든지   
+> pron. 둘 중 어느 하나
+
+organize
+> v. 편성하다
+
+separate
+> v. 가르다, 떼어놓다, 분류하다
+
+reduce
+> v. 줄이다
+
+those
+> pron. 그들, 그것들
+
+each
+> adj. ~마다, 각자
+
+expand
+> v. 넓히다, 확장하다
+

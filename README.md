@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-notice
-> n. 주의, 통지, 고지
-
-expose
-> v. 노출하다, 드러내다
-
-troubleshoot
-> n. 문제 해결
-
 which
 > pron. 어느   
 > pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
@@ -1065,4 +1056,13 @@ each
 
 expand
 > v. 넓히다, 확장하다
+
+notice
+> n. 주의, 통지, 고지
+
+expose
+> v. 노출하다, 드러내다
+
+troubleshoot
+> n. 문제 해결
 

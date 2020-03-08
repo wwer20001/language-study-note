@@ -26,16 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-which
-> pron. 어느   
-> pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
-
-accomplishment
-> n. 성취
-
-brief
-> adj. 간결한
-
 convey
 > v. 나르다, 전달하다
 
@@ -1065,4 +1055,14 @@ expose
 
 troubleshoot
 > n. 문제 해결
+
+which
+> pron. 어느   
+> pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
+
+accomplishment
+> n. 성취
+
+brief
+> adj. 간결한
 

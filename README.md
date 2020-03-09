@@ -26,16 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-convey
-> v. 나르다, 전달하다
-
-unstable
-> adj. 불안정한
-
-anywhere
-> pron. 어딘가   
-> adv. 어딘가에, 어디든지
-
 even if
 > conj. 설사, 비록 ~일지라도
 
@@ -1065,4 +1055,14 @@ accomplishment
 
 brief
 > adj. 간결한
+
+convey
+> v. 나르다, 전달하다
+
+unstable
+> adj. 불안정한
+
+anywhere
+> pron. 어딘가   
+> adv. 어딘가에, 어디든지
 

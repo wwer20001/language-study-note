@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-even if
-> conj. 설사, 비록 ~일지라도
-
-also
-> adv. 또한
-
-subtitle
-> n. 자막
-
 reach
 > n. 범위   
 > v. 뻗다, 내밀다, 닿다
@@ -546,9 +537,6 @@ split
 versus
 > prep. ~과 비교하여
 
-have been +pp
-> g. ~되어 있다
-
 instead
 > adv. 대신에
 
@@ -562,11 +550,38 @@ dread
 > n. 공포, 무서운 것 또는 사람   
 > adj. 무서운, 끔찍한
 
-unprecedented
-> adj. 새로운, 전례가 없는
-
 concerned with ~
 > pv. ~에 관심을 가지다
+
+illness
+> n. 병고
+
+characteristic
+> n. 특성
+
+least
+> adj. 가장 작은(적은)
+
+integrate
+> v. 통합되다
+
+pit
+> n. 함정, 지옥, 구덩이
+
+despair
+> n. 절망
+
+mathematical
+> adj. 수학의, 매우 정확한
+
+notation
+> n. 표기법
+
+equivalent
+> adj. (의미, 중요도가)동등한, 맞먹는
+
+likelihood
+> n. 무언가의 상태 또는 사실, 개연성
 
 # 9
 accuracy 
@@ -1066,3 +1081,20 @@ anywhere
 > pron. 어딘가   
 > adv. 어딘가에, 어디든지
 
+have been +pp
+> g. ~되어 있다
+
+unprecedented
+> adj. 새로운, 전례가 없는
+
+even if
+> conj. 설사, 비록 ~일지라도
+
+also
+> adv. 또한
+
+subtitle
+> n. 자막
+
+overkill
+> n. 지나침, 필요한 양을 초과함

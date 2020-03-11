@@ -1129,3 +1129,6 @@ variable
 > adj. 변하기 쉬운   
 > n. 변수   
 
+related
+> adj. 관계있는
+

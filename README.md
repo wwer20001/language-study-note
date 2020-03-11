@@ -26,17 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-reach
-> n. 범위   
-> v. 뻗다, 내밀다, 닿다
-
-probably
-> adv. 아마
-
-variable 
-> adj. 변하기 쉬운   
-> n. 변수   
-
 bring up
 > v. 가져오다, 불러오다
 
@@ -580,8 +569,35 @@ notation
 equivalent
 > adj. (의미, 중요도가)동등한, 맞먹는
 
-likelihood
-> n. 무언가의 상태 또는 사실, 개연성
+aspect
+> n. 방향, 방면, 양상, 외양, 모습
+
+equation
+> n. 방정식, 수식
+
+instantaneously
+> adv. 순간적으로
+
+ask for ~
+> pv. ~을 달라고 하다
+
+must
+> v. ~해야만 한다(should보다 강한)
+
+take ~ off
+> pv. ~을 떼어내다, 벗기다
+
+specific
+> adj. 특정한, 특유한
+
+specifically
+> adv. 구체적으로 특별히
+
+dependent
+> adj. 매달린, 종속된
+
+invisible
+> adj. 보이지 않는, 볼 수 없는
 
 # 9
 accuracy 
@@ -1098,3 +1114,18 @@ subtitle
 
 overkill
 > n. 지나침, 필요한 양을 초과함
+
+likelihood
+> n. 무언가의 상태 또는 사실, 개연성
+
+reach
+> n. 범위   
+> v. 뻗다, 내밀다, 닿다
+
+probably
+> adv. 아마
+
+variable 
+> adj. 변하기 쉬운   
+> n. 변수   
+

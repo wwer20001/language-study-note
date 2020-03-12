@@ -572,15 +572,6 @@ equivalent
 aspect
 > n. 방향, 방면, 양상, 외양, 모습
 
-equation
-> n. 방정식, 수식
-
-instantaneously
-> adv. 순간적으로
-
-ask for ~
-> pv. ~을 달라고 하다
-
 must
 > v. ~해야만 한다(should보다 강한)
 
@@ -593,13 +584,43 @@ specific
 specifically
 > adv. 구체적으로 특별히
 
-dependent
-> adj. 매달린, 종속된
-
 invisible
 > adj. 보이지 않는, 볼 수 없는
 
+robust
+> adj. 건장한, 억센, 견고한
+
 # 9
+maintenance
+> n. 유지, 유지보수
+
+maintain
+> v. 유지하다
+
+loosely
+> adv. 느슨하게
+
+individual
+> n. 개인   
+> adj. 개인의, 각각의
+
+suspend
+> v. 매달다, 연기하다, 유보하다
+
+require
+> v. 필요하다, 요구하다
+
+inefficient
+> adj. 무능한, 비효율적인
+
+occupy
+> v. 점거하다, 차지하다
+
+significant
+> adj. 중요한, 의미있는
+
+---
+
 accuracy 
 > n. 정확성, 정확
 
@@ -1131,4 +1152,16 @@ variable
 
 related
 > adj. 관계있는
+
+equation
+> n. 방정식, 수식
+
+instantaneously
+> adv. 순간적으로
+
+ask for ~
+> pv. ~을 달라고 하다
+
+dependent
+> adj. 매달린, 종속된
 

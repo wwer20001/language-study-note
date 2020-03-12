@@ -26,9 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-bring up
-> v. 가져오다, 불러오다
-
 purpose
 > n. 목적, 용도
 
@@ -1165,3 +1162,14 @@ ask for ~
 dependent
 > adj. 매달린, 종속된
 
+reject
+> v. 받지 않다, 거절하다
+
+recognize
+> v. 인식하다, 인정하다
+
+bring up
+> pv. 가져오다, 불러오다
+
+bide
+> v. 때를 기다리다

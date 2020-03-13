@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 4
-purpose
-> n. 목적, 용도
-
-primary
-> adj. 1순위의, 최우선의
-
-check whether
-> v. 여부를 확인하다
-
 occur
 > v. 나오다, 일어나다, 마음에 떠오르다
 
@@ -610,9 +601,6 @@ require
 inefficient
 > adj. 무능한, 비효율적인
 
-occupy
-> v. 점거하다, 차지하다
-
 significant
 > adj. 중요한, 의미있는
 
@@ -1173,3 +1161,16 @@ bring up
 
 bide
 > v. 때를 기다리다
+
+occupy
+> v. 점거하다, 차지하다
+
+purpose
+> n. 목적, 용도
+
+primary
+> adj. 1순위의, 최우선의
+
+check whether
+> pv. 여부를 확인하다
+

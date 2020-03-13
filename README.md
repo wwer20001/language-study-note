@@ -604,6 +604,36 @@ inefficient
 significant
 > adj. 중요한, 의미있는
 
+infamous
+> adj. 악명높은, 불명예스러운
+
+veriety
+> n. 종류
+
+capable
+> adj. 유능한, 자격이 있는
+
+figure out
+> pv. 알아내다
+
+distinctive
+> adj. 독특한
+
+renouned
+> adj. 유명한
+
+would like
+> pv. ~하고 싶다
+
+compatibility
+> n. 적합성, 호환성
+
+implicit
+> adj. 절대적인, 암시적인
+
+illustrate
+> v. 설명하다
+
 ---
 
 accuracy 

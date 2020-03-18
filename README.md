@@ -25,16 +25,6 @@ abb. 약어 abbreviation
 
 st. 문장 sentence
 
-# 4
-occur
-> v. 나오다, 일어나다, 마음에 떠오르다
-
-in any case
-> adv. 어쨌든, 어떠한 경우에든
-
-manually
-> adv. 수동으로
-
 # 5
 familiar
 > adj. 익숙한, 친한
@@ -616,9 +606,6 @@ capable
 figure out
 > pv. 알아내다
 
-distinctive
-> adj. 독특한
-
 renouned
 > adj. 유명한
 
@@ -628,12 +615,43 @@ would like
 compatibility
 > n. 적합성, 호환성
 
-implicit
-> adj. 절대적인, 암시적인
-
 illustrate
 > v. 설명하다
 
+turn off
+> v. 끄다
+
+declare
+> v. 알리다, 선언하다
+
+treat
+> v. 대하다, 대접하다, 치료하다, 취급하다
+
+bite
+> v. 물다
+
+bitten
+> v. (bite)의 과거형, 물리다  
+> adj. 물린
+
+promiscuity
+> n. 무차별 상태 또는 사실, 뒤섞인 상태, 뒤범벅
+
+reasonable
+> adj. 합리적인
+
+certain
+> adj. 어떤, 특정한
+
+refer
+> v. 보내다, 가리키다
+
+intend
+> v. 목적이나 의도를 가지다, 계획하다, 예정하다
+
+version promiscuity
+> n. 버전 무차별성, 버전이 뒤섞인 상태
+`
 ---
 
 accuracy 
@@ -1203,4 +1221,21 @@ primary
 
 check whether
 > pv. 여부를 확인하다
+
+distinctive
+> adj. 독특한
+
+implicit
+> adj. 절대적인, 암시적인
+
+# 12
+
+occur
+> v. 나오다, 일어나다, 마음에 떠오르다
+
+in any case
+> adv. 어쨌든, 어떠한 경우에든
+
+manually
+> adv. 수동으로
 

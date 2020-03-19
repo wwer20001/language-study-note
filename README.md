@@ -26,16 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-familiar
-> adj. 익숙한, 친한
-
-except
-> prep. ~외에   
-> v. 제외하다
-
-modify
-> v. 수정하다
-
 adjust
 > v. 맞추다, 조정하다, 조절하다
 
@@ -637,21 +627,39 @@ bitten
 promiscuity
 > n. 무차별 상태 또는 사실, 뒤섞인 상태, 뒤범벅
 
-reasonable
-> adj. 합리적인
-
-certain
-> adj. 어떤, 특정한
-
-refer
-> v. 보내다, 가리키다
-
-intend
-> v. 목적이나 의도를 가지다, 계획하다, 예정하다
-
 version promiscuity
 > n. 버전 무차별성, 버전이 뒤섞인 상태
-`
+
+propose
+> v. 제안하다
+
+assign
+> v. 할당하다
+
+differently
+> adv. 다르게, 따로
+
+treatment
+> n. 대우, 취급법, 치료
+
+even though
+> conj. 그래도, 비록 ~할지라도
+
+concatenation
+> n. 연쇄, 연속
+
+unless
+> conj. 그렇지 않으면
+
+generate
+> v. 생성하다, 발생시키다
+
+trickle
+> v. 조금씩 흐르다
+
+decrease
+> v. 줄다, 감소하다, 내리다
+
 ---
 
 accuracy 
@@ -1238,4 +1246,26 @@ in any case
 
 manually
 > adv. 수동으로
+
+reasonable
+> adj. 합리적인
+
+certain
+> adj. 어떤, 특정한
+
+refer
+> v. 보내다, 가리키다
+
+intend
+> v. 목적이나 의도를 가지다, 계획하다, 예정하다
+
+familiar
+> adj. 익숙한, 친한
+
+except
+> prep. ~외에   
+> v. 제외하다
+
+modify
+> v. 수정하다
 

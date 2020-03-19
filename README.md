@@ -1269,3 +1269,7 @@ except
 modify
 > v. 수정하다
 
+necessary
+> n. 필요한 행동 혹은 물건  
+> adj. 필요한, 필연적인
+

@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-adjust
-> v. 맞추다, 조정하다, 조절하다
-
-make sure
-> pv. 확인하다
-
-find out
-> pv. 찾아내다, 발견하다
-
 malformed
 > adj. 흉하게 생긴, 잘못된
 
@@ -660,6 +651,42 @@ trickle
 decrease
 > v. 줄다, 감소하다, 내리다
 
+intrusion
+> n. 강요
+
+scatter
+> v. 흩어지게 하다, 흐트러뜨리다
+
+throughtout
+> prep. ~의 구석구석까지
+
+no matter where
+> adv. 어디에 있든지
+
+underneath
+> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
+
+belong
+> v. 소속하다, 있다
+
+regardless
+> adv. 상관없이, 비용에 구애되지 않고   
+> adj. 부주의한
+
+identify
+> v. 식별하다
+
+once
+> adv. 한번
+> conj. ~하면
+
+as such
+> conj. 따라서, 그와 같이, 이를테면
+
+retrieve
+> n. 검색, 회복   
+> v. 끌어내다, 소유권을 되찾다
+
 ---
 
 accuracy 
@@ -1250,9 +1277,6 @@ manually
 reasonable
 > adj. 합리적인
 
-certain
-> adj. 어떤, 특정한
-
 refer
 > v. 보내다, 가리키다
 
@@ -1272,4 +1296,25 @@ modify
 necessary
 > n. 필요한 행동 혹은 물건  
 > adj. 필요한, 필연적인
+
+adjust
+> v. 맞추다, 조정하다, 조절하다
+
+make sure
+> pv. 확인하다
+
+find out
+> pv. 찾아내다, 발견하다
+
+certain
+> adj. 어떤, 특정한
+
+situate
+> v. 어떤 장소나 위치에 놓거나 고정하다
+
+conceal
+> v. 시야에서 멀어지다, 숨기다
+
+keep from sight
+> st. 시야에서 멀어지다
 

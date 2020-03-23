@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-malformed
-> adj. 흉하게 생긴, 잘못된
-
-procedure
-> n. 순서, 절차
-
-however
-> adv. 그러나
-
 interpret
 > v. 이해해다, 해석하다
 
@@ -651,41 +642,47 @@ trickle
 decrease
 > v. 줄다, 감소하다, 내리다
 
-intrusion
-> n. 강요
-
-scatter
-> v. 흩어지게 하다, 흐트러뜨리다
-
-throughtout
-> prep. ~의 구석구석까지
-
 no matter where
 > adv. 어디에 있든지
-
-underneath
-> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
-
-belong
-> v. 소속하다, 있다
 
 regardless
 > adv. 상관없이, 비용에 구애되지 않고   
 > adj. 부주의한
 
-identify
-> v. 식별하다
-
 once
 > adv. 한번
 > conj. ~하면
 
-as such
-> conj. 따라서, 그와 같이, 이를테면
+consistent
+> adj. 일관된
 
-retrieve
-> n. 검색, 회복   
-> v. 끌어내다, 소유권을 되찾다
+rely
+> v. 의지하다
+
+borrow
+> v. 차용하다, 취하다
+
+entire
+> adj. 완전한, 전체의
+
+come out
+> pv. 나오다, 나타내다
+
+such
+> adv. 이러한, ~와 같은
+
+figure
+> n. 표상  
+> v. 나타나다
+
+appointment
+> n. 약속
+
+deployment
+> n. 전개, 배포
+
+communicate
+> v. 연락하다, 소통하다
 
 ---
 
@@ -1317,4 +1314,38 @@ conceal
 
 keep from sight
 > st. 시야에서 멀어지다
+
+intrusion
+> n. 강요
+
+scatter
+> v. 흩어지게 하다, 흐트러뜨리다
+
+throughtout
+> prep. ~의 구석구석까지
+
+underneath
+> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
+
+belong
+> v. 소속하다, 있다
+
+identify
+> v. 식별하다
+
+as such
+> conj. 따라서, 그와 같이, 이를테면
+
+retrieve
+> n. 검색, 회복   
+> v. 끌어내다, 소유권을 되찾다
+
+malformed
+> adj. 흉하게 생긴, 잘못된
+
+procedure
+> n. 순서, 절차
+
+however
+> adv. 그러나
 

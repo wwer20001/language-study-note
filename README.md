@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-interpret
-> v. 이해해다, 해석하다
-
-attribute
-> n. 특성, 속성
-
-indicate
-> v. 가리키다
-
 due to
 > prep. ~때문에, ~로 인해
 
@@ -653,12 +644,6 @@ once
 > adv. 한번
 > conj. ~하면
 
-consistent
-> adj. 일관된
-
-rely
-> v. 의지하다
-
 borrow
 > v. 차용하다, 취하다
 
@@ -667,9 +652,6 @@ entire
 
 come out
 > pv. 나오다, 나타내다
-
-such
-> adv. 이러한, ~와 같은
 
 figure
 > n. 표상  
@@ -683,6 +665,36 @@ deployment
 
 communicate
 > v. 연락하다, 소통하다
+
+usually
+> adv. 보통
+
+according to
+> prep. ~에 따라, ~에 의하여
+
+alternatively
+> adv. 대안적으로
+
+institution
+> n. 공공기관, 제도
+
+coporation
+> n. 법인, 회사
+
+underlie
+> v. ~의 아래에 있다, ~의 아래에 놓이다
+
+convention
+> n. 협약, 관례, 관습, 집회
+
+semantic
+> adj. 의미의, 의미론의, 단어의 의미와 관련된
+
+functionality
+> n. 기능성
+
+compatible
+> adj. 호환되는, 양립가능한
 
 ---
 
@@ -1348,4 +1360,22 @@ procedure
 
 however
 > adv. 그러나
+
+consistent
+> adj. 일관된
+
+rely
+> v. 의지하다
+
+such
+> adv. 이러한, ~와 같은
+
+interpret
+> v. 이해해다, 해석하다
+
+attribute
+> n. 특성, 속성
+
+indicate
+> v. 가리키다
 

@@ -26,17 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-due to
-> prep. ~때문에, ~로 인해
-
-institutional
-> adj. 제도적인
-
-might
-> n. (강력한)힘 또는 권력   
-> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
-> v. (현재 또는 과거의 가능성으로)~할 수 있다
-
 extra
 > adj. 추가적인, 특별한, 여분의
 
@@ -696,6 +685,37 @@ functionality
 compatible
 > adj. 호환되는, 양립가능한
 
+incompatible
+> adj. 양립할 수 없는
+
+extension
+> n. 확장, 연장, 신장
+
+unmatched
+> adj. 상대가 없는
+
+bullet
+> n. 총알, 글머리 기호
+
+bring
+> v. 가져오다
+
+brought
+> v. bring의 과거형, 가져왔다
+
+as
+> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는데 사용
+
+consist
+> v. 구성되다, 이루어지다
+
+stunning
+> adj. 매우 훌륭한
+
+composite
+> n. 합성물   
+> v. 여러개의 요소나 부분을 합치다
+
 ---
 
 accuracy 
@@ -827,9 +847,6 @@ phrase
 
 who
 > pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
-
-due
-> adj. 정당한, 도착 예정인
 
 line breaking
 > n. 줄바꿈
@@ -1378,4 +1395,18 @@ attribute
 
 indicate
 > v. 가리키다
+
+due
+> adj. 정당한, 도착 예정인
+
+due to
+> prep. ~때문에, ~로 인해
+
+institutional
+> adj. 제도적인
+
+might
+> n. (강력한)힘 또는 권력   
+> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
+> v. (현재 또는 과거의 가능성으로)~할 수 있다
 

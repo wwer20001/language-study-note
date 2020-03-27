@@ -26,24 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-extra
-> adj. 추가적인, 특별한, 여분의
-
-precaution
-> n. 예방 조치, 예방법
-
-proceeding
-> n. 진행
-
-perform
-> v. 행하다, 공연하다, 작동하다, 임무를 이행하다
-
-excute
-> v. 실행하다, 처형하다
-
-unpublished
-> adj. 널리 알려지지 않은
-
 contribute
 > v. 기여하다
 
@@ -706,17 +688,9 @@ brought
 as
 > prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는데 사용
 
-consist
-> v. 구성되다, 이루어지다
-
-stunning
-> adj. 매우 훌륭한
-
-composite
-> n. 합성물   
-> v. 여러개의 요소나 부분을 합치다
-
----
+crane
+> n. 기중기
+> v. 기중기로 물건을 옮기다
 
 accuracy 
 > n. 정확성, 정확
@@ -727,9 +701,6 @@ ideal
 
 calibration
 > n. 기기 또는 실험 판독 값을 교정하는 동작 또는 프로세스
-
-recalibration 
-> n. 재교정, 재측정
 
 advenced
 > adj. 개발 또는 진행에 있어 훨씬 앞서 있는, 진보된, 향상된, 상급의
@@ -743,12 +714,11 @@ bandwidth
 look ahead
 > pv. 앞서보다, (~까지)(앞일을)내다보다
 
-compress
-> v. 압축하다, 압착하다, 요약하다
-
 # 10
 vest
 > n. 조끼
+
+---
 
 affect
 > v. 영향을 미치다
@@ -1409,4 +1379,38 @@ might
 > n. (강력한)힘 또는 권력   
 > v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
 > v. (현재 또는 과거의 가능성으로)~할 수 있다
+
+consist
+> v. 구성되다, 이루어지다
+
+stunning
+> adj. 매우 훌륭한
+
+composite
+> n. 합성물   
+> v. 여러개의 요소나 부분을 합치다
+
+recalibration 
+> n. 재교정, 재측정
+
+extra
+> adj. 추가적인, 특별한, 여분의
+
+precaution
+> n. 예방 조치, 예방법
+
+proceeding
+> n. 진행
+
+compress
+> v. 압축하다, 압착하다, 요약하다
+
+perform
+> v. 행하다, 공연하다, 작동하다, 임무를 이행하다
+
+excute
+> v. 실행하다, 처형하다
+
+unpublished
+> adj. 널리 알려지지 않은
 

@@ -26,15 +26,6 @@ abb. 약어 abbreviation
 st. 문장 sentence
 
 # 5
-contribute
-> v. 기여하다
-
-unfurl
-> v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
-
-become
-> v. ~이 되다
-
 no matter how
 > adv. (=however)아무리 ~하더라도
 
@@ -718,8 +709,6 @@ look ahead
 vest
 > n. 조끼
 
----
-
 affect
 > v. 영향을 미치다
 
@@ -745,11 +734,7 @@ emit
 ceiling
 > n. 천장, 상승 한계, 최고 한도
 
-pedestal
-> n. 받침대, 기초
-
-crucial
-> adj. 결정적인, 중대한
+---
 
 breakdown
 > n. 고장, 분석, 결렬
@@ -1413,4 +1398,22 @@ excute
 
 unpublished
 > adj. 널리 알려지지 않은
+
+intimidate
+> v. 위협하다
+
+pedestal
+> n. 받침대, 기초
+
+crucial
+> adj. 결정적인, 중대한
+
+contribute
+> v. 기여하다
+
+unfurl
+> v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
+
+become
+> v. ~이 되다
 

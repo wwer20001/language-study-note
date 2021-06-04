@@ -661,9 +661,6 @@ compatible
 incompatible
 > adj. 양립할 수 없는
 
-extension
-> n. 확장, 연장, 신장
-
 unmatched
 > adj. 상대가 없는
 
@@ -1417,3 +1414,15 @@ unfurl
 become
 > v. ~이 되다
 
+# 13
+reimplementation
+> n. 재구현
+
+reactive
+> adj. 반응적인, 자극에 대해 반응을 보이는
+
+extension
+> n. 확장, 연장, 신장
+
+implementation
+> n. 결정 또는 계획을 실행하는 과정, 실행

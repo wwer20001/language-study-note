@@ -25,42 +25,14 @@ abb. 약어 abbreviation
 
 st. 문장 sentence
 
+suf. 접미사 suffix
+
 # 5
-no matter how
-> adv. (=however)아무리 ~하더라도
-
-simpleness
-> n. 단순성
-
-robustness
-> n. 견고성
-
-hence
-> adv. 이러한 이유로
-
-overhauled
-> n. 정밀 검사
-
-teleoperation
-> n. 원격 조작
-
-prioritize
-> v. 우선시하다, 우선순위를 정하다
-
-as - as ~
-> g. ~만큼 -하다
-
-violate
-> v. 위반하다, 방해하다
-
 indicator
 > n. 지시자
 
 explicitly
 > adv. 명시적으로
-
-validate
-> v. 검증하다, 유효하게 하다
 
 hold
 > v. 잡다, 보유하다
@@ -74,9 +46,6 @@ roughly
 luggage
 > n. 짐
 
-take place
-> pv. 일어나다, ~하고 있다 (happen, occur)
-
 be able to
 > g. 가능하다.
 
@@ -85,7 +54,7 @@ most
 
 to do this
 > g. 이것을 하기 위해
-
+---
 having a trouble
 > g. 문제가 있다.
 
@@ -536,9 +505,6 @@ renouned
 
 would like
 > pv. ~하고 싶다
-
-compatibility
-> n. 적합성, 호환성
 
 illustrate
 > v. 설명하다
@@ -1104,9 +1070,6 @@ explain
 describe
 > v. 묘사하다, 설명하다, 평하다
 
-statement
-> n. 성명, 진술, 서술, 성명서, 진술서
-
 messenger
 > n. 전달자, 전령, 배달부, 메시지 전송 프로그램
 
@@ -1426,3 +1389,77 @@ extension
 
 implementation
 > n. 결정 또는 계획을 실행하는 과정, 실행
+
+compatibility
+> n. 적합성, 호환성
+
+no matter how
+> adv. (=however)아무리 ~하더라도
+
+hence
+> adv. 이러한 이유로
+
+overhauled
+> n. 정밀 검사
+
+teleoperation
+> n. 원격 조작
+
+prioritize
+> v. 우선시하다, 우선순위를 정하다
+
+violate
+> v. 위반하다, 방해하다
+
+validate
+> v. 검증하다, 유효하게 하다
+
+take place
+> pv. 일어나다, ~하고 있다 (happen, occur)
+
+simpleness
+> n. 단순성
+
+robustness
+> n. 견고성
+
+as - as ~
+> g. ~만큼 -하다
+
+that said,
+> adv. 그렇긴 하지만, 그래도
+
+good practice
+> n. 좋은 방법
+
+surround
+> v. 둘러싸다
+
+statement
+> n. 성명, 진술, 서술, 성명서, 진술서
+
+-statements
+> suf. (프로그래밍에서의) -문 
+> - ex) 조건문, 반복문
+
+construction
+> n. 구성
+
+composability
+> n. 다양한 방식으로 모듈화되는 조건, 구성가능성
+
+monolithic
+> adj. (조직 또는 시스템의)크고 강력하며 다루기 힘들고 분리할 수 없는 단일의
+
+compose
+> v. (글이나 노래를)짓다, 작성하다
+
+observable
+> adj. 관찰할 수 있는
+
+composable
+> adj. 구성할 수 있는
+
+facilitate
+> v. 용이하게 하다
+

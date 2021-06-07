@@ -54,15 +54,9 @@ most
 
 to do this
 > g. 이것을 하기 위해
----
+
 having a trouble
 > g. 문제가 있다.
-
-worse
-> adj. 보다 나쁜, 악화되는
-
-precedence over
-> n. 우선권
 
 strategy
 > n. 전략
@@ -81,10 +75,7 @@ guarantee
 
 exactly
 > adv. 정확하게
-
-aware
-> v. 인식하다
-
+---
 mutable
 > adj. 변하기 쉬운
 
@@ -1462,4 +1453,13 @@ composable
 
 facilitate
 > v. 용이하게 하다
+
+worse
+> adj. 보다 나쁜, 악화되는
+
+precedence over
+> n. 우선권
+
+aware
+> v. 인식하다
 

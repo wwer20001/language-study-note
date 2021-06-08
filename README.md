@@ -28,24 +28,6 @@ st. 문장 sentence
 suf. 접미사 suffix
 
 # 5
-indicator
-> n. 지시자
-
-explicitly
-> adv. 명시적으로
-
-hold
-> v. 잡다, 보유하다
-
-evaluation
-> n. 평가
-
-roughly
-> adv. 대충, 대강
-
-luggage
-> n. 짐
-
 be able to
 > g. 가능하다.
 
@@ -75,7 +57,7 @@ guarantee
 
 exactly
 > adv. 정확하게
----
+
 mutable
 > adj. 변하기 쉬운
 
@@ -106,7 +88,7 @@ grab a seat
 
 typically
 > adv. 일반적으로
-
+---
 while
 > adv. ~하는 동안
 
@@ -629,9 +611,6 @@ bring
 
 brought
 > v. bring의 과거형, 가져왔다
-
-as
-> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는데 사용
 
 crane
 > n. 기중기
@@ -1448,9 +1427,6 @@ compose
 observable
 > adj. 관찰할 수 있는
 
-composable
-> adj. 구성할 수 있는
-
 facilitate
 > v. 용이하게 하다
 
@@ -1462,4 +1438,28 @@ precedence over
 
 aware
 > v. 인식하다
+
+indicator
+> n. 지시자
+
+explicitly
+> adv. 명시적으로
+
+hold
+> v. 잡다, 보유하다
+
+evaluation
+> n. 평가
+
+roughly
+> adv. 대충, 대강
+
+luggage
+> n. 짐
+
+as
+> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는데 사용
+
+composable
+> adj. 구성할 수 있는
 

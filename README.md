@@ -28,15 +28,6 @@ st. 문장 sentence
 suf. 접미사 suffix
 
 # 5
-be able to
-> g. 가능하다.
-
-most
-> adv. 대부분의
-
-to do this
-> g. 이것을 하기 위해
-
 having a trouble
 > g. 문제가 있다.
 
@@ -88,12 +79,9 @@ grab a seat
 
 typically
 > adv. 일반적으로
----
+
 while
 > adv. ~하는 동안
-
-demonstrate
-> v. 증명하다, 시연하다
 
 iterate
 > v. 반복하다
@@ -115,10 +103,7 @@ pick out
 
 temporarily
 > adv. 일시적으로
-
-choose
-> v. 선택하다
-
+---
 succeed
 > v. 성공하다
 
@@ -1459,6 +1444,21 @@ luggage
 
 as
 > prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는데 사용
+
+demonstrate
+> v. 증명하다, 시연하다
+
+choose
+> v. 선택하다
+
+be able to
+> g. 가능하다.
+
+most
+> adv. 대부분의
+
+to do this
+> g. 이것을 하기 위해
 
 composable
 > adj. 구성할 수 있는

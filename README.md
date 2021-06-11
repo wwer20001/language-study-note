@@ -28,15 +28,6 @@ st. 문장 sentence
 suf. 접미사 suffix
 
 # 5
-having a trouble
-> g. 문제가 있다.
-
-strategy
-> n. 전략
-
-neither
-> adv. A도 아니고 B도 아닌
-
 serve
 > v. 섬기다, 보조하다
 
@@ -107,18 +98,6 @@ temporarily
 succeed
 > v. 성공하다
 
-get off
-> pv. 내리다
-
-specified
-> adj. 지정된
-
-inability
-> n. 능력의 부족으로 어떠한 일을 할 수 없음
-
-inevitably
-> adv. 필연적으로
-
 repository
 > n. 저장소
 
@@ -128,9 +107,6 @@ pricise
 
 deliver
 > v. 가하다, 배달하다, 넘겨주다
-
-avail
-> v. 유용하다, 도움이 되다
 
 awful
 > adj. 무서운, 끔찍한
@@ -1462,4 +1438,28 @@ to do this
 
 composable
 > adj. 구성할 수 있는
+
+get off
+> pv. 내리다
+
+specified
+> adj. 지정된
+
+inability
+> n. 능력의 부족으로 어떠한 일을 할 수 없음
+
+inevitably
+> adv. 필연적으로
+
+avail
+> v. 유용하다, 도움이 되다
+
+having a trouble
+> g. 문제가 있다.
+
+strategy
+> n. 전략
+
+neither
+> adv. A도 아니고 B도 아닌
 

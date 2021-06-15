@@ -28,15 +28,6 @@ st. 문장 sentence
 suf. 접미사 suffix
 
 # 5
-serve
-> v. 섬기다, 보조하다
-
-serve as
-> pv. ~의 역할을 하다, ~으로 사용하다
-
-guarantee
-> n. 보증
-
 exactly
 > adv. 정확하게
 
@@ -94,7 +85,7 @@ pick out
 
 temporarily
 > adv. 일시적으로
----
+
 succeed
 > v. 성공하다
 
@@ -110,7 +101,7 @@ deliver
 
 awful
 > adj. 무서운, 끔찍한
-
+---
 hoist
 > v. 감아올리다, (깃발 따위를)계양하다
 
@@ -1462,4 +1453,13 @@ strategy
 
 neither
 > adv. A도 아니고 B도 아닌
+
+serve
+> v. 섬기다, 보조하다
+
+serve as
+> pv. ~의 역할을 하다, ~으로 사용하다
+
+guarantee
+> n. 보증
 

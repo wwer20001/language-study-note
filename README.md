@@ -28,15 +28,6 @@ st. 문장 sentence
 suf. 접미사 suffix
 
 # 5
-exactly
-> adv. 정확하게
-
-mutable
-> adj. 변하기 쉬운
-
-immutable
-> adj. 불변의, 변하지 않는
-
 dedicated
 > adj. 전용의, 전담
 
@@ -105,33 +96,11 @@ awful
 hoist
 > v. 감아올리다, (깃발 따위를)계양하다
 
-assuming
-> n. 가정
-
-dictate
-> n. 명령
-
-assurance
-> n. 보증
-
-lack
-> v. 부족하다
-
-periodically
-> adv. 주기적으로
-
-forecast
-> n. 예보, 예상, 예측
-
 suggest
 > v. 제안하다
 
 infrastructure
 > n. 하부구조
-
-segment
-> n. 분절   
-> v. 분할하다
 
 compound
 > n. 화합물, 복합
@@ -1462,4 +1431,35 @@ serve as
 
 guarantee
 > n. 보증
+
+assuming
+> n. 가정
+
+dictate
+> n. 명령
+
+assurance
+> n. 보증
+
+lack
+> v. 부족하다
+
+periodically
+> adv. 주기적으로
+
+forecast
+> n. 예보, 예상, 예측
+
+segment
+> n. 분절   
+> v. 분할하다
+
+exactly
+> adv. 정확하게
+
+mutable
+> adj. 변하기 쉬운
+
+immutable
+> adj. 불변의, 변하지 않는
 

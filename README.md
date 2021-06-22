@@ -27,15 +27,7 @@ st. 문장 sentence
 
 suf. 접미사 suffix
 
-# 5
-dedicated
-> adj. 전용의, 전담
-
-programmatically
-> adv. 프로그래밍 방식으로
-
-obtain
-> v. 얻다, 획득하다
+ph. 구 phrase
 
 # 6
 ensure
@@ -92,7 +84,7 @@ deliver
 
 awful
 > adj. 무서운, 끔찍한
----
+
 hoist
 > v. 감아올리다, (깃발 따위를)계양하다
 
@@ -104,9 +96,6 @@ infrastructure
 
 compound
 > n. 화합물, 복합
-
-enforce
-> v. 억지로 시키다, 시행하다
 
 fix
 > v. 고치다, 수리하다, 고정하다
@@ -126,12 +115,9 @@ annual
 distribution
 > n. 분포, 분배
 
-substantiate
-> v. 실증하다, 실체화하다
-
 accelerometer
 > n. 가속도계
-
+---
 distribute
 > v. 분배하다, 배포하다
 
@@ -316,9 +302,6 @@ characteristic
 
 least
 > adj. 가장 작은(적은)
-
-integrate
-> v. 통합되다
 
 pit
 > n. 함정, 지옥, 구덩이
@@ -774,9 +757,6 @@ i.e.
 
 vice versa
 > adv. 반대로 하다, 그 반대의 경우도 마찬가지로
-
-have to
-> av. 해야한다(must)
 
 exploit
 > v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
@@ -1462,4 +1442,41 @@ mutable
 
 immutable
 > adj. 불변의, 변하지 않는
+
+# 14
+enforce
+> v. 억지로 시키다, 시행하다
+
+substantiate
+> v. 실증하다, 실체화하다
+
+dedicated
+> adj. 전용의, 전담
+
+programmatically
+> adv. 프로그래밍 방식으로
+
+obtain
+> v. 얻다, 획득하다
+
+primitive
+> adj. 기본적인
+
+integrate
+> v. 통합되다
+
+orchestrate
+> v. 조율하다
+
+shorthand
+> n. 속기, 약어, 줄여서 쓴 것
+
+as a -
+> ph. -으로
+
+have to
+> av. 해야한다(must)
+
+scheme
+> n. 체계, 계획
 

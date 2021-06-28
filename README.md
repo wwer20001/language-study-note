@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 6
-ensure
-> v. 보장하다, 안전하게 하다
-
-get ~ done
-> pv. 끝내다, ~을 끝내다
-
-finish
-> v. 끝내다
-
 grab a seat
 > pv. 자리를 잡다
 
@@ -117,16 +108,10 @@ distribution
 
 accelerometer
 > n. 가속도계
----
-distribute
-> v. 분배하다, 배포하다
 
 reuse
 > n. 재사용   
 > v. 재사용하다
-
-promote
-> v. 홍보하다
 
 implement
 > n. 도구   
@@ -140,16 +125,7 @@ migrate
 
 consider
 > v. 고려하다
-
-signify
-> v. 의미하다
-
-incorporate
-> n. 통합
-
-intensive
-> adj. 강한
-
+## test
 influence
 > n. 영향   
 > v. ~에 영향을 미치다
@@ -1382,9 +1358,6 @@ composable
 get off
 > pv. 내리다
 
-specified
-> adj. 지정된
-
 inability
 > n. 능력의 부족으로 어떠한 일을 할 수 없음
 
@@ -1479,4 +1452,37 @@ have to
 
 scheme
 > n. 체계, 계획
+
+ensure
+> v. 보장하다, 안전하게 하다
+
+get ~ done
+> pv. 끝내다, ~을 끝내다
+
+finish
+> v. 끝내다
+
+distribute
+> v. 분배하다, 배포하다
+
+promote
+> v. 홍보하다
+
+signify
+> v. 의미하다
+
+incorporate
+> n. 통합
+
+intensive
+> adj. 강한
+
+specified
+> adj. 지정된
+
+await
+> v. 기다리다
+
+naturally
+> adv. 당연히, 자연스럽게
 

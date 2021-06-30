@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 6
-grab a seat
-> pv. 자리를 잡다
-
-typically
-> adv. 일반적으로
-
-while
-> adv. ~하는 동안
-
 iterate
 > v. 반복하다
 
@@ -125,19 +116,6 @@ migrate
 
 consider
 > v. 고려하다
-## test
-influence
-> n. 영향   
-> v. ~에 영향을 미치다
-
-encounter
-> v. 만나다, 부닥치다, 당하다, 교전하다
-
-further
-> adv. 게다가, 더욱이
-
-mention
-> v. 언급하다
 
 revenue
 > n. 수익
@@ -154,10 +132,7 @@ thought
 # 8
 actually
 > adv. 사실은
-
-whenever
-> conj. ~할 때는 언제나
-
+## test
 could
 > v. can의 과거형, ~할 수 있었다.
 
@@ -1485,4 +1460,38 @@ await
 
 naturally
 > adv. 당연히, 자연스럽게
+
+influence
+> n. 영향   
+> v. ~에 영향을 미치다
+
+encounter
+> v. 만나다, 부닥치다, 당하다, 교전하다
+
+further
+> adv. 게다가, 더욱이
+
+mention
+> v. 언급하다
+
+whenever
+> conj. ~할 때는 언제나
+
+grab a seat
+> pv. 자리를 잡다
+
+typically
+> adv. 일반적으로
+
+while
+> adv. ~하는 동안
+
+measure
+> n. 조치
+
+except for ~
+> prep. ~을 제외하고
+
+suited
+> adj. 적합한
 

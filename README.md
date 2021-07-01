@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 6
-iterate
-> v. 반복하다
-
-increment
-> n. 증가
-
-embed
-> v. 끼워넣다
-
 existing
 > adj. 기존, 기존의
 
@@ -132,7 +123,7 @@ thought
 # 8
 actually
 > adv. 사실은
-## test
+
 could
 > v. can의 과거형, ~할 수 있었다.
 
@@ -142,27 +133,12 @@ cause
 durable
 > adj. 튼튼한, 영속성이 있는
 
-exclude
-> v. 들어오지 못하게 하다, 배척하다
-
 furthermore
 > adv. 더욱이
 
-squirm
-> v. 몸부림치다. 꿈틀거리다
-
-will
-> v. ~할 것이다.
-
-either
-> pron. 어느 한 쪽, 어느 쪽인가
-
 refuse
 > v. 거부하다, 거절하다
-
-fetch
-> v. 가져오다
-
+## test
 omit
 > v. 생략하다
 
@@ -358,9 +334,6 @@ promiscuity
 
 version promiscuity
 > n. 버전 무차별성, 버전이 뒤섞인 상태
-
-propose
-> v. 제안하다
 
 assign
 > v. 할당하다
@@ -1494,4 +1467,43 @@ except for ~
 
 suited
 > adj. 적합한
+
+exclude
+> v. 들어오지 못하게 하다, 배척하다
+
+squirm
+> v. 몸부림치다. 꿈틀거리다
+
+will
+> v. ~할 것이다.
+
+either
+> pron. 어느 한 쪽, 어느 쪽인가
+
+fetch
+> v. 가져오다
+
+iterate
+> v. 반복하다
+
+increment
+> n. 증가
+
+embed
+> v. 끼워넣다
+
+abstract
+> n. 추상, 요약
+
+purely
+> adv. 전혀, 순수하게
+
+propose
+> v. 제안하다
+
+timestamp
+> v. 시간 또는 날짜를 기록하다
+
+witness
+> v. 목격하다
 

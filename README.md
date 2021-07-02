@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 6
-existing
-> adj. 기존, 기존의
-
-instead of
-> prep. ~대신에
-
-pick out
-> pv. 골라내다
-
 temporarily
 > adv. 일시적으로
 
@@ -138,9 +129,6 @@ furthermore
 
 refuse
 > v. 거부하다, 거절하다
-## test
-omit
-> v. 생략하다
 
 specify
 > v. 지정하다
@@ -168,7 +156,7 @@ govern
 
 chronological
 > adj. 연대순의
-
+## test
 properly
 > adv. 정확히
 
@@ -1506,4 +1494,28 @@ timestamp
 
 witness
 > v. 목격하다
+
+omit
+> v. 생략하다
+
+existing
+> adj. 기존, 기존의
+
+instead of
+> prep. ~대신에
+
+pick out
+> pv. 골라내다
+
+outpace
+> v. 앞지르다
+
+effort
+> n. 노력
+
+best effort
+> n. 최선의 노력
+
+basis
+> n. 기준, 기초
 

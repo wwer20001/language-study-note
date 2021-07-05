@@ -29,16 +29,6 @@ suf. 접미사 suffix
 
 ph. 구 phrase
 
-# 6
-temporarily
-> adv. 일시적으로
-
-succeed
-> v. 성공하다
-
-repository
-> n. 저장소
-
 # 7
 pricise
 > adj. 정확한
@@ -156,15 +146,6 @@ govern
 
 chronological
 > adj. 연대순의
-## test
-properly
-> adv. 정확히
-
-associate
-> v. 결합시키다, 관련시키다
-
-ecosystem
-> n. 생태계
 
 manner
 > n. 방법, 종류
@@ -180,13 +161,7 @@ compilation
 
 predefine
 > n. 사전 정의
-
-although
-> conj. 비록 ~일지라도, ~이기는 하지만
-
-so far
-> adv. 지금까지
-
+## test
 split
 > v. 쪼개다, 나누다, 찢다
 
@@ -1518,4 +1493,28 @@ best effort
 
 basis
 > n. 기준, 기초
+
+properly
+> adv. 정확히
+
+associate
+> v. 결합시키다, 관련시키다
+
+ecosystem
+> n. 생태계
+
+although
+> conj. 비록 ~일지라도, ~이기는 하지만
+
+so far
+> adv. 지금까지
+
+temporarily
+> adv. 일시적으로
+
+succeed
+> v. 성공하다
+
+repository
+> n. 저장소
 

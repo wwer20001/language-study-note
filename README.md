@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 7
-pricise
-> adj. 정확한
-
-deliver
-> v. 가하다, 배달하다, 넘겨주다
-
-awful
-> adj. 무서운, 끔찍한
-
 hoist
 > v. 감아올리다, (깃발 따위를)계양하다
 
@@ -161,7 +152,7 @@ compilation
 
 predefine
 > n. 사전 정의
-## test
+
 split
 > v. 쪼개다, 나누다, 찢다
 
@@ -181,18 +172,12 @@ dread
 > n. 공포, 무서운 것 또는 사람   
 > adj. 무서운, 끔찍한
 
-concerned with ~
-> pv. ~에 관심을 가지다
-
 illness
 > n. 병고
 
 characteristic
 > n. 특성
-
-least
-> adj. 가장 작은(적은)
-
+## test
 pit
 > n. 함정, 지옥, 구덩이
 
@@ -457,8 +442,6 @@ emit
 
 ceiling
 > n. 천장, 상승 한계, 최고 한도
-
----
 
 breakdown
 > n. 고장, 분석, 결렬
@@ -1517,4 +1500,19 @@ succeed
 
 repository
 > n. 저장소
+
+concerned with ~
+> pv. ~에 관심을 가지다
+
+least
+> adj. 가장 작은(적은)
+
+pricise
+> adj. 정확한
+
+deliver
+> v. 가하다, 배달하다, 넘겨주다
+
+awful
+> adj. 무서운, 끔찍한
 

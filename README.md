@@ -30,24 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 7
-hoist
-> v. 감아올리다, (깃발 따위를)계양하다
-
-suggest
-> v. 제안하다
-
-infrastructure
-> n. 하부구조
-
-compound
-> n. 화합물, 복합
-
-fix
-> v. 고치다, 수리하다, 고정하다
-
-subset
-> n. 큰 그룹에 연관된 부분
-
 rigged
 > adj. 조작된
 
@@ -177,7 +159,7 @@ illness
 
 characteristic
 > n. 특성
-## test
+
 pit
 > n. 함정, 지옥, 구덩이
 
@@ -190,9 +172,6 @@ mathematical
 notation
 > n. 표기법
 
-equivalent
-> adj. (의미, 중요도가)동등한, 맞먹는
-
 aspect
 > n. 방향, 방면, 양상, 외양, 모습
 
@@ -204,10 +183,7 @@ take ~ off
 
 specific
 > adj. 특정한, 특유한
-
-specifically
-> adv. 구체적으로 특별히
-
+## test
 invisible
 > adj. 보이지 않는, 볼 수 없는
 
@@ -657,9 +633,6 @@ therefore
 translucent
 > adj. 투명한
 
-otherwise
-> adj. 그렇지 않으면
-
 fine tune
 > pv. 미세조정하다, 최상의 또는 원하는 성능을 달성하기 위해 (무언가를) 미세하게 조정하다
 
@@ -988,9 +961,6 @@ make sure
 find out
 > pv. 찾아내다, 발견하다
 
-certain
-> adj. 어떤, 특정한
-
 situate
 > v. 어떤 장소나 위치에 놓거나 고정하다
 
@@ -1036,9 +1006,6 @@ however
 
 consistent
 > adj. 일관된
-
-rely
-> v. 의지하다
 
 such
 > adv. 이러한, ~와 같은
@@ -1515,4 +1482,93 @@ deliver
 
 awful
 > adj. 무서운, 끔찍한
+
+equivalent
+> adj. (의미, 중요도가)동등한, 맞먹는
+
+specifically
+> adv. 구체적으로 특별히
+
+hoist
+> v. 감아올리다, (깃발 따위를)계양하다
+
+suggest
+> v. 제안하다
+
+infrastructure
+> n. 하부구조
+
+commerce
+> n. 상업
+
+rely
+> v. 의지하다
+
+exclusively
+> adv. 독점적으로, 전적으로
+
+inherent
+> adj. 타고난, 내재된, 본질적인
+
+suffer
+> v. (나쁘거나 불쾌한 것을) 참다, 경험하다, 고통을 겪다
+
+reversible
+> adj. 거꾸로 할 수 있는, 가역적인, 되돌릴 수 있는
+
+mediate
+> v. 중재하다
+
+dispute
+> n. 분쟁
+
+practical
+> adj. 실제의, 실용적인
+
+cut off
+> pv. 끊다, 차단하다
+
+possibility
+> n. 가능성
+
+broad
+> adj. (개념적인 면에서) 넓은
+
+wide
+> adj. (물리적인 넓이나 폭이) 넓은
+
+reversal
+> n. 반전, 역전
+
+wary
+> adj. 조심성있는, 경계하는
+
+# 15
+
+hassle
+> v. 괴롭히다, 훼방을 놓다
+
+compound
+> n. 화합물, 복합
+
+fix
+> v. 고치다, 수리하다, 고정하다
+
+subset
+> n. 큰 그룹에 연관된 부분
+
+otherwise
+> adj. 그렇지 않으면
+
+certain
+> adj. 어떤, 특정한
+
+unavoidable
+> adj. 피할 수 없는
+
+currency
+> n. 통화, 특정 국가에서 일반적으로 사용되는 화폐 시스템
+
+uncertainty
+> n. 불확실성
 

@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 7
-rigged
-> adj. 조작된
-
-put up with
-> pv. ~을 참다
-
-annual
-> n. 연간, 일년의
-
 distribution
 > n. 분포, 분배
 
@@ -183,7 +174,7 @@ take ~ off
 
 specific
 > adj. 특정한, 특유한
-## test
+
 invisible
 > adj. 보이지 않는, 볼 수 없는
 
@@ -204,9 +195,6 @@ individual
 > n. 개인   
 > adj. 개인의, 각각의
 
-suspend
-> v. 매달다, 연기하다, 유보하다
-
 require
 > v. 필요하다, 요구하다
 
@@ -215,7 +203,7 @@ inefficient
 
 significant
 > adj. 중요한, 의미있는
-
+## test
 infamous
 > adj. 악명높은, 불명예스러운
 
@@ -1571,4 +1559,16 @@ currency
 
 uncertainty
 > n. 불확실성
+
+suspend
+> v. 매달다, 연기하다, 유보하다
+
+rigged
+> adj. 조작된
+
+put up with
+> pv. ~을 참다
+
+annual
+> n. 연간, 일년의
 

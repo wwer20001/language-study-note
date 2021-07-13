@@ -30,16 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 7
-distribution
-> n. 분포, 분배
-
-accelerometer
-> n. 가속도계
-
-reuse
-> n. 재사용   
-> v. 재사용하다
-
 implement
 > n. 도구   
 > v. 구현하다
@@ -203,24 +193,9 @@ inefficient
 
 significant
 > adj. 중요한, 의미있는
-## test
-infamous
-> adj. 악명높은, 불명예스러운
 
 veriety
 > n. 종류
-
-capable
-> adj. 유능한, 자격이 있는
-
-figure out
-> pv. 알아내다
-
-renouned
-> adj. 유명한
-
-would like
-> pv. ~하고 싶다
 
 illustrate
 > v. 설명하다
@@ -233,7 +208,7 @@ declare
 
 treat
 > v. 대하다, 대접하다, 치료하다, 취급하다
-
+## test
 bite
 > v. 물다
 
@@ -1571,4 +1546,29 @@ put up with
 
 annual
 > n. 연간, 일년의
+
+infamous
+> adj. 악명높은, 불명예스러운
+
+capable
+> adj. 유능한, 자격이 있는
+
+figure out
+> pv. 알아내다
+
+renouned
+> adj. 유명한
+
+would like
+> pv. ~하고 싶다
+
+distribution
+> n. 분포, 분배
+
+accelerometer
+> n. 가속도계
+
+reuse
+> n. 재사용   
+> v. 재사용하다
 

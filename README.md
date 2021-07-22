@@ -30,16 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 7
-implement
-> n. 도구   
-> v. 구현하다
-
-magnetometer
-> n. 자력계
-
-migrate
-> v. 이주하다, 옮기다, 변경하다
-
 consider
 > v. 고려하다
 
@@ -208,7 +198,7 @@ declare
 
 treat
 > v. 대하다, 대접하다, 치료하다, 취급하다
-## test
+
 bite
 > v. 물다
 
@@ -218,9 +208,6 @@ bitten
 
 promiscuity
 > n. 무차별 상태 또는 사실, 뒤섞인 상태, 뒤범벅
-
-version promiscuity
-> n. 버전 무차별성, 버전이 뒤섞인 상태
 
 assign
 > v. 할당하다
@@ -233,13 +220,7 @@ treatment
 
 even though
 > conj. 그래도, 비록 ~할지라도
-
-concatenation
-> n. 연쇄, 연속
-
-unless
-> conj. 그렇지 않으면
-
+## test
 generate
 > v. 생성하다, 발생시키다
 
@@ -1571,4 +1552,23 @@ accelerometer
 reuse
 > n. 재사용   
 > v. 재사용하다
+
+version promiscuity
+> n. 버전 무차별성, 버전이 뒤섞인 상태
+
+concatenation
+> n. 연쇄, 연속
+
+unless
+> conj. 그렇지 않으면
+
+implement
+> n. 도구   
+> v. 구현하다
+
+magnetometer
+> n. 자력계
+
+migrate
+> v. 이주하다, 옮기다, 변경하다
 

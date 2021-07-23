@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 7
-consider
-> v. 고려하다
-
-revenue
-> n. 수익
-
-casualties
-> n. 사상자
-
 unresolved
 > adj. 해결되지 않은
 
@@ -220,22 +211,12 @@ treatment
 
 even though
 > conj. 그래도, 비록 ~할지라도
-## test
+
 generate
 > v. 생성하다, 발생시키다
 
-trickle
-> v. 조금씩 흐르다
-
 decrease
 > v. 줄다, 감소하다, 내리다
-
-no matter where
-> adv. 어디에 있든지
-
-regardless
-> adv. 상관없이, 비용에 구애되지 않고   
-> adj. 부주의한
 
 once
 > adv. 한번
@@ -243,17 +224,7 @@ once
 
 borrow
 > v. 차용하다, 취하다
-
-entire
-> adj. 완전한, 전체의
-
-come out
-> pv. 나오다, 나타내다
-
-figure
-> n. 표상  
-> v. 나타나다
-
+## test
 appointment
 > n. 약속
 
@@ -1571,4 +1542,33 @@ magnetometer
 
 migrate
 > v. 이주하다, 옮기다, 변경하다
+
+trickle
+> v. 조금씩 흐르다
+
+no matter where
+> adv. 어디에 있든지
+
+regardless
+> adv. 상관없이, 비용에 구애되지 않고   
+> adj. 부주의한
+
+entire
+> adj. 완전한, 전체의
+
+come out
+> pv. 나오다, 나타내다
+
+figure
+> n. 표상  
+> v. 나타나다
+
+consider
+> v. 고려하다
+
+revenue
+> n. 수익
+
+casualties
+> n. 사상자
 

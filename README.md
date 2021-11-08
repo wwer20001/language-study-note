@@ -29,17 +29,7 @@ suf. 접미사 suffix
 
 ph. 구 phrase
 
-# 7
-unresolved
-> adj. 해결되지 않은
-
-thought
-> v. think의 과거형, 생각했다.
-
 # 8
-actually
-> adv. 사실은
-
 could
 > v. can의 과거형, ~할 수 있었다.
 
@@ -224,9 +214,6 @@ once
 
 borrow
 > v. 차용하다, 취하다
-## test
-appointment
-> n. 약속
 
 deployment
 > n. 전개, 배포
@@ -249,12 +236,9 @@ institution
 coporation
 > n. 법인, 회사
 
-underlie
-> v. ~의 아래에 있다, ~의 아래에 놓이다
-
 convention
 > n. 협약, 관례, 관습, 집회
-
+## test
 semantic
 > adj. 의미의, 의미론의, 단어의 의미와 관련된
 
@@ -1571,4 +1555,19 @@ revenue
 
 casualties
 > n. 사상자
+
+appointment
+> n. 약속
+
+underlie
+> v. ~의 아래에 있다, ~의 아래에 놓이다
+
+unresolved
+> adj. 해결되지 않은
+
+thought
+> v. think의 과거형, 생각했다.
+
+actually
+> adv. 사실은
 

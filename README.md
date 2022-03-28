@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-could
-> v. can의 과거형, ~할 수 있었다.
-
-cause
-> n. 원인
-
-durable
-> adj. 튼튼한, 영속성이 있는
-
 furthermore
 > adv. 더욱이
 
@@ -52,7 +43,7 @@ helpful
 > adj. 도움이 되는
 
 empower
-> v. ~에게 권한을 부여하다, ~할 수 있게 하다
+> v. -에게 권한을 부여하다, -할 수 있게 하다
 
 verify
 > v. 검증하다, 확인하다
@@ -225,7 +216,7 @@ usually
 > adv. 보통
 
 according to
-> prep. ~에 따라, ~에 의하여
+> prep. -에 따라, -에 의하여
 
 alternatively
 > adv. 대안적으로
@@ -238,24 +229,15 @@ coporation
 
 convention
 > n. 협약, 관례, 관습, 집회
-## test
+
 semantic
 > adj. 의미의, 의미론의, 단어의 의미와 관련된
-
-functionality
-> n. 기능성
 
 compatible
 > adj. 호환되는, 양립가능한
 
 incompatible
 > adj. 양립할 수 없는
-
-unmatched
-> adj. 상대가 없는
-
-bullet
-> n. 총알, 글머리 기호
 
 bring
 > v. 가져오다
@@ -269,7 +251,7 @@ crane
 
 accuracy 
 > n. 정확성, 정확
-
+# test
 ideal
 > n. 이상   
 > adj. 이상의, 관념적인
@@ -1560,7 +1542,7 @@ appointment
 > n. 약속
 
 underlie
-> v. ~의 아래에 있다, ~의 아래에 놓이다
+> v. -의 아래에 있다, -의 아래에 놓이다
 
 unresolved
 > adj. 해결되지 않은
@@ -1571,3 +1553,26 @@ thought
 actually
 > adv. 사실은
 
+functionality
+> n. 기능성
+
+unmatched
+> adj. 상대가 없는
+
+bullet
+> n. 총알, 글머리 기호
+
+could
+> v. can의 과거형, ~할 수 있었다.
+
+cause
+> n. 원인
+
+durable
+> adj. 튼튼한, 영속성이 있는
+
+article
+> n. 어떤 내용을 설명하는 글
+
+preparation
+> n. 준비

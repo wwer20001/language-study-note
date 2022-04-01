@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-furthermore
-> adv. 더욱이
-
-refuse
-> v. 거부하다, 거절하다
-
-specify
-> v. 지정하다
-
 helpful
 > adj. 도움이 되는
 
@@ -251,10 +242,6 @@ crane
 
 accuracy 
 > n. 정확성, 정확
-# test
-ideal
-> n. 이상   
-> adj. 이상의, 관념적인
 
 calibration
 > n. 기기 또는 실험 판독 값을 교정하는 동작 또는 프로세스
@@ -278,13 +265,10 @@ vest
 affect
 > v. 영향을 미치다
 
-specification
-> n. 명세서
-
 infrared
 > n. 적외선, 스펙트럼의 적외선 영역   
 > adj. 적외선의
-
+# test
 harmless
 > adj. 해가 없는, 해를 끼치지 않는
 
@@ -417,7 +401,7 @@ appropriate
 > adj. 적당한, 특유한, 적절한
 
 should
-> av. ~해야한다, ~할 것이다, ~하지 않으면 안된다
+> av. -해야한다, -할 것이다, -하지 않으면 안된다
 
 jitter
 > n. 전기 신호 또는 전자 장치에서 약간의 불규칙한 움직임, 변형 또는 불안정
@@ -459,7 +443,7 @@ mess up
 > pv. 망치다
 
 upon
-> prep. ~에, ~에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
+> prep. -에, -에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
 
 whatever
 > pron. 어떠한 일이나 양을 언급할 때 제한이 없다는 것을 강조하는데 사용
@@ -574,10 +558,10 @@ inertial
 
 until
 > prep. ~까지   
-> conj. ~할 때까지, ~하기까지
+> conj. -할 때까지, -하기까지
 
 prefer
-> v. 취하다, ~에게 우선권을 주다, ~쪽을 좋아하다
+> v. 취하다, -에게 우선권을 주다, -쪽을 좋아하다
 
 limitation
 > n. 제한사항, 한계
@@ -608,7 +592,7 @@ accquire
 
 via
 > v. 통하다   
-> prep. ~에 의하여, ~을 경유하여
+> prep. -에 의하여, -을 경유하여
 
 mandatory
 > adj. 법률 또는 규칙에 따라 요구되는, 의무적인
@@ -672,7 +656,7 @@ obvious
 > adj. 분명한, 노골적인
 
 wheather
-> conj. ~인지 어떤지, ~이든지 아니든지   
+> conj. -인지 어떤지, -이든지 아니든지   
 > pron. 둘 중 어느 하나
 
 organize
@@ -1576,3 +1560,20 @@ article
 
 preparation
 > n. 준비
+
+ideal
+> n. 이상   
+> adj. 이상의, 관념적인
+
+specification
+> n. 명세서
+
+furthermore
+> adv. 더욱이
+
+refuse
+> v. 거부하다, 거절하다
+
+specify
+> v. 지정하다
+

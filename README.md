@@ -30,14 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-helpful
-> adj. 도움이 되는
-
-empower
-> v. -에게 권한을 부여하다, -할 수 있게 하다
-
-verify
-> v. 검증하다, 확인하다
 
 reiterate
 > v. 반복하다
@@ -125,6 +117,7 @@ robust
 > adj. 건장한, 억센, 견고한
 
 # 9
+
 maintenance
 > n. 유지, 유지보수
 
@@ -259,6 +252,7 @@ look ahead
 > pv. 앞서보다, (~까지)(앞일을)내다보다
 
 # 10
+
 vest
 > n. 조끼
 
@@ -268,7 +262,7 @@ affect
 infrared
 > n. 적외선, 스펙트럼의 적외선 영역   
 > adj. 적외선의
-# test
+
 harmless
 > adj. 해가 없는, 해를 끼치지 않는
 
@@ -284,22 +278,13 @@ emit
 ceiling
 > n. 천장, 상승 한계, 최고 한도
 
-breakdown
-> n. 고장, 분석, 결렬
-
-presentation
-> n. 소개, 제출, 표시, 연출
-
-production
-> n. 생산, 제품, 연출
-
 blend
 > n. 조화, 혼합   
 > v. 섞다, 섞이다, 잘되다, 조제하다
 
 simplicity
 > n. 단순성, 단순, 간단, 간소, 순진
-
+# test
 come up
 > pv. 오다, 떠오르다, 찾아내다, 생각해내다
 
@@ -457,9 +442,6 @@ reflective
 invert
 > v. 반대로 하다, 거꾸로 하다
 
-above
-> prep. ~보다 위에
-
 instruction
 > n. 방향 또는 명령, 가르침, 교육
 
@@ -483,6 +465,7 @@ inconvenience
 > v. ~에게 불편을 느끼게 하다
 
 # 11
+
 available
 > adj. 유효한, 가능한, 사용가능한
 
@@ -888,7 +871,7 @@ due
 > adj. 정당한, 도착 예정인
 
 due to
-> prep. ~때문에, ~로 인해
+> prep. -때문에, -로 인해
 
 institutional
 > adj. 제도적인
@@ -951,6 +934,7 @@ become
 > v. ~이 되다
 
 # 13
+
 reimplementation
 > n. 재구현
 
@@ -1106,7 +1090,7 @@ serve
 > v. 섬기다, 보조하다
 
 serve as
-> pv. ~의 역할을 하다, ~으로 사용하다
+> pv. -의 역할을 하다, -으로 사용하다
 
 guarantee
 > n. 보증
@@ -1143,6 +1127,7 @@ immutable
 > adj. 불변의, 변하지 않는
 
 # 14
+
 enforce
 > v. 억지로 시키다, 시행하다
 
@@ -1555,9 +1540,6 @@ cause
 durable
 > adj. 튼튼한, 영속성이 있는
 
-article
-> n. 어떤 내용을 설명하는 글
-
 preparation
 > n. 준비
 
@@ -1576,4 +1558,34 @@ refuse
 
 specify
 > v. 지정하다
+
+breakdown
+> n. 고장, 분석, 결렬
+
+presentation
+> n. 소개, 제출, 표시, 연출
+
+production
+> n. 생산, 제품, 연출
+
+helpful
+> adj. 도움이 되는
+
+empower
+> v. -에게 권한을 부여하다, -할 수 있게 하다
+
+verify
+> v. 검증하다, 확인하다
+
+precision
+> n. 정도, 정확, 정밀
+
+above
+> prep. -보다 위에
+
+suitable
+> adj. 적절한, 적합한
+
+article
+> n. 어떤 내용을 설명하는 글
 

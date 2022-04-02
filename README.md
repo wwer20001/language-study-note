@@ -30,16 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-
-reiterate
-> v. 반복하다
-
-constraint
-> n. 강제, 제약
-
-remain
-> v. 남아있다.
-
 govern
 > v. 지배하다
 
@@ -284,37 +274,22 @@ blend
 
 simplicity
 > n. 단순성, 단순, 간단, 간소, 순진
-# test
+
 come up
 > pv. 오다, 떠오르다, 찾아내다, 생각해내다
 
 realization
 > n. 실현
 
-unobtrusively
-> adv. 눈에 띄지 않게
-
 resolution
 > n. 해결, 과학적(특히 광학) 기기로 측정할 수 있는 가장 작은 간격
-
-discussion
-> n. 토론, 논문, 변론
-
-improvement
-> n. 개량
 
 often
 > adv. 자주
 
-drift
-> n. 한 장소에서 다른 장소로 지속적인 느린 움직임, 표류
-
 warranty
 > n. 보증
-
-accumulate
-> v. 모으다, 축적하다
-
+# test
 determine
 > v. 결정하다, 정하다, 끝내다, 결심하다
 
@@ -322,7 +297,7 @@ invoke
 > v. 부르다
 
 such as
-> g. ~과 같은, 언급한 것의 예시를 소개하기 위해 사용
+> g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
 
 compromise
 > v. 손상되다, 더럽히다
@@ -1588,4 +1563,28 @@ suitable
 
 article
 > n. 어떤 내용을 설명하는 글
+
+unobtrusively
+> adv. 눈에 띄지 않게
+
+discussion
+> n. 토론, 논문, 변론
+
+improvement
+> n. 개량
+
+drift
+> n. 한 장소에서 다른 장소로 지속적인 느린 움직임, 표류
+
+accumulate
+> v. 모으다, 축적하다
+
+reiterate
+> v. 반복하다
+
+constraint
+> n. 강제, 제약
+
+remain
+> v. 남아있다.
 

@@ -30,17 +30,8 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-govern
-> v. 지배하다
-
-chronological
-> adj. 연대순의
-
 manner
 > n. 방법, 종류
-
-where were we?
-> st. 어디까지 말했죠?
 
 act as ~
 > pv. ~처럼 행동하다
@@ -289,18 +280,12 @@ often
 
 warranty
 > n. 보증
-# test
+
 determine
 > v. 결정하다, 정하다, 끝내다, 결심하다
 
-invoke
-> v. 부르다
-
 such as
 > g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
-
-compromise
-> v. 손상되다, 더럽히다
 
 capitalize
 > v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
@@ -319,7 +304,7 @@ depend on
 
 express
 > v. 표현하다
-
+# test
 put - on
 > pv. 입다, 붙이다, 신다, 놓다
 
@@ -1587,4 +1572,19 @@ constraint
 
 remain
 > v. 남아있다.
+
+invoke
+> v. 부르다
+
+compromise
+> v. 손상되다, 더럽히다
+
+govern
+> v. 지배하다
+
+chronological
+> adj. 연대순의
+
+where were we?
+> st. 어디까지 말했죠?
 

@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-predefine
-> n. 사전 정의
-
-split
-> v. 쪼개다, 나누다, 찢다
-
-versus
-> prep. ~과 비교하여
-
 instead
 > adv. 대신에
 
@@ -684,9 +675,6 @@ bring up
 bide
 > v. 때를 기다리다
 
-occupy
-> v. 점거하다, 차지하다
-
 purpose
 > n. 목적, 용도
 
@@ -1096,9 +1084,6 @@ have to
 
 scheme
 > n. 체계, 계획
-
-ensure
-> v. 보장하다, 안전하게 하다
 
 get ~ done
 > pv. 끝내다, ~을 끝내다
@@ -1580,4 +1565,29 @@ act as ~
 
 compilation
 > n. 편집
+
+ensure
+> v. 보장하다, 안전하게 하다, 확인하다
+
+like above
+> adv. 위와 같이, 위와 같은
+
+normally
+> adb. 정상적으로
+
+# 16
+predefine
+> n. 사전 정의
+
+split
+> v. 쪼개다, 나누다, 찢다
+
+versus
+> prep. -과 비교하여
+
+occupy
+> v. 점거하다, 차지하다
+
+spatial
+> n. (관련되거나 점유한)공간
 

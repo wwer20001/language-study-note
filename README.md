@@ -30,15 +30,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-manner
-> n. 방법, 종류
-
-act as ~
-> pv. ~처럼 행동하다
-
-compilation
-> n. 편집
-
 predefine
 > n. 사전 정의
 
@@ -98,7 +89,6 @@ robust
 > adj. 건장한, 억센, 견고한
 
 # 9
-
 maintenance
 > n. 유지, 유지보수
 
@@ -233,7 +223,6 @@ look ahead
 > pv. 앞서보다, (~까지)(앞일을)내다보다
 
 # 10
-
 vest
 > n. 조끼
 
@@ -304,7 +293,7 @@ depend on
 
 express
 > v. 표현하다
-# test
+
 put - on
 > pv. 입다, 붙이다, 신다, 놓다
 
@@ -314,12 +303,6 @@ lively
 conversation
 > n. 대화
 
-point A to B
-> pv. A에게 B를 가리켜주다. A에게 B를 알려주다.
-
-sometimes
-> adv. 때때로, 경우에 따라
-
 decimal sign
 > n. 소수점
 
@@ -328,13 +311,7 @@ incorrect
 
 augumented reality
 > n. 증강 현실
-
-capacity
-> n. 수용력, 생산 능력, 볼륨
-
-hence
-> adv. 이러한 이유로, ~이므로
-
+# test
 eliminate
 > v. 죽이다, 제거하다
 
@@ -425,7 +402,6 @@ inconvenience
 > v. ~에게 불편을 느끼게 하다
 
 # 11
-
 available
 > adj. 유효한, 가능한, 사용가능한
 
@@ -727,7 +703,6 @@ implicit
 > adj. 절대적인, 암시적인
 
 # 12
-
 occur
 > v. 나오다, 일어나다, 마음에 떠오르다
 
@@ -894,7 +869,6 @@ become
 > v. ~이 되다
 
 # 13
-
 reimplementation
 > n. 재구현
 
@@ -1087,7 +1061,6 @@ immutable
 > adj. 불변의, 변하지 않는
 
 # 14
-
 enforce
 > v. 억지로 시키다, 시행하다
 
@@ -1354,7 +1327,6 @@ wary
 > adj. 조심성있는, 경계하는
 
 # 15
-
 hassle
 > v. 괴롭히다, 훼방을 놓다
 
@@ -1587,4 +1559,25 @@ chronological
 
 where were we?
 > st. 어디까지 말했죠?
+
+point A to B
+> pv. A에게 B를 가리켜주다. A에게 B를 알려주다.
+
+sometimes
+> adv. 때때로, 경우에 따라
+
+capacity
+> n. 수용력, 생산 능력, 볼륨
+
+hence
+> adv. 이러한 이유로, ~이므로
+
+manner
+> n. 방법, 종류
+
+act as ~
+> pv. ~처럼 행동하다
+
+compilation
+> n. 편집
 

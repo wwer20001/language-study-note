@@ -32,16 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-dread
-> n. 공포, 무서운 것 또는 사람   
-> adj. 무서운, 끔찍한
-
-illness
-> n. 병고
-
-characteristic
-> n. 특성
-
 pit
 > n. 함정, 지옥, 구덩이
 
@@ -166,9 +156,6 @@ institution
 coporation
 > n. 법인, 회사
 
-convention
-> n. 협약, 관례, 관습, 집회
-
 semantic
 > adj. 의미의, 의미론의, 단어의 의미와 관련된
 
@@ -253,9 +240,6 @@ often
 
 warranty
 > n. 보증
-
-determine
-> v. 결정하다, 정하다, 끝내다, 결심하다
 
 such as
 > g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
@@ -444,9 +428,6 @@ regular
 anyone
 > pron. 누군가, 누구든지
 
-inertial
-> n. 관성
-
 until
 > prep. ~까지   
 > conj. -할 때까지, -하기까지
@@ -547,7 +528,6 @@ obvious
 > adj. 분명한, 노골적인
 
 wheather
-> conj. -인지 어떤지, -이든지 아니든지   
 > pron. 둘 중 어느 하나
 
 organize
@@ -555,9 +535,6 @@ organize
 
 separate
 > v. 가르다, 떼어놓다, 분류하다
-
-reduce
-> v. 줄이다
 
 those
 > pron. 그들, 그것들
@@ -576,10 +553,6 @@ expose
 
 troubleshoot
 > n. 문제 해결
-
-which
-> pron. 어느   
-> pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
 
 accomplishment
 > n. 성취
@@ -1103,9 +1076,6 @@ influence
 encounter
 > v. 만나다, 부닥치다, 당하다, 교전하다
 
-further
-> adv. 게다가, 더욱이
-
 mention
 > v. 언급하다
 
@@ -1222,9 +1192,6 @@ concerned with ~
 
 least
 > adj. 가장 작은(적은)
-
-pricise
-> adj. 정확한
 
 deliver
 > v. 가하다, 배달하다, 넘겨주다
@@ -1408,9 +1375,6 @@ casualties
 appointment
 > n. 약속
 
-underlie
-> v. -의 아래에 있다, -의 아래에 놓이다
-
 unresolved
 > adj. 해결되지 않은
 
@@ -1474,9 +1438,6 @@ empower
 
 verify
 > v. 검증하다, 확인하다
-
-precision
-> n. 정도, 정확, 정밀
 
 above
 > prep. -보다 위에
@@ -1601,4 +1562,105 @@ in place
 
 in a campaign
 > prep ph. 캠페인에서
+
+sparse
+> adj. 희박한, 부족한
+
+convenience
+> n. 편의
+
+dense
+> adj. 밀집한
+
+at the same time
+> adv. 동시에
+
+which
+> pron. 어느   
+> pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
+
+represent
+> v. 표현하다, 나타내다
+
+provisional
+> adj. 일시적인
+
+existence
+> n. 존재, 삶
+
+inertial
+> n. 관성
+
+odometer
+> n. 주행거리계
+
+dread
+> n. 공포, 무서운 것 또는 사람   
+> adj. 무서운, 끔찍한
+
+illness
+> n. 병고
+
+characteristic
+> n. 특성
+
+differ
+> v. 다르다
+
+fusion
+> n. 퓨전, 용해, 융합
+
+fallback
+> n. 비상시에 사용할 수 있는 대체 계획
+
+metric
+> adj. 미터법의
+
+convention
+> n. 규칙, 협약, 관례, 관습, 집회
+
+correspondence
+> n. 밀접한 유사성, 연결 또는 동등성
+
+simultaneous
+> adj. 동시에 발생, 작동 또는 수행되는
+
+localization
+> n. 어떤 것을 성격상 지역적으로 만들거나 특정 장소로 제한하는 과정
+
+salient
+> adj. 가장 눈에 띄거나 중요한
+
+fuse
+> v. 결합하거나 혼합하여 하나의 개체가 되다
+
+precise
+> adj. 정확한
+
+precision
+> n. 정도, 정확, 정밀
+
+meteric scale
+> n. 미터법 척도
+
+reduce
+> v. 줄이다
+
+underlie
+> v. -의 아래에 있다, -의 아래에 놓이다
+
+exceed
+> v. 초과하다, 한도를 넘다
+
+determine
+> v. 결정하다, 정하다, 끝내다, 결심하다
+
+whether
+> conj. -인지 어떤지, -이든지 아니든지, -하는지에 대한 여부
+
+further
+> adv. 게다가, 더욱이
+
+qualified
+> adj. 인증된
 

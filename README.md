@@ -15,7 +15,9 @@ av. 조동사 auxiliary verb
 
 adv. 부사 adverb   
 
-prep. 전치사 preposition   
+prep. 전치사 preposition
+
+prep ph. 전치사 숙어 preposition phrase
 
 g. 문법 grammar   
 
@@ -30,15 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-instead
-> adv. 대신에
-
-enhance
-> v. (지위, 수준, 가치 등을) 높이다
-
-more tightly
-> adv. 더 단단히
-
 dread
 > n. 공포, 무서운 것 또는 사람   
 > adj. 무서운, 끔찍한
@@ -302,19 +295,13 @@ incorrect
 
 augumented reality
 > n. 증강 현실
-# test
+
 eliminate
 > v. 죽이다, 제거하다
 
 opaque
 > n. 불투명체   
 > adj. 불투명한, 광택이 없는, 부전도성의
-
-appropriate
-> adj. 적당한, 특유한, 적절한
-
-should
-> av. -해야한다, -할 것이다, -하지 않으면 안된다
 
 jitter
 > n. 전기 신호 또는 전자 장치에서 약간의 불규칙한 움직임, 변형 또는 불안정
@@ -326,15 +313,9 @@ experiment
 > n. 실험   
 > v. 실험하다
 
-permanently
-> adv. 영구적으로
-
 point
 > v. 가리키다, 향하다
-
-alongside
-> prep. 나란히, 측면에 가깝게, 옆에
-
+# test
 registry
 > n. 기재, 등록
 
@@ -1590,4 +1571,34 @@ occupy
 
 spatial
 > n. (관련되거나 점유한)공간
+
+instead
+> adv. 대신에
+
+enhance
+> v. (지위, 수준, 가치 등을) 높이다
+
+more tightly
+> adv. 더 단단히
+
+appropriate
+> adj. 적당한, 특유한, 적절한
+
+should
+> av. -해야한다, -할 것이다, -하지 않으면 안된다
+
+permanently
+> adv. 영구적으로
+
+alongside
+> prep. 나란히, 측면에 가깝게, 옆에
+
+in time
+> prep ph. 때 맞추어, 이르게
+
+in place
+> prep ph. 제자리에, 적소에
+
+in a campaign
+> prep ph. 캠페인에서
 

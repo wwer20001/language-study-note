@@ -32,24 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 8
-pit
-> n. 함정, 지옥, 구덩이
-
-despair
-> n. 절망
-
-mathematical
-> adj. 수학의, 매우 정확한
-
-notation
-> n. 표기법
-
-aspect
-> n. 방향, 방면, 양상, 외양, 모습
-
-must
-> v. ~해야만 한다(should보다 강한)
-
 take ~ off
 > pv. ~을 떼어내다, 벗기다
 
@@ -299,7 +281,7 @@ experiment
 
 point
 > v. 가리키다, 향하다
-# test
+
 registry
 > n. 기재, 등록
 
@@ -319,19 +301,7 @@ manufacture
 
 mess up
 > pv. 망치다
-
-upon
-> prep. -에, -에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
-
-whatever
-> pron. 어떠한 일이나 양을 언급할 때 제한이 없다는 것을 강조하는데 사용
-
-prompt
-> v. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
-
-reflective
-> adj. 반사적인, 반사하는
-
+# test
 invert
 > v. 반대로 하다, 거꾸로 하다
 
@@ -1560,9 +1530,6 @@ in time
 in place
 > prep ph. 제자리에, 적소에
 
-in a campaign
-> prep ph. 캠페인에서
-
 sparse
 > adj. 희박한, 부족한
 
@@ -1663,4 +1630,49 @@ further
 
 qualified
 > adj. 인증된
+
+pit
+> n. 함정, 지옥, 구덩이
+
+despair
+> n. 절망
+
+mathematical
+> adj. 수학의, 매우 정확한
+
+upon
+> prep. -에, -에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
+
+whatever
+> pron. 어떠한 일이나 양을 언급할 때 제한이 없다는 것을 강조하는 데 사용
+
+prompt
+> v. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
+
+reflective
+> adj. 반사적인, 반사하는
+
+notation
+> n. 표기법
+
+aspect
+> n. 방향, 방면, 양상, 외양, 모습
+
+must
+> v. ~해야만 한다(should보다 강한)
+
+in a/the
+> prep ph. -에, -에서
+
+at once
+> prep ph. 즉시, 동시에
+
+at times
+> prep ph. 때때로
+
+overall
+> adj. 전반적인
+
+intersection
+> n. 교차하는 선이나 표면에 공통적인 점이나 선, 교차로, 교차점
 

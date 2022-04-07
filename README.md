@@ -31,29 +31,7 @@ suf. 접미사 suffix
 
 ph. 구 phrase
 
-# 8
-take ~ off
-> pv. ~을 떼어내다, 벗기다
-
-specific
-> adj. 특정한, 특유한
-
-invisible
-> adj. 보이지 않는, 볼 수 없는
-
-robust
-> adj. 건장한, 억센, 견고한
-
 # 9
-maintenance
-> n. 유지, 유지보수
-
-maintain
-> v. 유지하다
-
-loosely
-> adv. 느슨하게
-
 individual
 > n. 개인   
 > adj. 개인의, 각각의
@@ -109,10 +87,6 @@ generate
 
 decrease
 > v. 줄다, 감소하다, 내리다
-
-once
-> adv. 한번
-> conj. ~하면
 
 borrow
 > v. 차용하다, 취하다
@@ -301,39 +275,21 @@ manufacture
 
 mess up
 > pv. 망치다
-# test
+
 invert
 > v. 반대로 하다, 거꾸로 하다
 
 instruction
 > n. 방향 또는 명령, 가르침, 교육
 
-i.e.
-> abb. 즉
-
-vice versa
-> adv. 반대로 하다, 그 반대의 경우도 마찬가지로
-
-exploit
-> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
-
-then
-> adv. 그 때, 문제의 시간에, 그 후, 이 경우에, 따라서
-
-utilize
-> v. 활용하다, 이용하다
-
 inconvenience
 > n. 불편   
 > v. ~에게 불편을 느끼게 하다
 
 # 11
-available
-> adj. 유효한, 가능한, 사용가능한
-
 requirement
 > n. 요구사항
-
+# test
 known
 > adj. 알려진, 모두 다 아는
 
@@ -560,10 +516,6 @@ overkill
 
 likelihood
 > n. 무언가의 상태 또는 사실, 개연성
-
-reach
-> n. 범위   
-> v. 뻗다, 내밀다, 닿다
 
 probably
 > adv. 아마
@@ -1675,4 +1627,54 @@ overall
 
 intersection
 > n. 교차하는 선이나 표면에 공통적인 점이나 선, 교차로, 교차점
+
+take - off
+> pv. -을 떼어내다, 벗기다
+
+specific
+> adj. 특정한, 특유한
+
+invisible
+> adj. 보이지 않는, 볼 수 없는
+
+robust
+> adj. 건장한, 억센, 견고한
+
+i.e.
+> abb. 즉
+
+vice versa
+> adv. 그 반대의 경우도 마찬가지로
+
+exploit
+> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
+
+then
+> adv. 그 때, 문제의 시간에, 그 후, 이 경우에, 따라서
+
+utilize
+> v. 활용하다, 이용하다
+
+available
+> adj. 유효한, 가능한, 사용가능한
+
+reach
+> n. 범위   
+> v. 뻗다, 내밀다, 닿다, 도달하다
+
+altitude
+> n. 고도
+
+once
+> adv. 한번
+> conj. ~하면
+
+maintenance
+> n. 유지, 유지보수
+
+maintain
+> v. 유지하다
+
+loosely
+> adv. 느슨하게
 

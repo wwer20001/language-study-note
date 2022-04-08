@@ -573,9 +573,6 @@ except
 > prep. ~외에   
 > v. 제외하다
 
-modify
-> v. 수정하다
-
 necessary
 > n. 필요한 행동 혹은 물건  
 > adj. 필요한, 필연적인
@@ -1178,9 +1175,6 @@ subset
 otherwise
 > adj. 그렇지 않으면
 
-certain
-> adj. 어떤, 특정한
-
 unavoidable
 > adj. 피할 수 없는
 
@@ -1716,4 +1710,16 @@ federal
 
 gross income
 > n. 총수입
+
+certain
+> adj. 어떤, 특정한
+
+distant
+> adj. 먼
+
+modify
+> v. 수정하다
+
+proximity
+> n. 공간, 시간 또는 관계에서의 가까움
 

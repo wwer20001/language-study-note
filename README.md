@@ -32,16 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-individual
-> n. 개인   
-> adj. 개인의, 각각의
-
-require
-> v. 필요하다, 요구하다
-
-inefficient
-> adj. 무능한, 비효율적인
-
 significant
 > adj. 중요한, 의미있는
 
@@ -289,21 +279,15 @@ inconvenience
 # 11
 requirement
 > n. 요구사항
-# test
+
 known
 > adj. 알려진, 모두 다 아는
-
-therefore
-> adv. 따라서
 
 translucent
 > adj. 투명한
 
 fine tune
 > pv. 미세조정하다, 최상의 또는 원하는 성능을 달성하기 위해 (무언가를) 미세하게 조정하다
-
-matte
-> n. 매트
 
 softness
 > n. 유연성, 부드러움
@@ -314,18 +298,15 @@ edge
 advise
 > v. 권하다, 조언하다, 충고하다, 권고하다
 
-to V that N
-> g. N을 V하려면, N을 V하기 위해
-
 decide
 > v. 결정하다, 결심하다
-
+# test
 unlike
-> prep. ~과 달리  
+> prep. -과 달리  
 > adj. 같지 않은, 닮지 않은
 
 achieve
-> v. 이루다, 세우다, 일정한 표준에 도달하다
+> v. 이루다, 세우다, (일정한 표준에)도달하다
 
 especially
 > adv. 특히
@@ -1677,4 +1658,32 @@ maintain
 
 loosely
 > adv. 느슨하게
+
+therefore
+> adv. 따라서
+
+matte
+> n. 매트
+
+to V that N
+> g. N을 V하려면, N을 V하기 위해
+
+individual
+> n. 개인   
+> adj. 개인의, 각각의
+
+require
+> v. 필요하다, 요구하다
+
+inefficient
+> adj. 무능한, 비효율적인
+
+at a good pace
+> prep ph. 상당한 속도로
+
+at high speed
+> prep ph. 급속히
+
+at low price
+> prep ph. 낮은 가격으로
 

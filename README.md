@@ -1687,3 +1687,33 @@ at high speed
 at low price
 > prep ph. 낮은 가격으로
 
+recipient
+> n. 수납자, 수신자
+
+foreign
+> adj. 외국의
+
+income
+> n. 소득
+
+subject
+> n. 대상
+
+withholding
+> n. 원천징수
+
+department
+> n. 부서, 부
+
+treasury
+> n. 정부나 기관, 회사의 자금이나 수익
+
+amend
+> v. 개정하다
+
+federal
+> adj. 연합의, 연방의
+
+gross income
+> n. 총수입
+

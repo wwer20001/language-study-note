@@ -32,24 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-significant
-> adj. 중요한, 의미있는
-
-veriety
-> n. 종류
-
-illustrate
-> v. 설명하다
-
-turn off
-> v. 끄다
-
-declare
-> v. 알리다, 선언하다
-
-treat
-> v. 대하다, 대접하다, 치료하다, 취급하다
-
 bite
 > v. 물다
 
@@ -300,7 +282,7 @@ advise
 
 decide
 > v. 결정하다, 결심하다
-# test
+
 unlike
 > prep. -과 달리  
 > adj. 같지 않은, 닮지 않은
@@ -308,30 +290,18 @@ unlike
 achieve
 > v. 이루다, 세우다, (일정한 표준에)도달하다
 
-especially
-> adv. 특히
-
 imitate
 > v. 모방하다, 모사하다
 
 translate
 > v. 옮기다, 이동하다
 
-appropriately
-> adv. 적절하게, 적당하게
-
-assessument
-> n. 평가
-
-intuitive
-> adj. 직관적인
-
 accessivle
 > adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
 
 regular
 > adj. 정규의
-
+# test
 anyone
 > pron. 누군가, 누구든지
 
@@ -801,9 +771,6 @@ precedence over
 
 aware
 > v. 인식하다
-
-indicator
-> n. 지시자
 
 explicitly
 > adv. 명시적으로
@@ -1722,4 +1689,52 @@ modify
 
 proximity
 > n. 공간, 시간 또는 관계에서의 가까움
+
+significant
+> adj. 중요한, 의미있는
+
+veriety
+> n. 종류
+
+illustrate
+> v. 설명하다
+
+especially
+> adv. 특히
+
+appropriately
+> adv. 적절하게, 적당하게
+
+assessument
+> n. 평가
+
+intuitive
+> adj. 직관적인
+
+turn off
+> v. 끄다
+
+declare
+> v. 알리다, 선언하다
+
+treat
+> v. 대하다, 대접하다, 치료하다, 취급하다
+
+chapter
+> n. 장, 챕터
+
+indicator
+> n. 지시자
+
+exemption
+> n. 면제
+
+at 60 miles at hour
+> prep ph. 한 시간에 60마일로
+
+at your earliest convenience
+> prep ph. 가능한 빨리
+
+at the rate of
+> prep ph. -의 비율로, -의 속도로
 

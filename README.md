@@ -32,16 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-bite
-> v. 물다
-
-bitten
-> v. (bite)의 과거형, 물리다  
-> adj. 물린
-
-promiscuity
-> n. 무차별 상태 또는 사실, 뒤섞인 상태, 뒤범벅
-
 assign
 > v. 할당하다
 
@@ -301,16 +291,10 @@ accessivle
 
 regular
 > adj. 정규의
-# test
-anyone
-> pron. 누군가, 누구든지
 
 until
 > prep. ~까지   
 > conj. -할 때까지, -하기까지
-
-prefer
-> v. 취하다, -에게 우선권을 주다, -쪽을 좋아하다
 
 limitation
 > n. 제한사항, 한계
@@ -321,18 +305,9 @@ measurement
 adjustable
 > adj. 조절할 수 있는
 
-inspect
-> v. 점검하다
-
-tighten
-> v. 조이다
-
-comfortable
-> adj. 편안한
-
 diagnostic tool
 > n. 진단 도구
-
+# test
 diagnosis
 > n. 진단
 
@@ -1660,9 +1635,6 @@ income
 subject
 > n. 대상
 
-withholding
-> n. 원천징수
-
 department
 > n. 부서, 부
 
@@ -1737,4 +1709,38 @@ at your earliest convenience
 
 at the rate of
 > prep ph. -의 비율로, -의 속도로
+
+bite
+> v. 물다
+
+bitten
+> v. (bite)의 과거형, 물리다  
+> adj. 물린
+
+promiscuity
+> n. 무차별 상태 또는 사실, 뒤섞인 상태, 뒤범벅
+
+anyone
+> pron. 누군가, 누구든지
+
+prefer
+> v. 취하다, -에게 우선권을 주다, -쪽을 좋아하다
+
+inspect
+> v. 점검하다
+
+tighten
+> v. 조이다
+
+comfortable
+> adj. 편안한
+
+identification
+> n. 신분증
+
+withholding
+> n. 원천징수
+
+allowance
+> n. 수당
 

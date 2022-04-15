@@ -32,24 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-assign
-> v. 할당하다
-
-differently
-> adv. 다르게, 따로
-
-treatment
-> n. 대우, 취급법, 치료
-
-even though
-> conj. 그래도, 비록 ~할지라도
-
-generate
-> v. 생성하다, 발생시키다
-
-decrease
-> v. 줄다, 감소하다, 내리다
-
 borrow
 > v. 차용하다, 취하다
 
@@ -307,7 +289,7 @@ adjustable
 
 diagnostic tool
 > n. 진단 도구
-# test
+
 diagnosis
 > n. 진단
 
@@ -318,27 +300,12 @@ via
 > v. 통하다   
 > prep. -에 의하여, -을 경유하여
 
-mandatory
-> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
-
 democratize
 > v. 민주화하다
 
-extensive
-> adj. 광범위한
-
-expertise
-> n. 전문적 지식, 전문적 기술
-
-conform
-> v. 순응하다, 따르다
-
-nested
-> adj. 중첩된
-
 previsualize
 > n. 사전시각화
-
+# test
 rapidly
 > adv. 빠르게
 
@@ -567,9 +534,6 @@ retrieve
 
 malformed
 > adj. 흉하게 생긴, 잘못된
-
-procedure
-> n. 순서, 절차
 
 however
 > adv. 그러나
@@ -1623,9 +1587,6 @@ at high speed
 at low price
 > prep ph. 낮은 가격으로
 
-recipient
-> n. 수납자, 수신자
-
 foreign
 > adj. 외국의
 
@@ -1743,4 +1704,64 @@ withholding
 
 allowance
 > n. 수당
+
+recipient
+> n. 수납자, 수신자
+
+assign
+> v. 할당하다
+
+differently
+> adv. 다르게, 따로
+
+treatment
+> n. 대우, 취급법, 치료
+
+mandatory
+> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
+
+extensive
+> adj. 광범위한
+
+expertise
+> n. 전문 지식, 전문 기술
+
+conform
+> v. 순응하다, 따르다
+
+nested
+> adj. 중첩된
+
+even though
+> conj. 그래도, 비록 ~할지라도
+
+generate
+> v. 생성하다, 발생시키다
+
+decrease
+> v. 줄다, 감소하다, 내리다
+
+deposit
+> n. 예금
+
+escrow
+> n. 조건부 날인 증서
+
+procedure
+> n. 순서, 절차
+
+at the age of
+> prep ph. -의 나이로
+
+at the charge of
+> prep ph. -의 비용 부담으로
+
+at one's expense
+> prep ph. -의 비용으로
+
+being
+> adj. -당하고 있는
+
+misaligned
+> adj. 어긋난
 

@@ -32,24 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-usually
-> adv. 보통
-
-according to
-> prep. -에 따라, -에 의하여
-
-alternatively
-> adv. 대안적으로
-
-institution
-> n. 공공기관, 제도
-
-coporation
-> n. 법인, 회사
-
-semantic
-> adj. 의미의, 의미론의, 단어의 의미와 관련된
-
 compatible
 > adj. 호환되는, 양립가능한
 
@@ -315,27 +297,12 @@ provide
 
 explain
 > v. 설명하다
-# test
+
 describe
 > v. 묘사하다, 설명하다, 평하다
 
 messenger
 > n. 전달자, 전령, 배달부, 메시지 전송 프로그램
-
-obvious
-> adj. 분명한, 노골적인
-
-wheather
-> pron. 둘 중 어느 하나
-
-organize
-> v. 편성하다
-
-separate
-> v. 가르다, 떼어놓다, 분류하다
-
-those
-> pron. 그들, 그것들
 
 each
 > adj. ~마다, 각자
@@ -345,7 +312,7 @@ expand
 
 notice
 > n. 주의, 통지, 고지
-
+# test
 expose
 > v. 노출하다, 드러내다
 
@@ -1776,4 +1743,49 @@ respect to
 
 flickering
 > adj. 깜빡거리는
+
+usually
+> adv. 보통
+
+according to
+> prep. -에 따라, -에 의하여
+
+alternatively
+> adv. 대안적으로
+
+obvious
+> adj. 분명한, 노골적인
+
+wheather
+> pron. 둘 중 어느 하나
+
+organize
+> v. 편성하다
+
+separate
+> v. 가르다, 떼어놓다, 분류하다
+
+those
+> pron. 그들, 그것들
+
+on the waiting list
+> prep ph. 대기자 명단에
+
+institution
+> n. 공공기관, 제도
+
+coporation
+> n. 법인, 회사
+
+semantic
+> adj. 의미의, 의미론의, 단어의 의미와 관련된
+
+improve
+> v. 개선하다
+
+rewrite
+> v. 다시 쓰다
+
+rewrote
+> v. rewrite의 과거형
 

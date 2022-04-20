@@ -1789,3 +1789,6 @@ rewrite
 rewrote
 > v. rewrite의 과거형
 
+fresnel
+> n. 프레넬, 여러 개의 동심원 링으로 구성된 평면 렌즈
+

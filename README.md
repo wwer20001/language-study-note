@@ -32,15 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-borrow
-> v. 차용하다, 취하다
-
-deployment
-> n. 전개, 배포
-
-communicate
-> v. 연락하다, 소통하다
-
 usually
 > adv. 보통
 
@@ -305,15 +296,9 @@ democratize
 
 previsualize
 > n. 사전시각화
-# test
+
 rapidly
 > adv. 빠르게
-
-along
-> prep. ~을 따라서, 함께
-
-affordable
-> adj. 저렴한
 
 below
 > prep. 이하  
@@ -328,15 +313,9 @@ behind
 provide
 > v. 마련하다, 제공하다
 
-capability
-> n. 능력, 가능성
-
-various
-> adj. 여러, 다방면의, 가지각색의
-
 explain
 > v. 설명하다
-
+# test
 describe
 > v. 묘사하다, 설명하다, 평하다
 
@@ -1764,4 +1743,37 @@ being
 
 misaligned
 > adj. 어긋난
+
+borrow
+> v. 차용하다, 취하다
+
+deployment
+> n. 전개, 배포
+
+communicate
+> v. 연락하다, 소통하다
+
+along
+> prep. -을 따라서, 함께
+
+affordable
+> adj. 저렴한
+
+capability
+> n. 능력, 가능성
+
+various
+> adj. 여러, 다방면의, 가지각색의
+
+on time
+> prep ph. 정시에
+
+subsequent
+> adj. 후속, 뒤따라오는
+
+respect to
+> pv. -와 관련하다
+
+flickering
+> adj. 깜빡거리는
 

@@ -32,15 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-compatible
-> adj. 호환되는, 양립가능한
-
-incompatible
-> adj. 양립할 수 없는
-
-bring
-> v. 가져오다
-
 brought
 > v. bring의 과거형, 가져왔다
 
@@ -312,7 +303,7 @@ expand
 
 notice
 > n. 주의, 통지, 고지
-# test
+
 expose
 > v. 노출하다, 드러내다
 
@@ -336,14 +327,8 @@ anywhere
 > adv. 어딘가에, 어디든지
 
 have been +pp
-> g. ~되어 있다
-
-unprecedented
-> adj. 새로운, 전례가 없는
-
-even if
-> conj. 설사, 비록 ~일지라도
-
+> g. -되어 있다
+# test
 also
 > adv. 또한
 
@@ -1791,4 +1776,19 @@ rewrote
 
 fresnel
 > n. 프레넬, 여러 개의 동심원 링으로 구성된 평면 렌즈
+
+unprecedented
+> adj. 새로운, 전례가 없는
+
+even if
+> conj. 설사, 비록 -일지라도
+
+compatible
+> adj. 호환되는, 양립가능한
+
+incompatible
+> adj. 양립할 수 없는
+
+bring
+> v. 가져오다
 

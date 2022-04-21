@@ -791,9 +791,6 @@ promote
 signify
 > v. 의미하다
 
-incorporate
-> n. 통합
-
 intensive
 > adj. 강한
 
@@ -1791,4 +1788,52 @@ incompatible
 
 bring
 > v. 가져오다
+
+applicable
+> adj. 해당되는
+
+on a regular basis
+> prep ph. 규칙적으로
+
+splash
+> v. (액체 따위가) 튀기다
+
+shallow
+> adj. 얕은
+
+in addition to
+> prep ph. -뿐만 아니라, -외에도
+
+dissipate
+> v. 흩뜨리다
+
+advect
+> v. 유체의 흐름에 의해, 특히 대기나 바다에서 (열 또는 물질이) 수평으로 이동하다
+
+fundamental
+> adj. 기본적인, 근본적인
+
+incorporate
+> n. 통합
+
+oversaturate
+> adj. 과포화된
+
+equator
+> n. 적도
+
+attenuation
+> n. 감쇠
+
+pole
+> n. 막대기, 극
+
+probability
+> n. 가능성, 개연성, 확률
+
+displacement
+> n. 재배치
+
+flatness
+> n. 평탄함, 평탄한 정도
 

@@ -32,16 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-brought
-> v. bring의 과거형, 가져왔다
-
-crane
-> n. 기중기
-> v. 기중기로 물건을 옮기다
-
-accuracy 
-> n. 정확성, 정확
-
 calibration
 > n. 기기 또는 실험 판독 값을 교정하는 동작 또는 프로세스
 
@@ -1744,9 +1734,6 @@ wheather
 organize
 > v. 편성하다
 
-separate
-> v. 가르다, 떼어놓다, 분류하다
-
 those
 > pron. 그들, 그것들
 
@@ -1836,4 +1823,20 @@ displacement
 
 flatness
 > n. 평탄함, 평탄한 정도
+
+separate
+> v. 가르다, 떼어놓다, 분류하다
+
+brought
+> v. bring의 과거형, 가져왔다
+
+crane
+> n. 기중기
+> v. 기중기로 물건을 옮기다
+
+accuracy 
+> n. 정확성, 정확
+
+turbulence
+> n. 난류, 난기류
 

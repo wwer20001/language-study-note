@@ -32,15 +32,6 @@ suf. 접미사 suffix
 ph. 구 phrase
 
 # 9
-calibration
-> n. 기기 또는 실험 판독 값을 교정하는 동작 또는 프로세스
-
-advenced
-> adj. 개발 또는 진행에 있어 훨씬 앞서 있는, 진보된, 향상된, 상급의
-
-magnificent
-> adj. 웅장한, 인상적으로 아름다운, 정교한, 기발한, 아주 좋은, 훌륭한
-
 bandwidth
 > n. 대역폭
 
@@ -318,7 +309,7 @@ anywhere
 
 have been +pp
 > g. -되어 있다
-# test
+
 also
 > adv. 또한
 
@@ -327,9 +318,6 @@ subtitle
 
 overkill
 > n. 지나침, 필요한 양을 초과함
-
-likelihood
-> n. 무언가의 상태 또는 사실, 개연성
 
 probably
 > adv. 아마
@@ -341,15 +329,9 @@ variable
 related
 > adj. 관계있는
 
-equation
-> n. 방정식, 수식
-
 instantaneously
 > adv. 순간적으로
-
-ask for ~
-> pv. ~을 달라고 하다
-
+# test
 dependent
 > adj. 매달린, 종속된
 
@@ -1467,7 +1449,7 @@ altitude
 once
 > adv. 한번
 > conj. ~하면
-
+# 17
 maintenance
 > n. 유지, 유지보수
 
@@ -1728,9 +1710,6 @@ alternatively
 obvious
 > adj. 분명한, 노골적인
 
-wheather
-> pron. 둘 중 어느 하나
-
 organize
 > v. 편성하다
 
@@ -1739,7 +1718,7 @@ those
 
 on the waiting list
 > prep ph. 대기자 명단에
-
+# 18
 institution
 > n. 공공기관, 제도
 
@@ -1839,4 +1818,31 @@ accuracy
 
 turbulence
 > n. 난류, 난기류
+
+calibration
+> n. 기기 또는 실험 판독 값을 교정하는 동작 또는 프로세스
+
+advenced
+> adj. 개발 또는 진행에 있어 훨씬 앞서 있는, 진보된, 향상된, 상급의
+
+magnificent
+> adj. 웅장한, 인상적으로 아름다운, 정교한, 기발한, 아주 좋은, 훌륭한
+
+likelihood
+> n. 무언가의 상태 또는 사실, 개연성
+
+equation
+> n. 방정식, 수식
+
+ask for
+> pv. -을 달라고 하다
+
+whether
+> pron. 둘 중 어느 하나
+
+repay
+> v. 상환하다
+
+pursuant to
+> prep. -에 따라서
 

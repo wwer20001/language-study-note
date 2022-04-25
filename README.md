@@ -352,18 +352,8 @@ manually
 reasonable
 > adj. 합리적인
 
-refer
-> v. 보내다, 가리키다
-
-intend
-> v. 목적이나 의도를 가지다, 계획하다, 예정하다
-
 familiar
 > adj. 익숙한, 친한
-
-except
-> prep. ~외에   
-> v. 제외하다
 
 necessary
 > n. 필요한 행동 혹은 물건  
@@ -1874,4 +1864,23 @@ infrared
 
 harmless
 > adj. 해가 없는, 해를 끼치지 않는
+
+refer
+> v. 보내다, 가리키다
+
+intend
+> v. 목적이나 의도를 가지다, 계획하다, 예정하다
+
+except
+> prep. -외에   
+> v. 제외하다
+
+intermediary
+> n. 중개인
+
+flow-through
+> n. 통과
+
+have the edge over
+> prep ph. -보다 유리하다
 

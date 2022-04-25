@@ -339,7 +339,6 @@ implicit
 > adj. 절대적인, 암시적인
 
 # 12
-# test
 occur
 > v. 나오다, 일어나다, 마음에 떠오르다
 
@@ -361,7 +360,7 @@ necessary
 
 adjust
 > v. 맞추다, 조정하다, 조절하다
-
+# test
 make sure
 > pv. 확인하다
 
@@ -375,7 +374,7 @@ conceal
 > v. 시야에서 멀어지다, 숨기다
 
 keep from sight
-> st. 시야에서 멀어지다
+> st. 보이지 않게 하다
 
 intrusion
 > n. 강요

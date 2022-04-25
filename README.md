@@ -31,27 +31,9 @@ suf. 접미사 suffix
 
 ph. 구 phrase
 
-# 9
-bandwidth
-> n. 대역폭
-
-look ahead
-> pv. 앞서보다, (~까지)(앞일을)내다보다
+idiom. 관용어구 idiom
 
 # 10
-vest
-> n. 조끼
-
-affect
-> v. 영향을 미치다
-
-infrared
-> n. 적외선, 스펙트럼의 적외선 영역   
-> adj. 적외선의
-
-harmless
-> adj. 해가 없는, 해를 끼치지 않는
-
 reliable
 > adj. 신뢰할 수 있는
 
@@ -331,7 +313,7 @@ related
 
 instantaneously
 > adv. 순간적으로
-# test
+
 dependent
 > adj. 매달린, 종속된
 
@@ -344,9 +326,6 @@ recognize
 bring up
 > pv. 가져오다, 불러오다
 
-bide
-> v. 때를 기다리다
-
 purpose
 > n. 목적, 용도
 
@@ -356,13 +335,11 @@ primary
 check whether
 > pv. 여부를 확인하다
 
-distinctive
-> adj. 독특한
-
 implicit
 > adj. 절대적인, 암시적인
 
 # 12
+# test
 occur
 > v. 나오다, 일어나다, 마음에 떠오르다
 
@@ -865,9 +842,6 @@ effort
 
 best effort
 > n. 최선의 노력
-
-basis
-> n. 기준, 기초
 
 properly
 > adv. 정확히
@@ -1535,9 +1509,6 @@ illustrate
 especially
 > adv. 특히
 
-appropriately
-> adv. 적절하게, 적당하게
-
 assessument
 > n. 평가
 
@@ -1845,4 +1816,62 @@ repay
 
 pursuant to
 > prep. -에 따라서
+
+bandwidth
+> n. 대역폭
+
+look ahead
+> pv. 앞서보다, (-까지)(앞일을)내다보다
+
+vest
+> n. 조끼
+
+bide
+> v. 때를 기다리다
+
+distinctive
+> adj. 독특한
+
+no matter the-
+> adv. -에 상관없이
+
+manipulate
+> v. 조종하다, 조작하다
+
+involve
+> v. 포함하다
+
+integral
+> adj. 필수의, 완전한
+
+in other words
+> idiom. 다시 말해서
+
+behave
+> v. 행동하다
+
+appropriately
+> adv. 적절하게, 적당하게
+
+pro-rata
+> adj. 비례한
+
+basis
+> n. 기준, 기초
+
+and so on
+> adv. 등등
+
+on the recommenation of
+> prep ph. -의 추천으로
+
+affect
+> v. 영향을 미치다
+
+infrared
+> n. 적외선, 스펙트럼의 적외선 영역   
+> adj. 적외선의
+
+harmless
+> adj. 해가 없는, 해를 끼치지 않는
 

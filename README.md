@@ -847,9 +847,6 @@ although
 so far
 > adv. 지금까지
 
-temporarily
-> adv. 일시적으로
-
 succeed
 > v. 성공하다
 
@@ -1486,9 +1483,6 @@ modify
 proximity
 > n. 공간, 시간 또는 관계에서의 가까움
 
-significant
-> adj. 중요한, 의미있는
-
 veriety
 > n. 종류
 
@@ -1882,4 +1876,19 @@ flow-through
 
 have the edge over
 > prep ph. -보다 유리하다
+
+brighter
+> adv. bright의 비교급, 더 밝게
+
+in some way
+> adv ph. 어떤 점에서는, 어떤 방법으로든
+
+significant
+> adj. 중요한, 의미있는
+
+inexpensive
+> adj. 저렴한, 비용이 들지 않는
+
+temporarily
+> adv. 일시적으로
 

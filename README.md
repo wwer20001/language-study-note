@@ -34,15 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 10
-reliable
-> adj. 신뢰할 수 있는
-
-detection
-> n. 발각, 간파, 감지
-
-emit
-> v. 방사하다, 방출하다
-
 ceiling
 > n. 천장, 상승 한계, 최고 한도
 
@@ -360,37 +351,16 @@ necessary
 
 adjust
 > v. 맞추다, 조정하다, 조절하다
-# test
+
 make sure
 > pv. 확인하다
 
 find out
 > pv. 찾아내다, 발견하다
 
-situate
-> v. 어떤 장소나 위치에 놓거나 고정하다
-
-conceal
-> v. 시야에서 멀어지다, 숨기다
-
-keep from sight
-> st. 보이지 않게 하다
-
-intrusion
-> n. 강요
-
 scatter
 > v. 흩어지게 하다, 흐트러뜨리다
-
-throughtout
-> prep. ~의 구석구석까지
-
-underneath
-> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
-
-belong
-> v. 소속하다, 있다
-
+# test
 identify
 > v. 식별하다
 
@@ -1891,4 +1861,34 @@ inexpensive
 
 temporarily
 > adv. 일시적으로
+
+reliable
+> adj. 신뢰할 수 있는
+
+detection
+> n. 발각, 간파, 감지
+
+emit
+> v. 방사하다, 방출하다
+
+situate
+> v. 어떤 장소나 위치에 놓거나 고정하다
+
+conceal
+> v. 시야에서 멀어지다, 숨기다
+
+keep from sight
+> st. 보이지 않게 하다
+
+intrusion
+> n. 강요
+
+throughtout
+> prep. -의 구석구석까지
+
+underneath
+> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
+
+belong
+> v. 소속하다, 있다
 

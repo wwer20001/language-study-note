@@ -34,16 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 10
-ceiling
-> n. 천장, 상승 한계, 최고 한도
-
-blend
-> n. 조화, 혼합   
-> v. 섞다, 섞이다, 잘되다, 조제하다
-
-simplicity
-> n. 단순성, 단순, 간단, 간소, 순진
-
 come up
 > pv. 오다, 떠오르다, 찾아내다, 생각해내다
 
@@ -360,38 +350,16 @@ find out
 
 scatter
 > v. 흩어지게 하다, 흐트러뜨리다
-# test
-identify
-> v. 식별하다
-
-as such
-> conj. 따라서, 그와 같이, 이를테면
-
-retrieve
-> n. 검색, 회복   
-> v. 끌어내다, 소유권을 되찾다
-
-malformed
-> adj. 흉하게 생긴, 잘못된
 
 however
 > adv. 그러나
-
-consistent
-> adj. 일관된
-
-such
-> adv. 이러한, ~와 같은
-
-interpret
-> v. 이해해다, 해석하다
 
 attribute
 > n. 특성, 속성
 
 indicate
 > v. 가리키다
-
+# test
 due
 > adj. 정당한, 도착 예정인
 
@@ -1891,4 +1859,36 @@ underneath
 
 belong
 > v. 소속하다, 있다
+
+identify
+> v. 식별하다
+
+as such
+> conj. 따라서, 그와 같이, 이를테면
+
+retrieve
+> n. 검색, 회복   
+> v. 끌어내다, 소유권을 되찾다
+
+malformed
+> adj. 흉하게 생긴, 잘못된
+
+consistent
+> adj. 일관된
+
+such
+> adv. 이러한, -와 같은
+
+interpret
+> v. 이해해다, 해석하다
+
+ceiling
+> n. 천장, 상승 한계, 최고 한도
+
+blend
+> n. 조화, 혼합   
+> v. 섞다, 섞이다, 잘되다, 조제하다
+
+simplicity
+> n. 단순성, 단순, 간단, 간소, 순진
 

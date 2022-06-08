@@ -34,15 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 10
-come up
-> pv. 오다, 떠오르다, 찾아내다, 생각해내다
-
-realization
-> n. 실현
-
-resolution
-> n. 해결, 과학적(특히 광학) 기기로 측정할 수 있는 가장 작은 간격
-
 often
 > adv. 자주
 
@@ -359,12 +350,9 @@ attribute
 
 indicate
 > v. 가리키다
-# test
+
 due
 > adj. 정당한, 도착 예정인
-
-due to
-> prep. -때문에, -로 인해
 
 institutional
 > adj. 제도적인
@@ -374,25 +362,12 @@ might
 > v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
 > v. (현재 또는 과거의 가능성으로)~할 수 있다
 
-consist
-> v. 구성되다, 이루어지다
-
-stunning
-> adj. 매우 훌륭한
-
-composite
-> n. 합성물   
-> v. 여러개의 요소나 부분을 합치다
-
 recalibration 
 > n. 재교정, 재측정
 
 extra
 > adj. 추가적인, 특별한, 여분의
-
-precaution
-> n. 예방 조치, 예방법
-
+# test
 proceeding
 > n. 진행
 
@@ -1891,4 +1866,29 @@ blend
 
 simplicity
 > n. 단순성, 단순, 간단, 간소, 순진
+
+due to
+> prep. -때문에, -로 인해
+
+consist
+> v. 구성되다, 이루어지다
+
+stunning
+> adj. 매우 훌륭한
+
+composite
+> n. 합성물   
+> v. 여러 개의 요소나 부분을 합치다
+
+precaution
+> n. 예방 조치, 예방법
+
+come up
+> pv. 오다, 떠오르다, 찾아내다, 생각해내다
+
+realization
+> n. 실현
+
+resolution
+> n. 해결, 과학적(특히 광학) 기기로 측정할 수 있는 가장 작은 간격
 

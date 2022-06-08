@@ -34,15 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 10
-often
-> adv. 자주
-
-warranty
-> n. 보증
-
-such as
-> g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
-
 capitalize
 > v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
 
@@ -367,7 +358,7 @@ recalibration
 
 extra
 > adj. 추가적인, 특별한, 여분의
-# test
+
 proceeding
 > n. 진행
 
@@ -383,21 +374,12 @@ excute
 unpublished
 > adj. 널리 알려지지 않은
 
-intimidate
-> v. 위협하다
-
-pedestal
-> n. 받침대, 기초
-
-crucial
-> adj. 결정적인, 중대한
-
 contribute
 > v. 기여하다
 
 unfurl
 > v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
-
+# test
 become
 > v. ~이 되다
 
@@ -1891,4 +1873,22 @@ realization
 
 resolution
 > n. 해결, 과학적(특히 광학) 기기로 측정할 수 있는 가장 작은 간격
+
+intimidate
+> v. 위협하다
+
+pedestal
+> n. 받침대, 기초
+
+crucial
+> adj. 결정적인, 중대한
+
+often
+> adv. 자주
+
+warranty
+> n. 보증
+
+such as
+> g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
 

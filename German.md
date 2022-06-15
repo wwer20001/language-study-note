@@ -34,15 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 1
-bitte
-> n. please, 정중한 요청
-
-milch
-> n. 우유
-
-kaffee
-> n. 커피
-
 und
 > conj. 그리고
 
@@ -63,7 +54,7 @@ wein
 
 danke
 > n. thank, 고맙다
-
+# test
 Deutsch
 > adj. 독일의, 독일에 관한
 > n. 독일어
@@ -88,4 +79,13 @@ tschüss
 
 ja
 > n. 긍정, yes
+
+bitte
+> n. please, 정중한 요청
+
+milch
+> n. 우유
+
+kaffee
+> n. 커피
 

@@ -34,15 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 10
-line breaking
-> n. 줄바꿈
-
-depend on
-> pv. ~에 의지하다, 의존하다
-
-express
-> v. 표현하다
-
 put - on
 > pv. 입다, 붙이다, 신다, 놓다
 
@@ -392,7 +383,7 @@ compatibility
 
 teleoperation
 > n. 원격 조작
-# test
+
 prioritize
 > v. 우선시하다, 우선순위를 정하다
 
@@ -401,9 +392,6 @@ violate
 
 validate
 > v. 검증하다, 유효하게 하다
-
-take place
-> pv. 일어나다, ~하고 있다 (happen, occur)
 
 simpleness
 > n. 단순성
@@ -414,15 +402,12 @@ robustness
 as - as ~
 > g. ~만큼 -하다
 
-that said,
-> adv. 그렇긴 하지만, 그래도
-
 good practice
 > n. 좋은 방법
 
 surround
 > v. 둘러싸다
-
+# test
 statement
 > n. 성명, 진술, 서술, 성명서, 진술서
 
@@ -1892,4 +1877,19 @@ phrase
 
 who
 > pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
+
+take place
+> pv. 일어나다, -하고 있다 (happen, occur)
+
+that said,
+> adv. 그렇긴 하지만, 그래도
+
+line breaking
+> n. 줄바꿈
+
+depend on
+> pv. -에 의지하다, 의존하다
+
+express
+> v. 표현하다
 

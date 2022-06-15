@@ -34,15 +34,6 @@ ph. 구 phrase
 idiom. 관용어구 idiom
 
 # 10
-capitalize
-> v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
-
-phrase
-> n. 구, 몆 개의 단어로 이루어진 숙어, 둘 이상의 단어가 모여 절이나 문장의 일부분을 이루는 토막
-
-who
-> pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
-
 line breaking
 > n. 줄바꿈
 
@@ -379,7 +370,7 @@ contribute
 
 unfurl
 > v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
-# test
+
 become
 > v. ~이 되다
 
@@ -399,18 +390,9 @@ implementation
 compatibility
 > n. 적합성, 호환성
 
-no matter how
-> adv. (=however)아무리 ~하더라도
-
-hence
-> adv. 이러한 이유로
-
-overhauled
-> n. 정밀 검사
-
 teleoperation
 > n. 원격 조작
-
+# test
 prioritize
 > v. 우선시하다, 우선순위를 정하다
 
@@ -1891,4 +1873,22 @@ warranty
 
 such as
 > g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
+
+no matter how
+> adv. (=however)아무리 -하더라도
+
+hence
+> adv. 이러한 이유로
+
+overhauled
+> n. 정밀 검사
+
+capitalize
+> v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
+
+phrase
+> n. 구, 몆 개의 단어로 이루어진 숙어, 둘 이상의 단어가 모여 절이나 문장의 일부분을 이루는 토막
+
+who
+> pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
 

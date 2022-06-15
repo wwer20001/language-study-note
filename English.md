@@ -1812,6 +1812,7 @@ retrieve
 malformed
 > adj. 흉하게 생긴, 잘못된
 
+# 19
 consistent
 > adj. 일관된
 

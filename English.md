@@ -33,16 +33,9 @@ ph. 구 phrase
 
 idiom. 관용어구 idiom
 
+pat. 회화패턴 pattern
+
 # 10
-put - on
-> pv. 입다, 붙이다, 신다, 놓다
-
-lively
-> adj. 활기찬, 기운찬
-
-conversation
-> n. 대화
-
 decimal sign
 > n. 소수점
 
@@ -407,7 +400,7 @@ good practice
 
 surround
 > v. 둘러싸다
-# test
+
 statement
 > n. 성명, 진술, 서술, 성명서, 진술서
 
@@ -435,10 +428,7 @@ facilitate
 
 worse
 > adj. 보다 나쁜, 악화되는
-
-precedence over
-> n. 우선권
-
+# test
 aware
 > v. 인식하다
 
@@ -1892,4 +1882,22 @@ depend on
 
 express
 > v. 표현하다
+
+suitcase
+> n. 여행가방
+
+I'd like -
+> g. -하고 싶어요
+
+precedence over
+> n. 우선권
+
+put - on
+> pv. 입다, 붙이다, 신다, 놓다
+
+lively
+> adj. 활기찬, 기운찬
+
+conversation
+> n. 대화
 

@@ -33,16 +33,9 @@ ph. 구 phrase
 
 idiom. 관용어구 idiom
 
+art. 관사 article
+
 # 1
-und
-> conj. 그리고
-
-hallo
-> n. hello, 인사말
-
-wasser
-> n. 물
-
 tee
 > n. 차
 
@@ -54,7 +47,7 @@ wein
 
 danke
 > n. thank, 고맙다
-# test
+
 Deutsch
 > adj. 독일의, 독일에 관한
 > n. 독일어
@@ -85,7 +78,34 @@ bitte
 
 milch
 > n. 우유
-
+# test
 kaffee
 > n. 커피
+
+danke schön
+> g. thank you. 감사합니다
+
+mutter
+> n. 어머니
+
+vatter
+> n. 아버지
+
+ich
+> n. 나
+
+ein
+> art. 영어에서 a와 비슷한 용도로 사용, 여성형은 eine
+
+Ich bin - 
+> g. 나는 -이다
+
+und
+> conj. 그리고
+
+hallo
+> n. hello, 인사말
+
+wasser
+> n. 물
 

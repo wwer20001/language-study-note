@@ -1243,6 +1243,7 @@ altitude
 once
 > adv. 한번
 > conj. ~하면
+
 # 17
 maintenance
 > n. 유지, 유지보수
@@ -1503,6 +1504,7 @@ those
 
 on the waiting list
 > prep ph. 대기자 명단에
+
 # 18
 institution
 > n. 공공기관, 제도

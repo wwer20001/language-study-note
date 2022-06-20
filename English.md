@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 10
-decimal sign
-> n. 소수점
-
-incorrect
-> adj. 부정확한, 잘못된
-
-augumented reality
-> n. 증강 현실
-
 eliminate
 > v. 죽이다, 제거하다
 
@@ -428,9 +419,6 @@ facilitate
 
 worse
 > adj. 보다 나쁜, 악화되는
-# test
-aware
-> v. 인식하다
 
 explicitly
 > adv. 명시적으로
@@ -447,18 +435,12 @@ roughly
 luggage
 > n. 짐
 
-as
-> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는데 사용
-
-demonstrate
-> v. 증명하다, 시연하다
-
 choose
 > v. 선택하다
 
 be able to
 > g. 가능하다.
-
+# test
 most
 > adv. 대부분의
 
@@ -481,7 +463,7 @@ avail
 > v. 유용하다, 도움이 되다
 
 having a trouble
-> g. 문제가 있다.
+> g. 문제가 있다
 
 strategy
 > n. 전략
@@ -1900,4 +1882,22 @@ lively
 
 conversation
 > n. 대화
+
+aware
+> v. 인식하다
+
+as
+> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는 데 사용
+
+demonstrate
+> v. 증명하다, 시연하다
+
+decimal sign
+> n. 소수점
+
+incorrect
+> adj. 부정확한, 잘못된
+
+augmented reality
+> n. 증강 현실
 

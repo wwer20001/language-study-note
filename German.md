@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-tee
-> n. 차
-
-brot
-> n. 빵
-
-wein
-> n. 와인
-
 danke
 > n. thank, 고맙다
 
@@ -78,7 +69,7 @@ bitte
 
 milch
 > n. 우유
-# test
+
 kaffee
 > n. 커피
 
@@ -108,4 +99,13 @@ hallo
 
 wasser
 > n. 물
+# test
+tee
+> n. 차
+
+brot
+> n. 빵
+
+wein
+> n. 와인
 

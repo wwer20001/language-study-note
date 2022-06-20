@@ -36,16 +36,7 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-danke
-> n. thank, 고맙다
-
-Deutsch
-> adj. 독일의, 독일에 관한
-> n. 독일어
-
-lernen
-> v. 배우다, 기술을 습득하다
-
+# test
 beginnen
 > v. 시작하다
 
@@ -99,7 +90,7 @@ hallo
 
 wasser
 > n. 물
-# test
+
 tee
 > n. 차
 
@@ -108,4 +99,14 @@ brot
 
 wein
 > n. 와인
+
+danke
+> n. thank, 고맙다
+
+Deutsch
+> adj. 독일의, 독일에 관한
+> n. 독일어
+
+lernen
+> v. 배우다, 기술을 습득하다
 

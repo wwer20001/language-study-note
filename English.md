@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 10
-eliminate
-> v. 죽이다, 제거하다
-
-opaque
-> n. 불투명체   
-> adj. 불투명한, 광택이 없는, 부전도성의
-
-jitter
-> n. 전기 신호 또는 전자 장치에서 약간의 불규칙한 움직임, 변형 또는 불안정
-
 distortion
 > n. 왜곡
 
@@ -440,7 +430,7 @@ choose
 
 be able to
 > g. 가능하다.
-# test
+
 most
 > adv. 대부분의
 
@@ -450,17 +440,8 @@ to do this
 composable
 > adj. 구성할 수 있는
 
-get off
-> pv. 내리다
-
 inability
 > n. 능력의 부족으로 어떠한 일을 할 수 없음
-
-inevitably
-> adv. 필연적으로
-
-avail
-> v. 유용하다, 도움이 되다
 
 having a trouble
 > g. 문제가 있다
@@ -470,7 +451,7 @@ strategy
 
 neither
 > adv. A도 아니고 B도 아닌
-
+# test
 serve
 > v. 섬기다, 보조하다
 
@@ -1701,9 +1682,6 @@ except
 > prep. -외에   
 > v. 제외하다
 
-intermediary
-> n. 중개인
-
 flow-through
 > n. 통과
 
@@ -1905,4 +1883,26 @@ withholding
 
 crossroads
 > n. 교차로
+
+get off
+> pv. 내리다
+
+inevitably
+> adv. 필연적으로
+
+avail
+> v. 유용하다, 도움이 되다
+
+eliminate
+> v. 죽이다, 제거하다
+
+opaque
+> n. 불투명체   
+> adj. 불투명한, 광택이 없는, 부전도성의
+
+jitter
+> n. 전기 신호 또는 전자 장치에서 약간의 불규칙한 움직임, 변형 또는 불안정
+
+intermediary
+> n. 중개인
 

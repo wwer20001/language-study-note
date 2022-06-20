@@ -1387,9 +1387,6 @@ comfortable
 identification
 > n. 신분증
 
-withholding
-> n. 원천징수
-
 allowance
 > n. 수당
 
@@ -1900,4 +1897,10 @@ incorrect
 
 augmented reality
 > n. 증강 현실
+
+withholding
+> n. 원천징수
+
+crossroads
+> n. 교차로
 

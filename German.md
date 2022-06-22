@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-# test
-beginnen
-> v. 시작하다
-
-bier
-> n. 맥주
-
-nein
-> n. 부정, no
-
 oder
 > conj. 혹은
 
@@ -66,7 +56,7 @@ kaffee
 
 danke schön
 > g. thank you. 감사합니다
-
+# test
 mutter
 > n. 어머니
 
@@ -109,4 +99,13 @@ Deutsch
 
 lernen
 > v. 배우다, 기술을 습득하다
+
+beginnen
+> v. 시작하다
+
+bier
+> n. 맥주
+
+nein
+> n. 부정, no
 

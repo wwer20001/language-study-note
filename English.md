@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 10
-distortion
-> n. 왜곡
-
-experiment
-> n. 실험   
-> v. 실험하다
-
-point
-> v. 가리키다, 향하다
-
 registry
 > n. 기재, 등록
 
@@ -451,7 +441,7 @@ strategy
 
 neither
 > adv. A도 아니고 B도 아닌
-# test
+
 serve
 > v. 섬기다, 보조하다
 
@@ -460,12 +450,6 @@ serve as
 
 guarantee
 > n. 보증
-
-assuming
-> n. 가정
-
-dictate
-> n. 명령
 
 assurance
 > n. 보증
@@ -482,7 +466,7 @@ forecast
 segment
 > n. 분절   
 > v. 분할하다
-
+# test
 exactly
 > adv. 정확하게
 
@@ -1372,9 +1356,6 @@ identification
 allowance
 > n. 수당
 
-recipient
-> n. 수납자, 수신자
-
 assign
 > v. 할당하다
 
@@ -1905,4 +1886,23 @@ jitter
 
 intermediary
 > n. 중개인
+
+assuming
+> n. 가정
+
+dictate
+> n. 명령
+
+distortion
+> n. 왜곡
+
+experiment
+> n. 실험   
+> v. 실험하다
+
+point
+> v. 가리키다, 향하다
+
+recipient
+> n. 수납자, 수신자
 

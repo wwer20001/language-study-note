@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 10
-registry
-> n. 기재, 등록
-
-central
-> n. 본부   
-> adj. 중심의, 중심적인
-
-wear
-> v. 입다, 착용하다
-
 worn
 > v. wear의 과거형. 입었다, 착용했다.
 
@@ -466,7 +456,7 @@ forecast
 segment
 > n. 분절   
 > v. 분할하다
-# test
+
 exactly
 > adv. 정확하게
 
@@ -480,24 +470,18 @@ immutable
 enforce
 > v. 억지로 시키다, 시행하다
 
-substantiate
-> v. 실증하다, 실체화하다
-
 dedicated
 > adj. 전용의, 전담
 
 programmatically
 > adv. 프로그래밍 방식으로
 
-obtain
-> v. 얻다, 획득하다
-
 primitive
 > adj. 기본적인
 
 integrate
 > v. 통합되다
-
+# test
 orchestrate
 > v. 조율하다
 
@@ -1253,17 +1237,11 @@ foreign
 income
 > n. 소득
 
-subject
-> n. 대상
-
 department
 > n. 부서, 부
 
 treasury
 > n. 정부나 기관, 회사의 자금이나 수익
-
-amend
-> v. 개정하다
 
 federal
 > adj. 연합의, 연방의
@@ -1905,4 +1883,26 @@ point
 
 recipient
 > n. 수납자, 수신자
+
+substantiate
+> v. 실증하다, 실체화하다
+
+obtain
+> v. 얻다, 획득하다
+
+registry
+> n. 기재, 등록
+
+central
+> n. 본부   
+> adj. 중심의, 중심적인
+
+wear
+> v. 입다, 착용하다
+
+subject
+> n. 대상
+
+amend
+> v. 개정하다
 

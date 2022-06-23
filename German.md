@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-oder
-> conj. 혹은
-
-tschüss
-> n. 안녕, bye
-
-ja
-> n. 긍정, yes
-
 bitte
 > n. please, 정중한 요청
 
@@ -56,7 +47,7 @@ kaffee
 
 danke schön
 > g. thank you. 감사합니다
-# test
+
 mutter
 > n. 어머니
 
@@ -86,7 +77,7 @@ tee
 
 brot
 > n. 빵
-
+# test
 wein
 > n. 와인
 
@@ -108,4 +99,13 @@ bier
 
 nein
 > n. 부정, no
+
+oder
+> conj. 혹은
+
+tschüss
+> n. 안녕, bye
+
+ja
+> n. 긍정, yes
 

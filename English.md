@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 10
-worn
-> v. wear의 과거형. 입었다, 착용했다.
-
-manufacture
-> n. 제작, 제조   
-> v. 제작하다, 제조하다
-
-mess up
-> pv. 망치다
-
 invert
 > v. 반대로 하다, 거꾸로 하다
 
@@ -481,7 +471,7 @@ primitive
 
 integrate
 > v. 통합되다
-# test
+
 orchestrate
 > v. 조율하다
 
@@ -490,9 +480,6 @@ shorthand
 
 as a -
 > ph. -으로
-
-have to
-> av. 해야한다(must)
 
 scheme
 > n. 체계, 계획
@@ -509,12 +496,9 @@ distribute
 promote
 > v. 홍보하다
 
-signify
-> v. 의미하다
-
 intensive
 > adj. 강한
-
+# test
 specified
 > adj. 지정된
 
@@ -1905,4 +1889,23 @@ subject
 
 amend
 > v. 개정하다
+
+have to
+> av. 해야한다(must)
+
+signify
+> v. 의미하다
+
+worn
+> v. wear의 과거형. 입었다, 착용했다.
+
+manufacture
+> n. 제작, 제조   
+> v. 제작하다, 제조하다
+
+mess up
+> pv. 망치다
+
+restaurant
+> n. 식당
 

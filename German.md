@@ -36,15 +36,7 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-bitte
-> n. please, 정중한 요청
-
-milch
-> n. 우유
-
-kaffee
-> n. 커피
-
+# test
 danke schön
 > g. thank you. 감사합니다
 
@@ -77,7 +69,7 @@ tee
 
 brot
 > n. 빵
-# test
+
 wein
 > n. 와인
 
@@ -108,4 +100,25 @@ tschüss
 
 ja
 > n. 긍정, yes
+
+bitte
+> n. please, 정중한 요청
+
+milch
+> n. 우유
+
+kaffee
+> n. 커피
+
+meine
+> n. my, 나의
+
+schwester
+> n. 자매
+
+bruder
+> n. 형제
+
+mann
+> n. 남성, 남편
 

@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-# test
-danke schön
-> g. thank you. 감사합니다
-
-mutter
-> n. 어머니
-
-vatter
-> n. 아버지
-
 ich
 > n. 나
 
@@ -66,7 +56,7 @@ wasser
 
 tee
 > n. 차
-
+# test
 brot
 > n. 빵
 
@@ -121,4 +111,31 @@ bruder
 
 mann
 > n. 남성, 남편
+
+danke schön
+> g. 감사합니다
+
+mutter
+> n. 어머니
+
+Auf Wiedersehen
+> g. 다음에 다시 봐요
+
+du
+> n. you, 당신, 너
+
+du bist
+> g. 당신은
+
+frau
+> n. 부인, 아내
+
+sohn
+> n. 아들
+
+tochter
+> n. 딸
+
+vater
+> n. 아버지
 

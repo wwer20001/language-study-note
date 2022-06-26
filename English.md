@@ -35,17 +35,6 @@ idiom. 관용어구 idiom
 
 pat. 회화패턴 pattern
 
-# 10
-invert
-> v. 반대로 하다, 거꾸로 하다
-
-instruction
-> n. 방향 또는 명령, 가르침, 교육
-
-inconvenience
-> n. 불편   
-> v. ~에게 불편을 느끼게 하다
-
 # 11
 requirement
 > n. 요구사항
@@ -498,9 +487,6 @@ promote
 
 intensive
 > adj. 강한
-# test
-specified
-> adj. 지정된
 
 await
 > v. 기다리다
@@ -529,12 +515,12 @@ typically
 
 while
 > adv. ~하는 동안
-
+# test
 measure
 > n. 조치
 
-except for ~
-> prep. ~을 제외하고
+except for -
+> prep. -을 제외하고
 
 suited
 > adj. 적합한
@@ -1221,12 +1207,6 @@ foreign
 income
 > n. 소득
 
-department
-> n. 부서, 부
-
-treasury
-> n. 정부나 기관, 회사의 자금이나 수익
-
 federal
 > adj. 연합의, 연방의
 
@@ -1908,4 +1888,26 @@ mess up
 
 restaurant
 > n. 식당
+
+specified
+> adj. 지정된
+
+invert
+> v. 반대로 하다, 거꾸로 하다
+
+instruction
+> n. 방향 또는 명령, 가르침, 교육
+
+inconvenience
+> n. 불편   
+> v. -에게 불편을 느끼게 하다
+
+department
+> n. 부서, 부
+
+treasury
+> n. 정부나 기관, 회사의 자금이나 수익
+
+daughter
+> n. 딸
 

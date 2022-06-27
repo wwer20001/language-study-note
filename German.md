@@ -112,9 +112,6 @@ Auf Wiedersehen
 du
 > n. you, 당신, 너
 
-du bist
-> g. 당신은
-
 frau
 > n. 부인, 아내
 
@@ -138,4 +135,22 @@ und
 
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
+
+du bist
+> g. 당신은
+
+nett
+> adj. 친절한
+
+sehr
+> adv. 아주, 매우
+
+klug
+> adj. 똑똑한
+
+bin-bist-ist
+> v. am-are-is
+
+groß
+> adj. 큰
 

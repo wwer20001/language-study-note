@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-requirement
-> n. 요구사항
-
-known
-> adj. 알려진, 모두 다 아는
-
-translucent
-> adj. 투명한
-
 fine tune
 > pv. 미세조정하다, 최상의 또는 원하는 성능을 달성하기 위해 (무언가를) 미세하게 조정하다
 
@@ -515,9 +506,6 @@ typically
 
 while
 > adv. ~하는 동안
-# test
-measure
-> n. 조치
 
 except for -
 > prep. -을 제외하고
@@ -537,15 +525,12 @@ will
 either
 > pron. 어느 한 쪽, 어느 쪽인가
 
-fetch
-> v. 가져오다
-
 iterate
 > v. 반복하다
 
 increment
 > n. 증가
-
+# test
 embed
 > v. 끼워넣다
 
@@ -1910,4 +1895,19 @@ treasury
 
 daughter
 > n. 딸
+
+measure
+> n. 조치
+
+fetch
+> v. 가져오다
+
+requirement
+> n. 요구사항
+
+known
+> adj. 알려진, 모두 다 아는
+
+translucent
+> adj. 투명한
 

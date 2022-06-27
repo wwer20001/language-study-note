@@ -36,18 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-ich
-> n. 나
-
-ein
-> art. 영어에서 a와 비슷한 용도로 사용, 여성형은 eine
-
-Ich bin - 
-> g. 나는 -이다
-
-und
-> conj. 그리고
-
 hallo
 > n. hello, 인사말
 
@@ -56,7 +44,7 @@ wasser
 
 tee
 > n. 차
-# test
+
 brot
 > n. 빵
 
@@ -87,7 +75,7 @@ oder
 
 tschüss
 > n. 안녕, bye
-
+# test
 ja
 > n. 긍정, yes
 
@@ -138,4 +126,16 @@ tochter
 
 vater
 > n. 아버지
+
+ich
+> n. 나
+
+Ich bin - 
+> g. 나는 -이다
+
+und
+> conj. 그리고
+
+ein(eine)
+> art. 영어에서 a와 비슷한 용도로 사용
 

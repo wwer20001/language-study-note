@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-hallo
-> n. hello, 인사말
-
-wasser
-> n. 물
-
-tee
-> n. 차
-
 brot
 > n. 빵
 
@@ -75,7 +66,7 @@ oder
 
 tschüss
 > n. 안녕, bye
-# test
+
 ja
 > n. 긍정, yes
 
@@ -105,7 +96,7 @@ danke schön
 
 mutter
 > n. 어머니
-
+# test
 Auf Wiedersehen
 > g. 다음에 다시 봐요
 
@@ -153,4 +144,13 @@ bin-bist-ist
 
 groß
 > adj. 큰
+
+hallo
+> n. hello, 인사말
+
+wasser
+> n. 물
+
+tee
+> n. 차
 

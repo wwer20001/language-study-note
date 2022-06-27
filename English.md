@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-fine tune
-> pv. 미세조정하다, 최상의 또는 원하는 성능을 달성하기 위해 (무언가를) 미세하게 조정하다
-
-softness
-> n. 유연성, 부드러움
-
-edge
-> n. 가장자리, 끝, 경계
-
 advise
 > v. 권하다, 조언하다, 충고하다, 권고하다
 
@@ -530,7 +521,7 @@ iterate
 
 increment
 > n. 증가
-# test
+
 embed
 > v. 끼워넣다
 
@@ -546,21 +537,12 @@ propose
 timestamp
 > v. 시간 또는 날짜를 기록하다
 
-witness
-> v. 목격하다
-
-omit
-> v. 생략하다
-
-existing
-> adj. 기존, 기존의
-
 instead of
 > prep. ~대신에
 
 pick out
 > pv. 골라내다
-
+# test
 outpace
 > v. 앞지르다
 
@@ -1240,9 +1222,6 @@ chapter
 indicator
 > n. 지시자
 
-exemption
-> n. 면제
-
 at 60 miles at hour
 > prep ph. 한 시간에 60마일로
 
@@ -1280,9 +1259,6 @@ comfortable
 identification
 > n. 신분증
 
-allowance
-> n. 수당
-
 assign
 > v. 할당하다
 
@@ -1318,9 +1294,6 @@ decrease
 
 deposit
 > n. 예금
-
-escrow
-> n. 조건부 날인 증서
 
 procedure
 > n. 순서, 절차
@@ -1910,4 +1883,31 @@ known
 
 translucent
 > adj. 투명한
+
+witness
+> v. 목격하다
+
+omit
+> v. 생략하다
+
+existing
+> adj. 기존, 기존의
+
+fine tune
+> pv. 미세조정하다, 최상의 또는 원하는 성능을 달성하기 위해 (무언가를) 미세하게 조정하다
+
+softness
+> n. 유연성, 부드러움
+
+edge
+> n. 가장자리, 끝, 경계
+
+exemption
+> n. 면제
+
+allowance
+> n. 수당
+
+escrow
+> n. 조건부 날인 증서
 

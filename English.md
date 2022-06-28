@@ -1911,3 +1911,6 @@ allowance
 escrow
 > n. 조건부 날인 증서
 
+consistency
+> n. 일관성
+

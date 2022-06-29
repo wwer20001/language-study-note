@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-brot
-> n. 빵
-
-wein
-> n. 와인
-
-danke
-> n. thank, 고맙다
-
 Deutsch
 > adj. 독일의, 독일에 관한
 > n. 독일어
@@ -96,7 +87,7 @@ danke schön
 
 mutter
 > n. 어머니
-# test
+
 Auf Wiedersehen
 > g. 다음에 다시 봐요
 
@@ -126,7 +117,7 @@ und
 
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
-
+# test
 du bist
 > g. 당신은
 
@@ -153,4 +144,13 @@ wasser
 
 tee
 > n. 차
+
+brot
+> n. 빵
+
+wein
+> n. 와인
+
+danke
+> n. thanks, 고맙다
 

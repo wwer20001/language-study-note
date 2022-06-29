@@ -36,22 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-advise
-> v. 권하다, 조언하다, 충고하다, 권고하다
-
-decide
-> v. 결정하다, 결심하다
-
-unlike
-> prep. -과 달리  
-> adj. 같지 않은, 닮지 않은
-
-achieve
-> v. 이루다, 세우다, (일정한 표준에)도달하다
-
-imitate
-> v. 모방하다, 모사하다
-
 translate
 > v. 옮기다, 이동하다
 
@@ -542,7 +526,7 @@ instead of
 
 pick out
 > pv. 골라내다
-# test
+
 outpace
 > v. 앞지르다
 
@@ -561,20 +545,14 @@ associate
 ecosystem
 > n. 생태계
 
-although
-> conj. 비록 ~일지라도, ~이기는 하지만
-
-so far
-> adv. 지금까지
-
 succeed
 > v. 성공하다
 
 repository
 > n. 저장소
-
-concerned with ~
-> pv. ~에 관심을 가지다
+# test
+concerned with -
+> pv. -에 관심을 가지다
 
 least
 > adj. 가장 작은(적은)
@@ -884,9 +862,6 @@ hence
 
 manner
 > n. 방법, 종류
-
-act as ~
-> pv. ~처럼 행동하다
 
 compilation
 > n. 편집
@@ -1337,9 +1312,6 @@ various
 on time
 > prep ph. 정시에
 
-subsequent
-> adj. 후속, 뒤따라오는
-
 respect to
 > pv. -와 관련하다
 
@@ -1492,9 +1464,6 @@ whether
 repay
 > v. 상환하다
 
-pursuant to
-> prep. -에 따라서
-
 bandwidth
 > n. 대역폭
 
@@ -1530,9 +1499,6 @@ behave
 
 appropriately
 > adv. 적절하게, 적당하게
-
-pro-rata
-> adj. 비례한
 
 basis
 > n. 기준, 기초
@@ -1580,9 +1546,6 @@ significant
 
 inexpensive
 > adj. 저렴한, 비용이 들지 않는
-
-temporarily
-> adv. 일시적으로
 
 reliable
 > adj. 신뢰할 수 있는
@@ -1913,4 +1876,44 @@ escrow
 
 consistency
 > n. 일관성
+
+although
+> conj. 비록 -일지라도, -이기는 하지만
+
+so far
+> adv. 지금까지
+
+advise
+> v. 권하다, 조언하다, 충고하다, 권고하다
+
+decide
+> v. 결정하다, 결심하다
+
+unlike
+> prep. -과 달리  
+> adj. 같지 않은, 닮지 않은
+
+achieve
+> v. 이루다, 세우다, (일정한 표준에)도달하다
+
+imitate
+> v. 모방하다, 모사하다
+
+act as ~
+> pv. ~처럼 행동하다
+
+temporarily
+> adv. 일시적으로
+
+subsequent
+> adj. 후속, 뒤따라오는
+
+pursuant to
+> prep. -에 따라서
+
+pro-rata
+> adj. 비례한
+
+vastly
+> adv. 엄청나게
 

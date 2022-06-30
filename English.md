@@ -1929,3 +1929,6 @@ investment
 entity
 > n. 엔티티, 실재, 법인, 개체
 
+replace
+> v. 바꾸다, 교체하다
+

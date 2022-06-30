@@ -36,22 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-translate
-> v. 옮기다, 이동하다
-
-accessivle
-> adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
-
-regular
-> adj. 정규의
-
-until
-> prep. ~까지   
-> conj. -할 때까지, -하기까지
-
-limitation
-> n. 제한사항, 한계
-
 measurement
 > n. 측정
 
@@ -550,12 +534,9 @@ succeed
 
 repository
 > n. 저장소
-# test
+
 concerned with -
 > pv. -에 관심을 가지다
-
-least
-> adj. 가장 작은(적은)
 
 deliver
 > v. 가하다, 배달하다, 넘겨주다
@@ -580,7 +561,7 @@ infrastructure
 
 commerce
 > n. 상업
-
+# test
 rely
 > v. 의지하다
 
@@ -1015,9 +996,6 @@ whether
 
 further
 > adv. 게다가, 더욱이
-
-qualified
-> adj. 인증된
 
 pit
 > n. 함정, 지옥, 구덩이
@@ -1529,9 +1507,6 @@ except
 > prep. -외에   
 > v. 제외하다
 
-flow-through
-> n. 통과
-
 have the edge over
 > prep ph. -보다 유리하다
 
@@ -1916,4 +1891,41 @@ pro-rata
 
 vastly
 > adv. 엄청나게
+
+least
+> adj. 가장 작은(적은)
+
+translate
+> v. 옮기다, 이동하다
+
+accessivle
+> adj. 얻기 쉬운, 영향을 받기 쉬운, 접근하기 쉬운
+
+regular
+> adj. 정규의
+
+until
+> prep. -까지   
+> conj. -할 때까지, -하기까지
+
+limitation
+> n. 제한사항, 한계
+
+flow-through
+> n. 통과
+
+explanation
+> n. 설명
+
+compensation
+> n. 보상
+
+qualified
+> adj. 인증된
+
+investment
+> n. 투자
+
+entity
+> n. 엔티티, 실재, 법인, 개체
 

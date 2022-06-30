@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-Deutsch
-> adj. 독일의, 독일에 관한
-> n. 독일어
-
-lernen
-> v. 배우다, 기술을 습득하다
-
-beginnen
-> v. 시작하다
-
 bier
 > n. 맥주
 
@@ -117,7 +107,7 @@ und
 
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
-# test
+
 du bist
 > g. 당신은
 
@@ -147,10 +137,20 @@ tee
 
 brot
 > n. 빵
-
+# test
 wein
 > n. 와인
 
 danke
 > n. thanks, 고맙다
+
+Deutsch
+> adj. 독일의, 독일에 관한
+> n. 독일어
+
+lernen
+> v. 배우다, 기술을 습득하다
+
+beginnen
+> v. 시작하다
 

@@ -36,15 +36,7 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-bier
-> n. 맥주
-
-nein
-> n. 부정, no
-
-oder
-> conj. 혹은
-
+# test
 tschüss
 > n. 안녕, bye
 
@@ -60,7 +52,7 @@ milch
 kaffee
 > n. 커피
 
-meine
+mein(meine)
 > n. my, 나의
 
 schwester
@@ -137,7 +129,7 @@ tee
 
 brot
 > n. 빵
-# test
+
 wein
 > n. 와인
 
@@ -153,4 +145,13 @@ lernen
 
 beginnen
 > v. 시작하다
+
+bier
+> n. 맥주
+
+nein
+> n. 부정, no
+
+oder
+> conj. 혹은
 

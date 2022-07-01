@@ -36,21 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-measurement
-> n. 측정
-
-adjustable
-> adj. 조절할 수 있는
-
-diagnostic tool
-> n. 진단 도구
-
-diagnosis
-> n. 진단
-
-accquire
-> v. 얻다
-
 via
 > v. 통하다   
 > prep. -에 의하여, -을 경유하여
@@ -561,27 +546,18 @@ infrastructure
 
 commerce
 > n. 상업
-# test
+
 rely
 > v. 의지하다
 
 exclusively
 > adv. 독점적으로, 전적으로
 
-inherent
-> adj. 타고난, 내재된, 본질적인
-
 suffer
 > v. (나쁘거나 불쾌한 것을) 참다, 경험하다, 고통을 겪다
 
 reversible
 > adj. 거꾸로 할 수 있는, 가역적인, 되돌릴 수 있는
-
-mediate
-> v. 중재하다
-
-dispute
-> n. 분쟁
 
 practical
 > adj. 실제의, 실용적인
@@ -591,7 +567,7 @@ cut off
 
 possibility
 > n. 가능성
-
+# test
 broad
 > adj. (개념적인 면에서) 넓은
 
@@ -1931,4 +1907,34 @@ entity
 
 replace
 > v. 바꾸다, 교체하다
+
+inherent
+> adj. 타고난, 내재된, 본질적인
+
+mediate
+> v. 중재하다
+
+dispute
+> n. 분쟁
+
+measurement
+> n. 측정
+
+adjustable
+> adj. 조절할 수 있는
+
+diagnostic tool
+> n. 진단 도구
+
+diagnosis
+> n. 진단
+
+accquire
+> v. 얻다
+
+unsevered
+> adj. 절단되지 않은
+
+crops
+> n. 작물, 농작물
 

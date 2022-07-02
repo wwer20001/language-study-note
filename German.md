@@ -36,22 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-# test
-tschüss
-> n. 안녕, bye
-
-ja
-> n. 긍정, yes
-
-bitte
-> n. please, 정중한 요청
-
-milch
-> n. 우유
-
-kaffee
-> n. 커피
-
 mein(meine)
 > n. my, 나의
 
@@ -66,7 +50,7 @@ mann
 
 danke schön
 > g. 감사합니다
-
+# test
 mutter
 > n. 어머니
 
@@ -154,4 +138,19 @@ nein
 
 oder
 > conj. 혹은
+
+tschüss
+> n. 안녕, bye
+
+ja
+> n. 긍정, yes
+
+bitte
+> n. please, 정중한 요청
+
+milch
+> n. 우유
+
+kaffee
+> n. 커피
 

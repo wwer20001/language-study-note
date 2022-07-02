@@ -36,23 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-via
-> v. 통하다   
-> prep. -에 의하여, -을 경유하여
-
-democratize
-> v. 민주화하다
-
-previsualize
-> n. 사전시각화
-
-rapidly
-> adv. 빠르게
-
-below
-> prep. 이하  
-> adv. ~의 아래의
-
 subscription
 > n. 신청, 구독
 
@@ -567,18 +550,12 @@ cut off
 
 possibility
 > n. 가능성
-# test
+
 broad
 > adj. (개념적인 면에서) 넓은
 
 wide
 > adj. (물리적인 넓이나 폭이) 넓은
-
-reversal
-> n. 반전, 역전
-
-wary
-> adj. 조심성있는, 경계하는
 
 # 15
 hassle
@@ -593,12 +570,9 @@ fix
 subset
 > n. 큰 그룹에 연관된 부분
 
-otherwise
-> adj. 그렇지 않으면
-
 unavoidable
 > adj. 피할 수 없는
-
+# test
 currency
 > n. 통화, 특정 국가에서 일반적으로 사용되는 화폐 시스템
 
@@ -1937,4 +1911,36 @@ unsevered
 
 crops
 > n. 작물, 농작물
+
+reversal
+> n. 반전, 역전
+
+wary
+> adj. 조심성있는, 경계하는
+
+otherwise
+> adj. 그렇지 않으면
+
+via
+> v. 통하다   
+> prep. -에 의하여, -을 경유하여
+
+democratize
+> v. 민주화하다
+
+previsualize
+> n. 사전시각화
+
+rapidly
+> adv. 빠르게
+
+below
+> prep. 이하  
+> adv. -의 아래에
+
+notional
+> adj. 명목상의, 개념적인
+
+principle
+> n. 원금
 

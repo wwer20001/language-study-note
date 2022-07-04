@@ -36,21 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-subscription
-> n. 신청, 구독
-
-behind
-> adv. ~뒤에
-
-provide
-> v. 마련하다, 제공하다
-
-explain
-> v. 설명하다
-
-describe
-> v. 묘사하다, 설명하다, 평하다
-
 messenger
 > n. 전달자, 전령, 배달부, 메시지 전송 프로그램
 
@@ -572,15 +557,9 @@ subset
 
 unavoidable
 > adj. 피할 수 없는
-# test
+
 currency
 > n. 통화, 특정 국가에서 일반적으로 사용되는 화폐 시스템
-
-uncertainty
-> n. 불확실성
-
-suspend
-> v. 매달다, 연기하다, 유보하다
 
 rigged
 > adj. 조작된
@@ -594,15 +573,12 @@ annual
 infamous
 > adj. 악명높은, 불명예스러운
 
-capable
-> adj. 유능한, 자격이 있는
-
 figure out
 > pv. 알아내다
 
 renouned
 > adj. 유명한
-
+# test
 would like
 > pv. ~하고 싶다
 
@@ -1766,6 +1742,7 @@ fetch
 requirement
 > n. 요구사항
 
+# 20
 known
 > adj. 알려진, 모두 다 아는
 
@@ -1867,9 +1844,6 @@ flow-through
 explanation
 > n. 설명
 
-compensation
-> n. 보상
-
 qualified
 > adj. 인증된
 
@@ -1943,4 +1917,43 @@ notional
 
 principle
 > n. 원금
+
+uncertainty
+> n. 불확실성
+
+suspend
+> v. 매달다, 연기하다, 유보하다
+
+capable
+> adj. 유능한, 자격이 있는
+
+subscription
+> n. 신청, 구독
+
+behind
+> adv. -뒤에
+
+provide
+> v. 마련하다, 제공하다
+
+explain
+> v. 설명하다
+
+describe
+> v. 묘사하다, 설명하다, 평하다
+
+substitute
+> n. 대리인
+
+eligible
+> adj. 자격이 있는
+
+deferred
+> adj. 연기된
+
+compensation
+> n. 보상
+
+compensation
+> n. 보상
 

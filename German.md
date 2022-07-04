@@ -36,21 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-mein(meine)
-> n. my, 나의
-
-schwester
-> n. 자매
-
-bruder
-> n. 형제
-
-mann
-> n. 남성, 남편
-
-danke schön
-> g. 감사합니다
-# test
 mutter
 > n. 어머니
 
@@ -80,7 +65,7 @@ Ich bin -
 
 und
 > conj. 그리고
-
+# test
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -154,3 +139,17 @@ milch
 kaffee
 > n. 커피
 
+mein(meine)
+> n. my, 나의
+
+schwester
+> n. 자매
+
+bruder
+> n. 형제
+
+mann
+> n. 남성, 남편
+
+danke schön
+> g. 감사합니다

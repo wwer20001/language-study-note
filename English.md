@@ -1957,3 +1957,6 @@ compensation
 compensation
 > n. 보상
 
+orbit
+> n. 궤도
+

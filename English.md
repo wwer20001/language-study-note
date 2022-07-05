@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-messenger
-> n. 전달자, 전령, 배달부, 메시지 전송 프로그램
-
-each
-> adj. ~마다, 각자
-
-expand
-> v. 넓히다, 확장하다
-
 notice
 > n. 주의, 통지, 고지
 
@@ -578,9 +569,6 @@ figure out
 
 renouned
 > adj. 유명한
-# test
-would like
-> pv. ~하고 싶다
 
 distribution
 > n. 분포, 분배
@@ -595,12 +583,6 @@ reuse
 version promiscuity
 > n. 버전 무차별성, 버전이 뒤섞인 상태
 
-concatenation
-> n. 연쇄, 연속
-
-unless
-> conj. 그렇지 않으면
-
 implement
 > n. 도구   
 > v. 구현하다
@@ -610,7 +592,7 @@ magnetometer
 
 migrate
 > v. 이주하다, 옮기다, 변경하다
-
+# test
 trickle
 > v. 조금씩 흐르다
 
@@ -1959,4 +1941,31 @@ compensation
 
 orbit
 > n. 궤도
+
+concatenation
+> n. 연쇄, 연속
+
+unless
+> conj. 그렇지 않으면
+
+would like
+> pv. -하고 싶다
+
+messenger
+> n. 전달자, 전령, 배달부, 메시지 전송 프로그램
+
+each
+> adj. -마다, 각자
+
+expand
+> v. 넓히다, 확장하다
+
+nongrantor
+> n. 비수여자
+
+indebtedness
+> n. 부채
+
+earning
+> n. 수입
 

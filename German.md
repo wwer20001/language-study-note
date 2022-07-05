@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-mutter
-> n. 어머니
-
-Auf Wiedersehen
-> g. 다음에 다시 봐요
-
-du
-> n. you, 당신, 너
-
 frau
 > n. 부인, 아내
 
@@ -65,7 +56,7 @@ Ich bin -
 
 und
 > conj. 그리고
-# test
+
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -95,7 +86,7 @@ wasser
 
 tee
 > n. 차
-
+# test
 brot
 > n. 빵
 
@@ -153,3 +144,13 @@ mann
 
 danke schön
 > g. 감사합니다
+
+mutter
+> n. 어머니
+
+Auf Wiedersehen
+> g. 다음에 다시 봐요
+
+du
+> n. you, 당신, 너
+

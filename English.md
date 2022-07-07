@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-notice
-> n. 주의, 통지, 고지
-
-expose
-> v. 노출하다, 드러내다
-
-troubleshoot
-> n. 문제 해결
-
 accomplishment
 > n. 성취
 
@@ -592,12 +583,9 @@ magnetometer
 
 migrate
 > v. 이주하다, 옮기다, 변경하다
-# test
+
 trickle
 > v. 조금씩 흐르다
-
-no matter where
-> adv. 어디에 있든지
 
 regardless
 > adv. 상관없이, 비용에 구애되지 않고   
@@ -605,9 +593,6 @@ regardless
 
 entire
 > adj. 완전한, 전체의
-
-come out
-> pv. 나오다, 나타내다
 
 figure
 > n. 표상  
@@ -624,7 +609,7 @@ casualties
 
 appointment
 > n. 약속
-
+# test
 unresolved
 > adj. 해결되지 않은
 
@@ -1755,9 +1740,6 @@ exemption
 allowance
 > n. 수당
 
-escrow
-> n. 조건부 날인 증서
-
 consistency
 > n. 일관성
 
@@ -1968,4 +1950,37 @@ indebtedness
 
 earning
 > n. 수입
+
+attempt
+> n. 시도
+
+exact
+> adj. 정확한
+
+perpendicular
+> n. 수직
+
+no matter where
+> adv. 어디에 있든지
+
+come out
+> pv. 나오다, 나타내다
+
+notice
+> n. 주의, 통지, 고지
+
+expose
+> v. 노출하다, 드러내다
+
+troubleshoot
+> n. 문제 해결
+
+procurement
+> n. 획득, 매상
+
+escrow
+> n. 조건부 날인 증서
+
+insurance
+> n. 보험
 

@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-frau
-> n. 부인, 아내
-
-sohn
-> n. 아들
-
-tochter
-> n. 딸
-
 vater
 > n. 아버지
 
@@ -86,7 +77,7 @@ wasser
 
 tee
 > n. 차
-# test
+
 brot
 > n. 빵
 
@@ -117,7 +108,7 @@ oder
 
 tschüss
 > n. 안녕, bye
-
+# test
 ja
 > n. 긍정, yes
 
@@ -153,4 +144,13 @@ Auf Wiedersehen
 
 du
 > n. you, 당신, 너
+
+frau
+> n. 부인, 아내
+
+sohn
+> n. 아들
+
+tochter
+> n. 딸
 

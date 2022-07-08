@@ -151,3 +151,25 @@ ich
 und
 > conj. 그리고
 
+# 2
+sein(seine)
+> n. his, 그의
+
+flughafen
+> n. 공항
+
+wo
+> n. where, 어디
+
+läuft
+> v. 달리다
+
+nicht
+> adv. not, 아닌
+
+Jacke
+> n. 자켓, 외투
+
+sind
+> v. are
+

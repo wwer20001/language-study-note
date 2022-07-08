@@ -36,18 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-vater
-> n. 아버지
-
-ich
-> n. 나
-
-Ich bin - 
-> g. 나는 -이다
-
-und
-> conj. 그리고
-
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -108,7 +96,7 @@ oder
 
 tschüss
 > n. 안녕, bye
-# test
+
 ja
 > n. 긍정, yes
 
@@ -138,7 +126,7 @@ danke schön
 
 mutter
 > n. 어머니
-
+# test
 Auf Wiedersehen
 > g. 다음에 다시 봐요
 
@@ -153,4 +141,13 @@ sohn
 
 tochter
 > n. 딸
+
+vater
+> n. 아버지
+
+ich
+> n. 나
+
+und
+> conj. 그리고
 

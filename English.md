@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-accomplishment
-> n. 성취
-
-brief
-> adj. 간결한
-
-convey
-> v. 나르다, 전달하다
-
 unstable
 > adj. 불안정한
 
@@ -609,7 +600,7 @@ casualties
 
 appointment
 > n. 약속
-# test
+
 unresolved
 > adj. 해결되지 않은
 
@@ -639,7 +630,7 @@ durable
 
 preparation
 > n. 준비
-
+# test
 ideal
 > n. 이상   
 > adj. 이상의, 관념적인
@@ -1734,9 +1725,6 @@ softness
 edge
 > n. 가장자리, 끝, 경계
 
-exemption
-> n. 면제
-
 allowance
 > n. 수당
 
@@ -1983,4 +1971,25 @@ escrow
 
 insurance
 > n. 보험
+
+accomplishment
+> n. 성취
+
+brief
+> adj. 간결한
+
+convey
+> v. 나르다, 전달하다
+
+exemption
+> n. 면제
+
+authority
+> n. 권한
+
+treaty
+> n. 조약, 약정
+
+exponential
+> adj. 지수의
 

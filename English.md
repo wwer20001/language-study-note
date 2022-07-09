@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-unstable
-> adj. 불안정한
-
-anywhere
-> pron. 어딘가   
-> adv. 어딘가에, 어디든지
-
-have been +pp
-> g. -되어 있다
-
 also
 > adv. 또한
 
@@ -630,7 +620,7 @@ durable
 
 preparation
 > n. 준비
-# test
+
 ideal
 > n. 이상   
 > adj. 이상의, 관념적인
@@ -644,14 +634,8 @@ furthermore
 refuse
 > v. 거부하다, 거절하다
 
-specify
-> v. 지정하다
-
 breakdown
 > n. 고장, 분석, 결렬
-
-presentation
-> n. 소개, 제출, 표시, 연출
 
 production
 > n. 생산, 제품, 연출
@@ -661,7 +645,7 @@ helpful
 
 empower
 > v. -에게 권한을 부여하다, -할 수 있게 하다
-
+# test
 verify
 > v. 검증하다, 확인하다
 
@@ -798,9 +782,6 @@ at the same time
 which
 > pron. 어느   
 > pron. 명사를 수식하는 형용사절을 이끌어 정확히 어떠한 것(들)을 말하는지를 나타낼 때
-
-represent
-> v. 표현하다, 나타내다
 
 provisional
 > adj. 일시적인
@@ -1049,9 +1030,6 @@ turn off
 
 declare
 > v. 알리다, 선언하다
-
-treat
-> v. 대하다, 대접하다, 치료하다, 취급하다
 
 chapter
 > n. 장, 챕터
@@ -1992,4 +1970,29 @@ treaty
 
 exponential
 > adj. 지수의
+
+specify
+> v. 지정하다
+
+presentation
+> n. 소개, 제출, 표시, 연출
+
+unstable
+> adj. 불안정한
+
+anywhere
+> pron. 어딘가   
+> adv. 어딘가에, 어디든지
+
+have been +pp
+> g. -되어 있다
+
+assume
+> v. 추정하다
+
+treat
+> v. 대하다, 대접하다, 치료하다, 취급하다
+
+represent
+> v. 표현하다, 나타내다
 

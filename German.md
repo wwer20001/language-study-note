@@ -36,18 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-ein(eine)
-> art. 영어에서 a와 비슷한 용도로 사용
-
-du bist
-> g. 당신은
-
-nett
-> adj. 친절한
-
-sehr
-> adv. 아주, 매우
-
 klug
 > adj. 똑똑한
 
@@ -172,4 +160,64 @@ Jacke
 
 sind
 > v. are
+
+ein(eine)
+> art. 영어에서 a와 비슷한 용도로 사용
+
+nett
+> adj. 친절한
+
+sehr
+> adv. 아주, 매우
+
+Arzt
+> n. 의사
+
+im
+> prep. -에서
+
+Supermarkt
+> n. 슈퍼 마켓
+
+kommt
+> v. 오다
+
+zu
+> adv. to, 에게
+
+Entschuldigung
+> n. 실례합니다.
+
+Sie
+> n. 당신
+
+Was
+> n. what, 무엇
+
+gut
+> adj. 잘, 잘된
+
+reich
+> adj. 부유한
+
+Hemd
+> n. 셔츠
+
+teuer
+> adj. 비싼
+
+aber
+> conj. but, 그러나
+
+braucht
+> v. 필요하다
+
+jetzt
+> adv. 지금
+
+krank
+> v. 아프다
+
+sieht
+> v. 보다
 

@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-also
-> adv. 또한
-
-subtitle
-> n. 자막
-
-overkill
-> n. 지나침, 필요한 양을 초과함
-
 probably
 > adv. 아마
 
@@ -645,7 +636,7 @@ helpful
 
 empower
 > v. -에게 권한을 부여하다, -할 수 있게 하다
-# test
+
 verify
 > v. 검증하다, 확인하다
 
@@ -667,15 +658,12 @@ discussion
 improvement
 > n. 개량
 
-drift
-> n. 한 장소에서 다른 장소로 지속적인 느린 움직임, 표류
-
 accumulate
 > v. 모으다, 축적하다
 
 reiterate
 > v. 반복하다
-
+# test
 constraint
 > n. 강제, 제약
 
@@ -698,7 +686,7 @@ where were we?
 > st. 어디까지 말했죠?
 
 point A to B
-> pv. A에게 B를 가리켜주다. A에게 B를 알려주다.
+> pv. B에게 A를 가리켜주다. B에게 A를 알려주다.
 
 sometimes
 > adv. 때때로, 경우에 따라
@@ -1995,4 +1983,31 @@ treat
 
 represent
 > v. 표현하다, 나타내다
+
+drift
+> n. 한 장소에서 다른 장소로 지속적인 느린 움직임, 표류
+
+also
+> adv. 또한
+
+subtitle
+> n. 자막
+
+overkill
+> n. 지나침, 필요한 양을 초과함
+
+payee
+> n. 수취인
+
+grandfathered
+> adj. 예외를 적용받는
+
+participate
+> v. 참가하다
+
+deem
+> v. 간주하다
+
+deemed-compliant
+> adj. 준수하는 것으로 간주되는
 

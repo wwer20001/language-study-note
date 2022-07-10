@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-klug
-> adj. 똑똑한
-
-bin-bist-ist
-> v. am-are-is
-
-groß
-> adj. 큰
-
 hallo
 > n. hello, 인사말
 
@@ -66,7 +57,7 @@ danke
 Deutsch
 > adj. 독일의, 독일에 관한
 > n. 독일어
-
+# test
 lernen
 > v. 배우다, 기술을 습득하다
 
@@ -112,9 +103,6 @@ mann
 danke schön
 > g. 감사합니다
 
-mutter
-> n. 어머니
-# test
 Auf Wiedersehen
 > g. 다음에 다시 봐요
 
@@ -206,12 +194,6 @@ Hemd
 teuer
 > adj. 비싼
 
-aber
-> conj. but, 그러나
-
-braucht
-> v. 필요하다
-
 jetzt
 > adv. 지금
 
@@ -220,4 +202,112 @@ krank
 
 sieht
 > v. 보다
+
+klug
+> adj. 똑똑한
+
+bin-bist-ist
+> v. am-are-is
+
+groß
+> adj. 큰
+
+anfangen
+> v. 시작하다
+
+Ball
+> n. 공
+
+denken
+> v. 생각하다
+
+finden
+> v. 찾다
+
+oft
+> adv. 종종, 자주
+
+Onkel
+> n. 삼촌
+
+Mutter
+> n. 어머니
+
+unter
+> adv. -아래에
+
+Hände
+> n. 손
+
+Gärten
+> n. 정원(복수형)
+
+können
+> v. 할 수 있다
+
+öffnen
+> v. 열다
+
+dünn
+> adj. 얇은, 마른
+
+müssen
+> v. -해야 한다
+
+aber
+> conj. but, 그러나
+
+neue
+> adj. 새로운
+
+Kaufhaus
+> n. 백화점
+
+arbeiten
+> v. 일하다
+
+hier
+> adv. 여기
+
+brauchen
+> v. 필요하다
+
+Hilfe
+> n. 도움
+
+mögen
+> v. 좋아하다
+
+schwarze
+> n. 검은색
+
+schön
+> adj. 아름다운
+
+billig
+> adj. 값이 싼
+
+rote
+> n. 빨간색
+
+warm [wárm]
+> adj. 따뜻한
+
+für [fyːɐ̯]
+> prep. for, -을 위해
+
+wunderbar [wúnderbar]
+> adj. 아주 멋진
+
+nehmen [néhmen]
+> v. 가져가다
+
+machen [máchen]
+> v. 만들다
+
+Kasse [Kásse]
+> n. 현금, 캐셔
+
+super [súper]
+> adj. 엄청난, 훌륭한
 

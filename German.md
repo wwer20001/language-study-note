@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-hallo
-> n. hello, 인사말
-
-wasser
-> n. 물
-
-tee
-> n. 차
-
 brot
 > n. 빵
 
@@ -57,7 +48,7 @@ danke
 Deutsch
 > adj. 독일의, 독일에 관한
 > n. 독일어
-# test
+
 lernen
 > v. 배우다, 기술을 습득하다
 
@@ -87,7 +78,7 @@ milch
 
 kaffee
 > n. 커피
-
+# test
 mein(meine)
 > n. my, 나의
 
@@ -310,4 +301,13 @@ Kasse [Kásse]
 
 super [súper]
 > adj. 엄청난, 훌륭한
+
+Hallo [ha·loo]
+> n. hello, 인사말
+
+Wasser [wa·ser]
+> n. 물
+
+Tee [tee]
+> n. 차
 

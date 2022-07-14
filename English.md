@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-probably
-> adv. 아마
-
-variable 
-> adj. 변하기 쉬운   
-> n. 변수   
-
-related
-> adj. 관계있는
-
 instantaneously
 > adv. 순간적으로
 
@@ -663,7 +653,7 @@ accumulate
 
 reiterate
 > v. 반복하다
-# test
+
 constraint
 > n. 강제, 제약
 
@@ -693,7 +683,7 @@ sometimes
 
 capacity
 > n. 수용력, 생산 능력, 볼륨
-
+# test
 hence
 > adv. 이러한 이유로, ~이므로
 
@@ -2010,4 +2000,23 @@ deem
 
 deemed-compliant
 > adj. 준수하는 것으로 간주되는
+
+probably
+> adv. 아마
+
+variable 
+> adj. 변하기 쉬운   
+> n. 변수   
+
+related
+> adj. 관계있는
+
+dormant
+> adj. 잠자는, 휴지상태에 있는
+
+territory
+> n. 영토
+
+presumption
+> n. 가정
 

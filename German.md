@@ -311,3 +311,6 @@ Wasser [wa·ser]
 Tee [tee]
 > n. 차
 
+Schüler [schüh·ler]
+> n. 학생
+

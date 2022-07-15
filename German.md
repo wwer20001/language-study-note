@@ -302,6 +302,7 @@ Wasser [vásǝr]
 Tee [te:]
 > n. 차
 
+<<<<<<< HEAD
 Brot [bro:t]
 > n. 빵
 
@@ -310,4 +311,8 @@ Wein [vaɪn]
 
 danke [dáŋkǝ]
 > n. thanks, 고맙다
+=======
+Schüler [schüh·ler]
+> n. 학생
+>>>>>>> 51577c9bc81536e9a8542cef9cfc81567eed3b66
 

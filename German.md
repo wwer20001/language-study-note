@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-brot
-> n. 빵
-
-wein
-> n. 와인
-
-danke
-> n. thanks, 고맙다
-
 Deutsch
 > adj. 독일의, 독일에 관한
 > n. 독일어
@@ -78,7 +69,7 @@ milch
 
 kaffee
 > n. 커피
-# test
+
 mein(meine)
 > n. my, 나의
 
@@ -108,7 +99,7 @@ sohn
 
 tochter
 > n. 딸
-
+# test
 vater
 > n. 아버지
 
@@ -299,15 +290,24 @@ machen [máchen]
 Kasse [Kásse]
 > n. 현금, 캐셔
 
-super [súper]
+super [ˈzuːpɐ]
 > adj. 엄청난, 훌륭한
 
-Hallo [ha·loo]
+Hallo [haló]
 > n. hello, 인사말
 
-Wasser [wa·ser]
+Wasser [vásǝr]
 > n. 물
 
-Tee [tee]
+Tee [te:]
 > n. 차
+
+Brot [bro:t]
+> n. 빵
+
+Wein [vaɪn]
+> n. 와인
+
+danke [dáŋkǝ]
+> n. thanks, 고맙다
 

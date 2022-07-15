@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-instantaneously
-> adv. 순간적으로
-
-dependent
-> adj. 매달린, 종속된
-
-reject
-> v. 받지 않다, 거절하다
-
 recognize
 > v. 인식하다, 인정하다
 
@@ -683,7 +674,7 @@ sometimes
 
 capacity
 > n. 수용력, 생산 능력, 볼륨
-# test
+
 hence
 > adv. 이러한 이유로, ~이므로
 
@@ -696,12 +687,6 @@ compilation
 ensure
 > v. 보장하다, 안전하게 하다, 확인하다
 
-like above
-> adv. 위와 같이, 위와 같은
-
-normally
-> adb. 정상적으로
-
 # 16
 predefine
 > n. 사전 정의
@@ -711,10 +696,7 @@ split
 
 versus
 > prep. -과 비교하여
-
-occupy
-> v. 점거하다, 차지하다
-
+# test
 spatial
 > n. (관련되거나 점유한)공간
 
@@ -1859,12 +1841,6 @@ eligible
 deferred
 > adj. 연기된
 
-compensation
-> n. 보상
-
-compensation
-> n. 보상
-
 orbit
 > n. 궤도
 
@@ -2020,3 +1996,29 @@ territory
 presumption
 > n. 가정
 
+like above
+> adv. 위와 같이, 위와 같은
+
+normally
+> adv. 정상적으로
+
+occupy
+> v. 점거하다, 차지하다
+
+instantaneously
+> adv. 순간적으로
+
+dependent
+> adj. 매달린, 종속된
+
+reject
+> v. 받지 않다, 거절하다
+
+compensation
+> n. 보상
+
+occupation
+> n. 직업
+
+attributable
+> adj. -가 원인인, -에 기인하는

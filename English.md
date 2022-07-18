@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 11
-recognize
-> v. 인식하다, 인정하다
-
-bring up
-> pv. 가져오다, 불러오다
-
-purpose
-> n. 목적, 용도
-
 primary
 > adj. 1순위의, 최우선의
 
@@ -703,14 +694,8 @@ spatial
 instead
 > adv. 대신에
 
-enhance
-> v. (지위, 수준, 가치 등을) 높이다
-
 more tightly
 > adv. 더 단단히
-
-appropriate
-> adj. 적당한, 특유한, 적절한
 
 should
 > av. -해야한다, -할 것이다, -하지 않으면 안된다
@@ -818,9 +803,6 @@ determine
 
 whether
 > conj. -인지 어떤지, -이든지 아니든지, -하는지에 대한 여부
-
-further
-> adv. 게다가, 더욱이
 
 pit
 > n. 함정, 지옥, 구덩이
@@ -1731,9 +1713,6 @@ limitation
 flow-through
 > n. 통과
 
-explanation
-> n. 설명
-
 qualified
 > adj. 인증된
 
@@ -1804,9 +1783,6 @@ below
 
 notional
 > adj. 명목상의, 개념적인
-
-principle
-> n. 원금
 
 uncertainty
 > n. 불확실성
@@ -2022,3 +1998,31 @@ occupation
 
 attributable
 > adj. -가 원인인, -에 기인하는
+
+enhance
+> v. (지위, 수준, 가치 등을) 높이다
+
+appropriate
+> adj. 적당한, 특유한, 적절한
+
+recognize
+> v. 인식하다, 인정하다
+
+bring up
+> pv. 가져오다, 불러오다
+
+purpose
+> n. 목적, 용도
+
+principle
+> n. 원금
+
+escrowed
+> n. 위탁
+
+further
+> adv. 게다가, 더욱이
+
+explanation
+> n. 설명
+

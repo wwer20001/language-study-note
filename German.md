@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-Deutsch
-> adj. 독일의, 독일에 관한
-> n. 독일어
-
-lernen
-> v. 배우다, 기술을 습득하다
-
-beginnen
-> v. 시작하다
-
 bier
 > n. 맥주
 
@@ -99,7 +89,7 @@ sohn
 
 tochter
 > n. 딸
-# test
+
 vater
 > n. 아버지
 
@@ -110,14 +100,8 @@ und
 > conj. 그리고
 
 # 2
-sein(seine)
-> n. his, 그의
-
 flughafen
 > n. 공항
-
-wo
-> n. where, 어디
 
 läuft
 > v. 달리다
@@ -130,7 +114,7 @@ Jacke
 
 sind
 > v. are
-
+# test
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -314,4 +298,19 @@ Wein [vaɪn]
 danke [dáŋkǝ]
 > n. thanks, 고맙다
 
+Sein(Seine) [zaɪn]
+> n. his, 그의
+
+Wo [vo:]
+> n. where, 어디
+
+Deutsch [dɔʏtʃ]
+> adj. 독일의, 독일에 관한
+> n. 독일어
+
+lernen [lέrnǝn]
+> v. 배우다, 기술을 습득하다
+
+beginnen [bǝɡɪ́nǝn]
+> v. 시작하다
 

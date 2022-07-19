@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-bier
-> n. 맥주
-
-nein
-> n. 부정, no
-
-oder
-> conj. 혹은
-
 tschüss
 > n. 안녕, bye
 
@@ -114,7 +105,7 @@ Jacke
 
 sind
 > v. are
-# test
+
 ein(eine)
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -140,11 +131,11 @@ zu
 > adv. to, 에게
 
 Entschuldigung
-> n. 실례합니다.
+> n. 실례합니다
 
 Sie
 > n. 당신
-
+# test
 Was
 > n. what, 무엇
 
@@ -313,4 +304,13 @@ lernen [lέrnǝn]
 
 beginnen [bǝɡɪ́nǝn]
 > v. 시작하다
+
+Bier [bi:r]
+> n. 맥주
+
+nein [naɪn]
+> adv. 아니, 아니오, 부정
+
+oder [ó:dǝr]
+> conj. 또는, 혹은
 

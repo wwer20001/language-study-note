@@ -35,16 +35,6 @@ idiom. 관용어구 idiom
 
 pat. 회화패턴 pattern
 
-# 11
-primary
-> adj. 1순위의, 최우선의
-
-check whether
-> pv. 여부를 확인하다
-
-implicit
-> adj. 절대적인, 암시적인
-
 # 12
 occur
 > v. 나오다, 일어나다, 마음에 떠오르다
@@ -687,7 +677,7 @@ split
 
 versus
 > prep. -과 비교하여
-# test
+
 spatial
 > n. (관련되거나 점유한)공간
 
@@ -711,7 +701,7 @@ in time
 
 in place
 > prep ph. 제자리에, 적소에
-
+# test
 sparse
 > adj. 희박한, 부족한
 
@@ -1682,9 +1672,6 @@ temporarily
 subsequent
 > adj. 후속, 뒤따라오는
 
-pursuant to
-> prep. -에 따라서
-
 pro-rata
 > adj. 비례한
 
@@ -1963,9 +1950,6 @@ variable
 related
 > adj. 관계있는
 
-dormant
-> adj. 잠자는, 휴지상태에 있는
-
 territory
 > n. 영토
 
@@ -2025,4 +2009,22 @@ further
 
 explanation
 > n. 설명
+
+primary
+> adj. 1순위의, 최우선의
+
+check whether
+> pv. 여부를 확인하다
+
+implicit
+> adj. 절대적인, 암시적인
+
+nonconcenting
+> adj. 동의하지 않는
+
+dormant
+> adj. 잠자는, 휴지상태에 있는
+
+pursuant to
+> prep. -에 따라서
 

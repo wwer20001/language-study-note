@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-tschüss
-> n. 안녕, bye
-
-ja
-> n. 긍정, yes
-
-bitte
-> n. please, 정중한 요청
-
 milch
 > n. 우유
 
@@ -135,7 +126,7 @@ Entschuldigung
 
 Sie
 > n. 당신
-# test
+
 Was
 > n. what, 무엇
 
@@ -151,9 +142,6 @@ Hemd
 teuer
 > adj. 비싼
 
-jetzt
-> adv. 지금
-
 krank
 > v. 아프다
 
@@ -165,7 +153,7 @@ klug
 
 bin-bist-ist
 > v. am-are-is
-
+# test
 groß
 > adj. 큰
 
@@ -313,4 +301,16 @@ nein [naɪn]
 
 oder [ó:dǝr]
 > conj. 또는, 혹은
+
+jetzt [jεtst]
+> adv. 지금
+
+tschüss [tʃʏs]
+> n. bye, 안녕
+
+ja [ja:]
+> adv. yes, 예, 응, 그래
+
+bitte [ˈbɪtə]
+> adv. please, 정중한 요청
 

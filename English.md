@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-occur
-> v. 나오다, 일어나다, 마음에 떠오르다
-
-in any case
-> adv. 어쨌든, 어떠한 경우에든
-
-manually
-> adv. 수동으로
-
 reasonable
 > adj. 합리적인
 
@@ -701,15 +692,9 @@ in time
 
 in place
 > prep ph. 제자리에, 적소에
-# test
-sparse
-> adj. 희박한, 부족한
 
 convenience
 > n. 편의
-
-dense
-> adj. 밀집한
 
 at the same time
 > adv. 동시에
@@ -727,13 +712,10 @@ existence
 inertial
 > n. 관성
 
-odometer
-> n. 주행거리계
-
 dread
 > n. 공포, 무서운 것 또는 사람   
 > adj. 무서운, 끔찍한
-
+# test
 illness
 > n. 병고
 
@@ -1557,9 +1539,6 @@ wear
 subject
 > n. 대상
 
-amend
-> v. 개정하다
-
 have to
 > av. 해야한다(must)
 
@@ -1635,9 +1614,6 @@ softness
 edge
 > n. 가장자리, 끝, 경계
 
-allowance
-> n. 수당
-
 consistency
 > n. 일관성
 
@@ -1671,9 +1647,6 @@ temporarily
 
 subsequent
 > adj. 후속, 뒤따라오는
-
-pro-rata
-> adj. 비례한
 
 vastly
 > adv. 엄청나게
@@ -2027,4 +2000,31 @@ dormant
 
 pursuant to
 > prep. -에 따라서
+
+sparse
+> adj. 희박한, 부족한
+
+dense
+> adj. 밀집한
+
+odometer
+> n. 주행거리계
+
+occur
+> v. 나오다, 일어나다, 마음에 떠오르다
+
+in any case
+> adv. 어쨌든, 어떠한 경우에든
+
+manually
+> adv. 수동으로
+
+amend
+> v. 개정하다
+
+allowance
+> n. 수당
+
+pro-rata
+> adj. 비례한
 

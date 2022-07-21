@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-milch
-> n. 우유
-
-kaffee
-> n. 커피
-
-mein(meine)
-> n. my, 나의
-
 schwester
 > n. 자매
 
@@ -153,7 +144,7 @@ klug
 
 bin-bist-ist
 > v. am-are-is
-# test
+
 groß
 > adj. 큰
 
@@ -183,7 +174,7 @@ unter
 
 Hände
 > n. 손
-
+# test
 Gärten
 > n. 정원(복수형)
 
@@ -313,4 +304,13 @@ ja [ja:]
 
 bitte [ˈbɪtə]
 > adv. please, 정중한 요청
+
+Milch [mɪlç]
+> n. 우유
+
+Kaffee [káfe]
+> n. 커피
+
+mein(meine) [maɪn]
+> n. my, 나의
 

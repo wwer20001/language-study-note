@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-reasonable
-> adj. 합리적인
-
-familiar
-> adj. 익숙한, 친한
-
-necessary
-> n. 필요한 행동 혹은 물건  
-> adj. 필요한, 필연적인
-
 adjust
 > v. 맞추다, 조정하다, 조절하다
 
@@ -715,7 +705,7 @@ inertial
 dread
 > n. 공포, 무서운 것 또는 사람   
 > adj. 무서운, 끔찍한
-# test
+
 illness
 > n. 병고
 
@@ -728,24 +718,15 @@ differ
 fusion
 > n. 퓨전, 용해, 융합
 
-fallback
-> n. 비상시에 사용할 수 있는 대체 계획
-
 metric
 > adj. 미터법의
 
 convention
 > n. 규칙, 협약, 관례, 관습, 집회
 
-correspondence
-> n. 밀접한 유사성, 연결 또는 동등성
-
-simultaneous
-> adj. 동시에 발생, 작동 또는 수행되는
-
 localization
 > n. 어떤 것을 성격상 지역적으로 만들거나 특정 장소로 제한하는 과정
-
+# test
 salient
 > adj. 가장 눈에 띄거나 중요한
 
@@ -2027,4 +2008,38 @@ allowance
 
 pro-rata
 > adj. 비례한
+
+fallback
+> n. 비상시에 사용할 수 있는 대체 계획
+
+correspondence
+> n. 밀접한 유사성, 연결 또는 동등성
+
+simultaneous
+> adj. 동시에 발생, 작동 또는 수행되는
+
+fiduciary
+> n. 수탁자
+
+conduct
+> n. 행위, 경영
+
+engaged
+> adj. 약속된
+
+liability
+> n. 책임
+
+satisfied
+> adj. 만족하는
+
+reasonable
+> adj. 합리적인
+
+familiar
+> adj. 익숙한, 친한
+
+necessary
+> n. 필요한 행동 혹은 물건  
+> adj. 필요한, 필연적인
 

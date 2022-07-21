@@ -1595,9 +1595,6 @@ softness
 edge
 > n. 가장자리, 끝, 경계
 
-consistency
-> n. 일관성
-
 although
 > conj. 비록 -일지라도, -이기는 하지만
 
@@ -2042,4 +2039,7 @@ familiar
 necessary
 > n. 필요한 행동 혹은 물건  
 > adj. 필요한, 필연적인
+
+consistency
+> n. 일관성
 
